@@ -1,0 +1,3008 @@
+[
+  {
+    "mfgpn": "LEN-0B47069",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "4883459"
+  },
+  {
+    "mfgpn": "LEN-0B46994",
+    "brand": "lenovo commercial",
+    "stock": 23,
+    "sku": "4898602"
+  },
+  {
+    "mfgpn": "LEN-0A36258",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "5124092"
+  },
+  {
+    "mfgpn": "LEN-0B47089",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "5148307"
+  },
+  {
+    "mfgpn": "LEN-4XB0F18667",
+    "brand": "lenovo commercial",
+    "stock": 70,
+    "sku": "5311609"
+  },
+  {
+    "mfgpn": "LEN-46C3447",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "5350505"
+  },
+  {
+    "mfgpn": "LEN-4XF0K29048",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "5495402"
+  },
+  {
+    "mfgpn": "LEN-4XD0K25030",
+    "brand": "lenovo commercial",
+    "stock": 132,
+    "sku": "5531954"
+  },
+  {
+    "mfgpn": "LEN-4X40K09936",
+    "brand": "lenovo commercial",
+    "stock": 85,
+    "sku": "5537264"
+  },
+  {
+    "mfgpn": "LEN-4X30H56841",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "5704219"
+  },
+  {
+    "mfgpn": "LEN-4X30H56796",
+    "brand": "lenovo commercial",
+    "stock": 377,
+    "sku": "5722831"
+  },
+  {
+    "mfgpn": "LEN-4X20M26268",
+    "brand": "lenovo commercial",
+    "stock": 665,
+    "sku": "5778075"
+  },
+  {
+    "mfgpn": "LEN-4X30M86879",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "5778079"
+  },
+  {
+    "mfgpn": "LEN-4X30H56808",
+    "brand": "lenovo commercial",
+    "stock": 138,
+    "sku": "5797828"
+  },
+  {
+    "mfgpn": "LEN-4XF0N03161",
+    "brand": "lenovo commercial",
+    "stock": 62,
+    "sku": "5801486"
+  },
+  {
+    "mfgpn": "LEN-4XH0N23158",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "5801489"
+  },
+  {
+    "mfgpn": "LEN-4X30M56887",
+    "brand": "lenovo commercial",
+    "stock": 715,
+    "sku": "5804503"
+  },
+  {
+    "mfgpn": "LEN-4XH0N04098",
+    "brand": "lenovo commercial",
+    "stock": 47,
+    "sku": "5916640"
+  },
+  {
+    "mfgpn": "LEN-4X30M86892",
+    "brand": "lenovo commercial",
+    "stock": 88,
+    "sku": "5921786"
+  },
+  {
+    "mfgpn": "LEN-4X40N18009",
+    "brand": "lenovo commercial",
+    "stock": 34,
+    "sku": "5934080"
+  },
+  {
+    "mfgpn": "LEN-4X40N18010",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "5934081"
+  },
+  {
+    "mfgpn": "LEN-7ZT7A00496",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "5965841"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00053",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "5965924"
+  },
+  {
+    "mfgpn": "LEN-7ZT7A00537",
+    "brand": "lenovo global technology",
+    "stock": 5,
+    "sku": "5965982"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00027",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "5965988"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00045",
+    "brand": "lenovo global technology",
+    "stock": 5,
+    "sku": "5998594"
+  },
+  {
+    "mfgpn": "LEN-4X30L79896",
+    "brand": "lenovo commercial",
+    "stock": 304,
+    "sku": "6039154"
+  },
+  {
+    "mfgpn": "LEN-40AF0135US",
+    "brand": "lenovo commercial",
+    "stock": 150,
+    "sku": "6048036"
+  },
+  {
+    "mfgpn": "LEN-4X90Q59481",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "6053676"
+  },
+  {
+    "mfgpn": "LEN-4X90Q59480",
+    "brand": "lenovo commercial",
+    "stock": 25,
+    "sku": "6053677"
+  },
+  {
+    "mfgpn": "LEN-4X90Q84427",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6053678"
+  },
+  {
+    "mfgpn": "LEN-4X90Q93303",
+    "brand": "lenovo commercial",
+    "stock": 160,
+    "sku": "6091064"
+  },
+  {
+    "mfgpn": "LEN-4Y50R20863",
+    "brand": "lenovo commercial",
+    "stock": 1011,
+    "sku": "6185289"
+  },
+  {
+    "mfgpn": "LEN-4Y50R20864",
+    "brand": "lenovo commercial",
+    "stock": 555,
+    "sku": "6205573"
+  },
+  {
+    "mfgpn": "LEN-4X90S91831",
+    "brand": "lenovo commercial",
+    "stock": 19,
+    "sku": "6254246"
+  },
+  {
+    "mfgpn": "LEN-4XH0R55468",
+    "brand": "lenovo commercial",
+    "stock": 7,
+    "sku": "6254788"
+  },
+  {
+    "mfgpn": "LEN-4ZC7A08696",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "6260471"
+  },
+  {
+    "mfgpn": "LEN-4X90S91830",
+    "brand": "lenovo commercial",
+    "stock": 16,
+    "sku": "6321513"
+  },
+  {
+    "mfgpn": "LEN-4X90R61023",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "6322839"
+  },
+  {
+    "mfgpn": "LEN-4X20Q88539",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6334227"
+  },
+  {
+    "mfgpn": "LEN-4X90R61022",
+    "brand": "lenovo commercial",
+    "stock": 31,
+    "sku": "6337355"
+  },
+  {
+    "mfgpn": "LEN-4X90Q93976",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "6360250"
+  },
+  {
+    "mfgpn": "LEN-4X90U90618",
+    "brand": "lenovo commercial",
+    "stock": 16,
+    "sku": "6388482"
+  },
+  {
+    "mfgpn": "LEN-4X90U90619",
+    "brand": "lenovo commercial",
+    "stock": 185,
+    "sku": "6388484"
+  },
+  {
+    "mfgpn": "LEN-4X20S56697",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "6542705"
+  },
+  {
+    "mfgpn": "LEN-4X20S56713",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "6542706"
+  },
+  {
+    "mfgpn": "LEN-4X40Y95215",
+    "brand": "lenovo commercial",
+    "stock": 42,
+    "sku": "6566966"
+  },
+  {
+    "mfgpn": "LEN-4Y40X49498",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6567012"
+  },
+  {
+    "mfgpn": "LEN-4M17A11755",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "6570293"
+  },
+  {
+    "mfgpn": "LEN-4XD0X88524",
+    "brand": "lenovo commercial",
+    "stock": 7,
+    "sku": "6581161"
+  },
+  {
+    "mfgpn": "LEN-11GDPAR1US",
+    "brand": "lenovo commercial",
+    "stock": 13,
+    "sku": "6606469"
+  },
+  {
+    "mfgpn": "LEN-4XC1B34802",
+    "brand": "lenovo commercial",
+    "stock": 648,
+    "sku": "6659760"
+  },
+  {
+    "mfgpn": "LEN-40AWGC65WW",
+    "brand": "lenovo commercial",
+    "stock": 8,
+    "sku": "6664244"
+  },
+  {
+    "mfgpn": "LEN-4X71B67860",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "6671507"
+  },
+  {
+    "mfgpn": "LEN-4X41A30364",
+    "brand": "lenovo commercial",
+    "stock": 166,
+    "sku": "6684150"
+  },
+  {
+    "mfgpn": "LEN-4X41A30365",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "6684151"
+  },
+  {
+    "mfgpn": "LEN-4XF1C39743",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "6692717"
+  },
+  {
+    "mfgpn": "LEN-4X91C47404",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "6696842"
+  },
+  {
+    "mfgpn": "LEN-4X40Y95214",
+    "brand": "lenovo commercial",
+    "stock": 788,
+    "sku": "6698133"
+  },
+  {
+    "mfgpn": "LEN-4XF1A40559",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "6698660"
+  },
+  {
+    "mfgpn": "LEN-4Y41C68642",
+    "brand": "lenovo commercial",
+    "stock": 11,
+    "sku": "6709469"
+  },
+  {
+    "mfgpn": "LEN-4Y41C68655",
+    "brand": "lenovo commercial",
+    "stock": 104,
+    "sku": "6709471"
+  },
+  {
+    "mfgpn": "LEN-4Y51C68693",
+    "brand": "lenovo commercial",
+    "stock": 9,
+    "sku": "6709473"
+  },
+  {
+    "mfgpn": "LEN-4X97A59853",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6713630"
+  },
+  {
+    "mfgpn": "LEN-4Z57A16099",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6741016"
+  },
+  {
+    "mfgpn": "LEN-4M27A60835",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6741023"
+  },
+  {
+    "mfgpn": "LEN-4M27A60832",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "6741025"
+  },
+  {
+    "mfgpn": "LEN-11RTZ9C8US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6759704"
+  },
+  {
+    "mfgpn": "LEN-62CAUAR1US",
+    "brand": "lenovo commercial",
+    "stock": 206,
+    "sku": "6764024"
+  },
+  {
+    "mfgpn": "LEN-40AY0090US",
+    "brand": "lenovo commercial",
+    "stock": 1283,
+    "sku": "6772522"
+  },
+  {
+    "mfgpn": "LEN-40ALLG2WWW",
+    "brand": "lenovo commercial",
+    "stock": 22,
+    "sku": "6773808"
+  },
+  {
+    "mfgpn": "LEN-4X71D09533",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6773884"
+  },
+  {
+    "mfgpn": "LEN-4X71D09535",
+    "brand": "lenovo commercial",
+    "stock": 370,
+    "sku": "6773885"
+  },
+  {
+    "mfgpn": "LEN-4X41C12469",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "6773985"
+  },
+  {
+    "mfgpn": "LEN-62CDGAR6US",
+    "brand": "lenovo commercial",
+    "stock": 582,
+    "sku": "6775356"
+  },
+  {
+    "mfgpn": "LEN-4X20V24707",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "6777892"
+  },
+  {
+    "mfgpn": "LEN-4Y51C21216",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "6784191"
+  },
+  {
+    "mfgpn": "LEN-40B00300US",
+    "brand": "lenovo commercial",
+    "stock": 729,
+    "sku": "6798774"
+  },
+  {
+    "mfgpn": "LEN-7S050080WW",
+    "brand": "lenovo global technology",
+    "stock": 5,
+    "sku": "6798871"
+  },
+  {
+    "mfgpn": "LEN-7S050082WW",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6798872"
+  },
+  {
+    "mfgpn": "LEN-7S05007TWW",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "6798880"
+  },
+  {
+    "mfgpn": "LEN-7S05005PWW",
+    "brand": "lenovo global technology",
+    "stock": 5,
+    "sku": "6798893"
+  },
+  {
+    "mfgpn": "LEN-7S050063WW",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "6798894"
+  },
+  {
+    "mfgpn": "LEN-40B00135US",
+    "brand": "lenovo commercial",
+    "stock": 120,
+    "sku": "6800350"
+  },
+  {
+    "mfgpn": "LEN-62CBRAR6US",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "6801308"
+  },
+  {
+    "mfgpn": "LEN-4XB7A17103",
+    "brand": "lenovo global technology",
+    "stock": 10,
+    "sku": "6801788"
+  },
+  {
+    "mfgpn": "LEN-4XB7A17121",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "6801799"
+  },
+  {
+    "mfgpn": "LEN-4XB7A17120",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "6801806"
+  },
+  {
+    "mfgpn": "LEN-4XE1B81917",
+    "brand": "lenovo commercial",
+    "stock": 115,
+    "sku": "6807002"
+  },
+  {
+    "mfgpn": "LEN-4ZE1C73652",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6810152"
+  },
+  {
+    "mfgpn": "LEN-62D0GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "6819741"
+  },
+  {
+    "mfgpn": "LEN-62CFGAR1US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "6819742"
+  },
+  {
+    "mfgpn": "LEN-4Y41C33748",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "6829545"
+  },
+  {
+    "mfgpn": "LEN-4Y41C33791",
+    "brand": "lenovo commercial",
+    "stock": 15,
+    "sku": "6829547"
+  },
+  {
+    "mfgpn": "LEN-11LT0006US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6835942"
+  },
+  {
+    "mfgpn": "LEN-4XC1D66055",
+    "brand": "lenovo commercial",
+    "stock": 162,
+    "sku": "6842660"
+  },
+  {
+    "mfgpn": "LEN-4XE1F30277",
+    "brand": "lenovo commercial",
+    "stock": 14,
+    "sku": "6845165"
+  },
+  {
+    "mfgpn": "LEN-40B10135US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "6867762"
+  },
+  {
+    "mfgpn": "LEN-40B20135US",
+    "brand": "lenovo commercial",
+    "stock": 11,
+    "sku": "6871189"
+  },
+  {
+    "mfgpn": "LEN-4XA7A80481",
+    "brand": "lenovo global technology",
+    "stock": 11,
+    "sku": "6873065"
+  },
+  {
+    "mfgpn": "LEN-02JH833",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6889826"
+  },
+  {
+    "mfgpn": "LEN-4X97A81466",
+    "brand": "lenovo global technology",
+    "stock": 10,
+    "sku": "6897276"
+  },
+  {
+    "mfgpn": "LEN-4XJ1D33268",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "6903389"
+  },
+  {
+    "mfgpn": "LEN-4X41D97727",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "6921012"
+  },
+  {
+    "mfgpn": "LEN-63A4MAR1US",
+    "brand": "lenovo commercial",
+    "stock": 481,
+    "sku": "6955537"
+  },
+  {
+    "mfgpn": "LEN-63A1GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 114,
+    "sku": "6964934"
+  },
+  {
+    "mfgpn": "LEN-40CLCBLBAR",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7040782"
+  },
+  {
+    "mfgpn": "LEN-63A9GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 107,
+    "sku": "7045727"
+  },
+  {
+    "mfgpn": "LEN-63B0MAR6US",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "7053071"
+  },
+  {
+    "mfgpn": "LEN-4X81H95633",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7058568"
+  },
+  {
+    "mfgpn": "LEN-40EQCC1011",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7062581"
+  },
+  {
+    "mfgpn": "LEN-4XB7A82287",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7062828"
+  },
+  {
+    "mfgpn": "LEN-4XH1G07099",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7069019"
+  },
+  {
+    "mfgpn": "LEN-63CFMAR1US",
+    "brand": "lenovo commercial",
+    "stock": 511,
+    "sku": "7069409"
+  },
+  {
+    "mfgpn": "LEN-63D2GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 1053,
+    "sku": "7071712"
+  },
+  {
+    "mfgpn": "LEN-4X91H17795",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7073537"
+  },
+  {
+    "mfgpn": "LEN-4XB7A80318",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7074966"
+  },
+  {
+    "mfgpn": "LEN-63A1ZAR1US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7092334"
+  },
+  {
+    "mfgpn": "LEN-4X91K16970",
+    "brand": "lenovo commercial",
+    "stock": 7,
+    "sku": "7094583"
+  },
+  {
+    "mfgpn": "LEN-63D8MAR3US",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7112602"
+  },
+  {
+    "mfgpn": "LEN-63D4GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 554,
+    "sku": "7112626"
+  },
+  {
+    "mfgpn": "LEN-4XD1K18260",
+    "brand": "lenovo commercial",
+    "stock": 71,
+    "sku": "7129792"
+  },
+  {
+    "mfgpn": "LEN-4Y41K04031",
+    "brand": "lenovo commercial",
+    "stock": 25,
+    "sku": "7151268"
+  },
+  {
+    "mfgpn": "LEN-4X31K03931",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7151271"
+  },
+  {
+    "mfgpn": "LEN-4X21L38720",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7151274"
+  },
+  {
+    "mfgpn": "LEN-63B0MAT6US",
+    "brand": "lenovo commercial",
+    "stock": 667,
+    "sku": "7160122"
+  },
+  {
+    "mfgpn": "LEN-63CFMAT1US",
+    "brand": "lenovo commercial",
+    "stock": 880,
+    "sku": "7160124"
+  },
+  {
+    "mfgpn": "LEN-4XB7A83970",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7162118"
+  },
+  {
+    "mfgpn": "LEN-4XF1K72399",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7174106"
+  },
+  {
+    "mfgpn": "LEN-82W00001US",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "7174883"
+  },
+  {
+    "mfgpn": "LEN-ZAC40073US",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7205515"
+  },
+  {
+    "mfgpn": "LEN-82W60001US",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7217555"
+  },
+  {
+    "mfgpn": "LEN-82W60000US",
+    "brand": "lenovo commercial",
+    "stock": 40,
+    "sku": "7217557"
+  },
+  {
+    "mfgpn": "LEN-82YR0009CF",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7229155"
+  },
+  {
+    "mfgpn": "LEN-4P57A72670",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "7245717"
+  },
+  {
+    "mfgpn": "LEN-4P57A72671",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7245718"
+  },
+  {
+    "mfgpn": "LEN-4X21L54608",
+    "brand": "lenovo commercial",
+    "stock": 33,
+    "sku": "7250605"
+  },
+  {
+    "mfgpn": "LEN-12NAGAR1US",
+    "brand": "lenovo commercial",
+    "stock": 107,
+    "sku": "7251685"
+  },
+  {
+    "mfgpn": "LEN-4XB7A82274",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7252001"
+  },
+  {
+    "mfgpn": "LEN-4XB7A82278",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "7252005"
+  },
+  {
+    "mfgpn": "LEN-4XG7A83807",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7256515"
+  },
+  {
+    "mfgpn": "LEN-4Z11K07879",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "7259186"
+  },
+  {
+    "mfgpn": "LEN-4XG7A85282",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7259300"
+  },
+  {
+    "mfgpn": "LEN-4Y37A79663",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7267091"
+  },
+  {
+    "mfgpn": "LEN-12N9GAR1US",
+    "brand": "lenovo commercial",
+    "stock": 100,
+    "sku": "7267608"
+  },
+  {
+    "mfgpn": "LEN-12NBGAR1US",
+    "brand": "lenovo commercial",
+    "stock": 305,
+    "sku": "7267609"
+  },
+  {
+    "mfgpn": "LEN-4X71M23189",
+    "brand": "lenovo commercial",
+    "stock": 46,
+    "sku": "7275069"
+  },
+  {
+    "mfgpn": "LEN-4X71M23187",
+    "brand": "lenovo commercial",
+    "stock": 219,
+    "sku": "7275554"
+  },
+  {
+    "mfgpn": "LEN-63DFKAT4US",
+    "brand": "lenovo commercial",
+    "stock": 262,
+    "sku": "7291214"
+  },
+  {
+    "mfgpn": "LEN-4XF1C98168",
+    "brand": "lenovo commercial",
+    "stock": 19,
+    "sku": "7293914"
+  },
+  {
+    "mfgpn": "LEN-4XF1M24243",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7293922"
+  },
+  {
+    "mfgpn": "LEN-4X21M37465",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7314092"
+  },
+  {
+    "mfgpn": "LEN-4Z11K07880",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7315966"
+  },
+  {
+    "mfgpn": "LEN-63DBZAR1US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7317149"
+  },
+  {
+    "mfgpn": "LEN-4X91K16968",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7317715"
+  },
+  {
+    "mfgpn": "LEN-4X81M52314",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7318914"
+  },
+  {
+    "mfgpn": "LEN-7D7A1009NA",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7326648"
+  },
+  {
+    "mfgpn": "LEN-7D7A1008NA",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7326650"
+  },
+  {
+    "mfgpn": "LEN-7D7A1005NA",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7326651"
+  },
+  {
+    "mfgpn": "LEN-4XB1M86954",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7330849"
+  },
+  {
+    "mfgpn": "LEN-4XB1M86955",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7330850"
+  },
+  {
+    "mfgpn": "LEN-63EDMAR2US",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7331173"
+  },
+  {
+    "mfgpn": "LEN-63ECGAR2US",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "7331174"
+  },
+  {
+    "mfgpn": "LEN-4XD1M39028",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7337616"
+  },
+  {
+    "mfgpn": "LEN-11LR000BUS",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7356726"
+  },
+  {
+    "mfgpn": "LEN-11RXS00800",
+    "brand": "lenovo commercial",
+    "stock": 72,
+    "sku": "7356734"
+  },
+  {
+    "mfgpn": "LEN-4X41M69794",
+    "brand": "lenovo commercial",
+    "stock": 22,
+    "sku": "7366567"
+  },
+  {
+    "mfgpn": "LEN-63EDMAT2US",
+    "brand": "lenovo commercial",
+    "stock": 360,
+    "sku": "7384311"
+  },
+  {
+    "mfgpn": "LEN-4XB7A90884",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7436210"
+  },
+  {
+    "mfgpn": "LEN-78011474",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7440608"
+  },
+  {
+    "mfgpn": "LEN-4X91C99226",
+    "brand": "lenovo commercial",
+    "stock": 46,
+    "sku": "7443342"
+  },
+  {
+    "mfgpn": "LEN-12VL0000US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7443554"
+  },
+  {
+    "mfgpn": "LEN-4X31N50708",
+    "brand": "lenovo commercial",
+    "stock": 964,
+    "sku": "7444998"
+  },
+  {
+    "mfgpn": "LEN-4XB7A90049",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7445613"
+  },
+  {
+    "mfgpn": "LEN-4X71N34264",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7462497"
+  },
+  {
+    "mfgpn": "LEN-4X77A88511",
+    "brand": "lenovo global technology",
+    "stock": 65,
+    "sku": "7463411"
+  },
+  {
+    "mfgpn": "LEN-4P57A87054",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7463415"
+  },
+  {
+    "mfgpn": "LEN-4X31N50720",
+    "brand": "lenovo commercial",
+    "stock": 96,
+    "sku": "7483790"
+  },
+  {
+    "mfgpn": "LEN-4X31N50721",
+    "brand": "lenovo commercial",
+    "stock": 296,
+    "sku": "7483791"
+  },
+  {
+    "mfgpn": "LEN-4X31N50754",
+    "brand": "lenovo commercial",
+    "stock": 87,
+    "sku": "7483792"
+  },
+  {
+    "mfgpn": "LEN-12UE0000US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7485917"
+  },
+  {
+    "mfgpn": "LEN-ZG38C05458",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "7502329"
+  },
+  {
+    "mfgpn": "LEN-83F90000US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7506203"
+  },
+  {
+    "mfgpn": "LEN-83G80001CF",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "7506210"
+  },
+  {
+    "mfgpn": "LEN-7D7A100BNA",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7517597"
+  },
+  {
+    "mfgpn": "LEN-40B90100US",
+    "brand": "lenovo commercial",
+    "stock": 108,
+    "sku": "7886287"
+  },
+  {
+    "mfgpn": "LEN-7DCEA01YNA",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7914843"
+  },
+  {
+    "mfgpn": "LEN-7DCEA01UNA",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "7914851"
+  },
+  {
+    "mfgpn": "LEN-7DCEA01VNA",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7914852"
+  },
+  {
+    "mfgpn": "LEN-7DCEA01WNA",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7914853"
+  },
+  {
+    "mfgpn": "LEN-ZACH0177US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7932774"
+  },
+  {
+    "mfgpn": "LEN-40AY0135US",
+    "brand": "lenovo commercial",
+    "stock": 150,
+    "sku": "7975424"
+  },
+  {
+    "mfgpn": "LEN-4X97A93517",
+    "brand": "lenovo global technology",
+    "stock": 20,
+    "sku": "7977840"
+  },
+  {
+    "mfgpn": "LEN-7DF3A018NA",
+    "brand": "lenovo global technology",
+    "stock": 10,
+    "sku": "7977842"
+  },
+  {
+    "mfgpn": "LEN-7DF3A00FNA",
+    "brand": "lenovo global technology",
+    "stock": 4,
+    "sku": "7977843"
+  },
+  {
+    "mfgpn": "LEN-4X61P69962",
+    "brand": "lenovo commercial",
+    "stock": 47,
+    "sku": "7983106"
+  },
+  {
+    "mfgpn": "LEN-4XD1M80020",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "8003912"
+  },
+  {
+    "mfgpn": "LEN-90UT001RUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8024452"
+  },
+  {
+    "mfgpn": "LEN-63FCKATBUS",
+    "brand": "lenovo commercial",
+    "stock": 44,
+    "sku": "8024909"
+  },
+  {
+    "mfgpn": "LEN-4Z57A88898",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "8027723"
+  },
+  {
+    "mfgpn": "LEN-4XJ1M77973",
+    "brand": "lenovo commercial",
+    "stock": 46,
+    "sku": "8158905"
+  },
+  {
+    "mfgpn": "LEN-90V6000NUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8175249"
+  },
+  {
+    "mfgpn": "LEN-21N60002US",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "8190025"
+  },
+  {
+    "mfgpn": "LEN-4XC1Q24438",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "8191839"
+  },
+  {
+    "mfgpn": "LEN-4XD1Q30302",
+    "brand": "lenovo commercial",
+    "stock": 111,
+    "sku": "8195473"
+  },
+  {
+    "mfgpn": "LEN-7S1S0009WW",
+    "brand": "lenovo global technology",
+    "stock": 11,
+    "sku": "8221593"
+  },
+  {
+    "mfgpn": "LEN-7S1S000XWW",
+    "brand": "lenovo global technology",
+    "stock": 10,
+    "sku": "8221610"
+  },
+  {
+    "mfgpn": "LEN-4XB7A97045",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "8237953"
+  },
+  {
+    "mfgpn": "LEN-4XB7B01236",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "8237955"
+  },
+  {
+    "mfgpn": "LEN-4X81P44052",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8238356"
+  },
+  {
+    "mfgpn": "LEN-7S1S003PWW",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "8240723"
+  },
+  {
+    "mfgpn": "LEN-7S1S003WWW",
+    "brand": "lenovo global technology",
+    "stock": 13,
+    "sku": "8240724"
+  },
+  {
+    "mfgpn": "LEN-12WE000BUS",
+    "brand": "lenovo commercial",
+    "stock": 29,
+    "sku": "8247899"
+  },
+  {
+    "mfgpn": "LEN-4Y37A97937",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "8253345"
+  },
+  {
+    "mfgpn": "LEN-21QA0002US",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8286645"
+  },
+  {
+    "mfgpn": "LEN-12X2S00010",
+    "brand": "lenovo commercial",
+    "stock": 120,
+    "sku": "8296213"
+  },
+  {
+    "mfgpn": "LEN-21L3005EUS",
+    "brand": "lenovo commercial",
+    "stock": 47,
+    "sku": "8296573"
+  },
+  {
+    "mfgpn": "LEN-4Y51R29290",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "8301370"
+  },
+  {
+    "mfgpn": "LEN-4Z21S06941",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "8301371"
+  },
+  {
+    "mfgpn": "LEN-21L3005ECA",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "8301376"
+  },
+  {
+    "mfgpn": "LEN-21L3005FCA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8301377"
+  },
+  {
+    "mfgpn": "LEN-4XD1S14145",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8304386"
+  },
+  {
+    "mfgpn": "LEN-4Y41R62060",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8309396"
+  },
+  {
+    "mfgpn": "LEN-82W2002HUS",
+    "brand": "lenovo commercial",
+    "stock": 76,
+    "sku": "8311295"
+  },
+  {
+    "mfgpn": "LEN-82W0001FUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8311302"
+  },
+  {
+    "mfgpn": "LEN-82W0001EUS",
+    "brand": "lenovo commercial",
+    "stock": 228,
+    "sku": "8311303"
+  },
+  {
+    "mfgpn": "LEN-4XC1Q25246",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "8328916"
+  },
+  {
+    "mfgpn": "LEN-4XC1Q25245",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "8328917"
+  },
+  {
+    "mfgpn": "LEN-4XC1Q44952",
+    "brand": "lenovo commercial",
+    "stock": 65,
+    "sku": "8328918"
+  },
+  {
+    "mfgpn": "LEN-40BD0065US",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "8328921"
+  },
+  {
+    "mfgpn": "LEN-90YJ0015US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "8334597"
+  },
+  {
+    "mfgpn": "LEN-90YA0012US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "8334598"
+  },
+  {
+    "mfgpn": "LEN-90Y6003KUS",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "8334599"
+  },
+  {
+    "mfgpn": "LEN-90Y6003JUS",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "8334600"
+  },
+  {
+    "mfgpn": "LEN-12WC0001US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "8334601"
+  },
+  {
+    "mfgpn": "LEN-12WG0003US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "8334602"
+  },
+  {
+    "mfgpn": "LEN-12WL0002US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8334603"
+  },
+  {
+    "mfgpn": "LEN-12WR0001US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8334604"
+  },
+  {
+    "mfgpn": "LEN-7S050086WW",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6798875"
+  },
+  {
+    "mfgpn": "LEN-21N60001US",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "8190033"
+  },
+  {
+    "mfgpn": "LEN-12W1001CUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8161780"
+  },
+  {
+    "mfgpn": "LEN-12SH0029US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "8195061"
+  },
+  {
+    "mfgpn": "LEN-12U3001CUS",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "8189882"
+  },
+  {
+    "mfgpn": "LEN-12RQ001PUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8226882"
+  },
+  {
+    "mfgpn": "LEN-11R80010US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6780303"
+  },
+  {
+    "mfgpn": "LEN-11JN008FUX",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7266253"
+  },
+  {
+    "mfgpn": "LEN-12U3001FUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8189833"
+  },
+  {
+    "mfgpn": "LEN-11TG0005US",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "6876255"
+  },
+  {
+    "mfgpn": "LEN-12E3004YCA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7331486"
+  },
+  {
+    "mfgpn": "LEN-11DC0015US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "6568817"
+  },
+  {
+    "mfgpn": "LEN-4Y37A09738",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6403790"
+  },
+  {
+    "mfgpn": "LEN-4XB7A77447",
+    "brand": "lenovo global technology",
+    "stock": 12,
+    "sku": "6897250"
+  },
+  {
+    "mfgpn": "LEN-7DCEA01XNA",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "7914841"
+  },
+  {
+    "mfgpn": "LEN-4X21H27800",
+    "brand": "lenovo commercial",
+    "stock": 38,
+    "sku": "7074222"
+  },
+  {
+    "mfgpn": "LEN-4X20M26252",
+    "brand": "lenovo commercial",
+    "stock": 49,
+    "sku": "5778074"
+  },
+  {
+    "mfgpn": "LEN-4X97A81465",
+    "brand": "lenovo global technology",
+    "stock": 11,
+    "sku": "6897275"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00025",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "5965986"
+  },
+  {
+    "mfgpn": "LEN-63DEKAT3US",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7316936"
+  },
+  {
+    "mfgpn": "LEN-4XE1F30276",
+    "brand": "lenovo commercial",
+    "stock": 66,
+    "sku": "12860336"
+  },
+  {
+    "mfgpn": "LEN-82W20003US",
+    "brand": "lenovo commercial",
+    "stock": 59,
+    "sku": "7174878"
+  },
+  {
+    "mfgpn": "LEN-4XH7A83844",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "7264088"
+  },
+  {
+    "mfgpn": "LEN-7DH51003NA",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "8289828"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00028",
+    "brand": "lenovo global technology",
+    "stock": 2,
+    "sku": "5965989"
+  },
+  {
+    "mfgpn": "LEN-12BW0004US",
+    "brand": "lenovo commercial",
+    "stock": 16,
+    "sku": "7356609"
+  },
+  {
+    "mfgpn": "LEN-GX40Q17227",
+    "brand": "lenovo consumer",
+    "stock": 100,
+    "sku": "6169154"
+  },
+  {
+    "mfgpn": "LEN-GX30M39704",
+    "brand": "lenovo consumer",
+    "stock": 284,
+    "sku": "5994854"
+  },
+  {
+    "mfgpn": "LEN-888015471",
+    "brand": "lenovo consumer",
+    "stock": 2,
+    "sku": "5157966"
+  },
+  {
+    "mfgpn": "LEN-83L3001VUS",
+    "brand": "lenovo consumer",
+    "stock": 400,
+    "sku": "8296583"
+  },
+  {
+    "mfgpn": "LEN-83DG0099CC",
+    "brand": "lenovo consumer",
+    "stock": 50,
+    "sku": "7484104"
+  },
+  {
+    "mfgpn": "LEN-83LK00A8CC",
+    "brand": "lenovo consumer",
+    "stock": 10,
+    "sku": "8296584"
+  },
+  {
+    "mfgpn": "LEN-82X700FMCF",
+    "brand": "lenovo consumer",
+    "stock": 150,
+    "sku": "8296594"
+  },
+  {
+    "mfgpn": "LEN-83LY0024CC",
+    "brand": "lenovo consumer",
+    "stock": 120,
+    "sku": "8303325"
+  },
+  {
+    "mfgpn": "LEN-82BB0038CF",
+    "brand": "lenovo consumer",
+    "stock": 1,
+    "sku": "6869646"
+  },
+  {
+    "mfgpn": "LEN-83B40003CC",
+    "brand": "lenovo consumer",
+    "stock": 243,
+    "sku": "8296576"
+  },
+  {
+    "mfgpn": "LEN-83LY002PCF",
+    "brand": "lenovo consumer",
+    "stock": 125,
+    "sku": "8307727"
+  },
+  {
+    "mfgpn": "LEN-ZAC30090US",
+    "brand": "lenovo consumer",
+    "stock": 300,
+    "sku": "7227898"
+  },
+  {
+    "mfgpn": "LEN-82X700FLCC",
+    "brand": "lenovo consumer",
+    "stock": 400,
+    "sku": "8296579"
+  },
+  {
+    "mfgpn": "LEN-11JN002RUS",
+    "brand": "lenovo commercial",
+    "stock": 149,
+    "sku": "6853301"
+  },
+  {
+    "mfgpn": "LEN-12LN000CCA",
+    "brand": "lenovo commercial",
+    "stock": 45,
+    "sku": "7254723"
+  },
+  {
+    "mfgpn": "LEN-12LN000BCA",
+    "brand": "lenovo commercial",
+    "stock": 146,
+    "sku": "7254725"
+  },
+  {
+    "mfgpn": "LEN-11R8004GUS",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7271982"
+  },
+  {
+    "mfgpn": "LEN-11JN0094CA",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7318986"
+  },
+  {
+    "mfgpn": "LEN-12TD001SUS",
+    "brand": "lenovo commercial",
+    "stock": 45,
+    "sku": "7977495"
+  },
+  {
+    "mfgpn": "LEN-12TD001KCA",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "7977500"
+  },
+  {
+    "mfgpn": "LEN-12TD001KUS",
+    "brand": "lenovo commercial",
+    "stock": 275,
+    "sku": "7977501"
+  },
+  {
+    "mfgpn": "LEN-12TD001UCA",
+    "brand": "lenovo commercial",
+    "stock": 181,
+    "sku": "7977508"
+  },
+  {
+    "mfgpn": "LEN-12TD001UUS",
+    "brand": "lenovo commercial",
+    "stock": 60,
+    "sku": "7977509"
+  },
+  {
+    "mfgpn": "LEN-12U3000UUS",
+    "brand": "lenovo commercial",
+    "stock": 40,
+    "sku": "7977525"
+  },
+  {
+    "mfgpn": "LEN-12U3000VUS",
+    "brand": "lenovo commercial",
+    "stock": 90,
+    "sku": "7977526"
+  },
+  {
+    "mfgpn": "LEN-12U3000WUS",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7977536"
+  },
+  {
+    "mfgpn": "LEN-11R80051US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8028679"
+  },
+  {
+    "mfgpn": "LEN-12XF000WUS",
+    "brand": "lenovo commercial",
+    "stock": 182,
+    "sku": "8189058"
+  },
+  {
+    "mfgpn": "LEN-12TH000XUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8189861"
+  },
+  {
+    "mfgpn": "LEN-12TH0010US",
+    "brand": "lenovo commercial",
+    "stock": 22,
+    "sku": "8189865"
+  },
+  {
+    "mfgpn": "LEN-12SB003GUS",
+    "brand": "lenovo commercial",
+    "stock": 28,
+    "sku": "8192833"
+  },
+  {
+    "mfgpn": "LEN-12XF000WCA",
+    "brand": "lenovo commercial",
+    "stock": 82,
+    "sku": "8227013"
+  },
+  {
+    "mfgpn": "LEN-12SD004LUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8288212"
+  },
+  {
+    "mfgpn": "LEN-12XF000VCA",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "8289959"
+  },
+  {
+    "mfgpn": "LEN-20WK005NUS",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "6701172"
+  },
+  {
+    "mfgpn": "LEN-21JK0053CA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7229246"
+  },
+  {
+    "mfgpn": "LEN-21JN003YUS",
+    "brand": "lenovo commercial",
+    "stock": 13,
+    "sku": "7239831"
+  },
+  {
+    "mfgpn": "LEN-21FA002UUS",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7245361"
+  },
+  {
+    "mfgpn": "LEN-21FA002NUS",
+    "brand": "lenovo commercial",
+    "stock": 36,
+    "sku": "7245364"
+  },
+  {
+    "mfgpn": "LEN-21FA0032US",
+    "brand": "lenovo commercial",
+    "stock": 8,
+    "sku": "7245365"
+  },
+  {
+    "mfgpn": "LEN-21FA0032CA",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7245389"
+  },
+  {
+    "mfgpn": "LEN-21JK0084US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7252303"
+  },
+  {
+    "mfgpn": "LEN-21JR001RCA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7252310"
+  },
+  {
+    "mfgpn": "LEN-83A10024US",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "7252678"
+  },
+  {
+    "mfgpn": "LEN-83A10025CA",
+    "brand": "lenovo commercial",
+    "stock": 14,
+    "sku": "7252679"
+  },
+  {
+    "mfgpn": "LEN-21HD0087US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7264002"
+  },
+  {
+    "mfgpn": "LEN-21HQ007SUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7276238"
+  },
+  {
+    "mfgpn": "LEN-21F8004AUS",
+    "brand": "lenovo commercial",
+    "stock": 45,
+    "sku": "7314747"
+  },
+  {
+    "mfgpn": "LEN-21F8004KCA",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7314749"
+  },
+  {
+    "mfgpn": "LEN-21K7003SUS",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7327429"
+  },
+  {
+    "mfgpn": "LEN-21FE0028US",
+    "brand": "lenovo commercial",
+    "stock": 54,
+    "sku": "7327446"
+  },
+  {
+    "mfgpn": "LEN-21FE0027US",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7327449"
+  },
+  {
+    "mfgpn": "LEN-21K70008CA",
+    "brand": "lenovo commercial",
+    "stock": 52,
+    "sku": "7332013"
+  },
+  {
+    "mfgpn": "LEN-21K7003SCA",
+    "brand": "lenovo commercial",
+    "stock": 8,
+    "sku": "7332014"
+  },
+  {
+    "mfgpn": "LEN-30H00041US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7505734"
+  },
+  {
+    "mfgpn": "LEN-30GA005TUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7518231"
+  },
+  {
+    "mfgpn": "LEN-21MS0067US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7595074"
+  },
+  {
+    "mfgpn": "LEN-21KE005SUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7607935"
+  },
+  {
+    "mfgpn": "LEN-21KE005PUS",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7607939"
+  },
+  {
+    "mfgpn": "LEN-21ML0055US",
+    "brand": "lenovo commercial",
+    "stock": 15,
+    "sku": "7607949"
+  },
+  {
+    "mfgpn": "LEN-21LS004FUS",
+    "brand": "lenovo commercial",
+    "stock": 51,
+    "sku": "7607968"
+  },
+  {
+    "mfgpn": "LEN-21LS0049US",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7607970"
+  },
+  {
+    "mfgpn": "LEN-21MN005JUS",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7607978"
+  },
+  {
+    "mfgpn": "LEN-21M5000GUS",
+    "brand": "lenovo commercial",
+    "stock": 620,
+    "sku": "7608233"
+  },
+  {
+    "mfgpn": "LEN-21MA0003US",
+    "brand": "lenovo commercial",
+    "stock": 728,
+    "sku": "7608240"
+  },
+  {
+    "mfgpn": "LEN-21MA0004US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7608241"
+  },
+  {
+    "mfgpn": "LEN-21MA0006US",
+    "brand": "lenovo commercial",
+    "stock": 178,
+    "sku": "7608242"
+  },
+  {
+    "mfgpn": "LEN-21M70007US",
+    "brand": "lenovo commercial",
+    "stock": 257,
+    "sku": "7608244"
+  },
+  {
+    "mfgpn": "LEN-21M70006US",
+    "brand": "lenovo commercial",
+    "stock": 209,
+    "sku": "7608245"
+  },
+  {
+    "mfgpn": "LEN-21M70004US",
+    "brand": "lenovo commercial",
+    "stock": 170,
+    "sku": "7608246"
+  },
+  {
+    "mfgpn": "LEN-21M70005US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7608247"
+  },
+  {
+    "mfgpn": "LEN-21M3000RUS",
+    "brand": "lenovo commercial",
+    "stock": 120,
+    "sku": "7608248"
+  },
+  {
+    "mfgpn": "LEN-21FA0059CA",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7608256"
+  },
+  {
+    "mfgpn": "LEN-21MW0002US",
+    "brand": "lenovo commercial",
+    "stock": 415,
+    "sku": "7886959"
+  },
+  {
+    "mfgpn": "LEN-21MW0003US",
+    "brand": "lenovo commercial",
+    "stock": 347,
+    "sku": "7886960"
+  },
+  {
+    "mfgpn": "LEN-21MV0009US",
+    "brand": "lenovo commercial",
+    "stock": 173,
+    "sku": "7886964"
+  },
+  {
+    "mfgpn": "LEN-21MW0002CA",
+    "brand": "lenovo commercial",
+    "stock": 105,
+    "sku": "7886984"
+  },
+  {
+    "mfgpn": "LEN-30H0006LUS",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7916035"
+  },
+  {
+    "mfgpn": "LEN-30H0006VUS",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7916046"
+  },
+  {
+    "mfgpn": "LEN-30H00073US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7916052"
+  },
+  {
+    "mfgpn": "LEN-30GS00E4US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7916059"
+  },
+  {
+    "mfgpn": "LEN-30H0006YUS",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7916068"
+  },
+  {
+    "mfgpn": "LEN-30H0006TUS",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7916071"
+  },
+  {
+    "mfgpn": "LEN-30HA0066US",
+    "brand": "lenovo commercial",
+    "stock": 4,
+    "sku": "7916079"
+  },
+  {
+    "mfgpn": "LEN-21G2001PUS",
+    "brand": "lenovo commercial",
+    "stock": 24,
+    "sku": "7916557"
+  },
+  {
+    "mfgpn": "LEN-21KS001FUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7916561"
+  },
+  {
+    "mfgpn": "LEN-21KS001HUS",
+    "brand": "lenovo commercial",
+    "stock": 42,
+    "sku": "7916566"
+  },
+  {
+    "mfgpn": "LEN-21G2001SUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7916583"
+  },
+  {
+    "mfgpn": "LEN-21KS0027US",
+    "brand": "lenovo commercial",
+    "stock": 35,
+    "sku": "7916599"
+  },
+  {
+    "mfgpn": "LEN-21KS001MUS",
+    "brand": "lenovo commercial",
+    "stock": 37,
+    "sku": "7916609"
+  },
+  {
+    "mfgpn": "LEN-21KS0023US",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7916611"
+  },
+  {
+    "mfgpn": "LEN-21KS001MCA",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "7916622"
+  },
+  {
+    "mfgpn": "LEN-21KS0023CA",
+    "brand": "lenovo commercial",
+    "stock": 9,
+    "sku": "7916624"
+  },
+  {
+    "mfgpn": "LEN-21KS0027CA",
+    "brand": "lenovo commercial",
+    "stock": 13,
+    "sku": "7916628"
+  },
+  {
+    "mfgpn": "LEN-21KS0026CA",
+    "brand": "lenovo commercial",
+    "stock": 26,
+    "sku": "7916629"
+  },
+  {
+    "mfgpn": "LEN-21KC00A7US",
+    "brand": "lenovo commercial",
+    "stock": 411,
+    "sku": "7932951"
+  },
+  {
+    "mfgpn": "LEN-21KE005UUS",
+    "brand": "lenovo commercial",
+    "stock": 49,
+    "sku": "7933123"
+  },
+  {
+    "mfgpn": "LEN-21KC00A7CA",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7933124"
+  },
+  {
+    "mfgpn": "LEN-21KC00A8US",
+    "brand": "lenovo commercial",
+    "stock": 227,
+    "sku": "7933126"
+  },
+  {
+    "mfgpn": "LEN-21MX000CCA",
+    "brand": "lenovo commercial",
+    "stock": 27,
+    "sku": "7951121"
+  },
+  {
+    "mfgpn": "LEN-21MX000BUS",
+    "brand": "lenovo commercial",
+    "stock": 79,
+    "sku": "7951122"
+  },
+  {
+    "mfgpn": "LEN-21MX000GUS",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7951123"
+  },
+  {
+    "mfgpn": "LEN-21MS0065CA",
+    "brand": "lenovo commercial",
+    "stock": 60,
+    "sku": "7951124"
+  },
+  {
+    "mfgpn": "LEN-21KX001VCA",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7951126"
+  },
+  {
+    "mfgpn": "LEN-21KX002GCA",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7951136"
+  },
+  {
+    "mfgpn": "LEN-21KX0021CA",
+    "brand": "lenovo commercial",
+    "stock": 26,
+    "sku": "7951146"
+  },
+  {
+    "mfgpn": "LEN-21MA0005CA",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7975074"
+  },
+  {
+    "mfgpn": "LEN-21KC00B3US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7976303"
+  },
+  {
+    "mfgpn": "LEN-21KC00B1US",
+    "brand": "lenovo commercial",
+    "stock": 55,
+    "sku": "7976304"
+  },
+  {
+    "mfgpn": "LEN-21ML008NUS",
+    "brand": "lenovo commercial",
+    "stock": 121,
+    "sku": "7976308"
+  },
+  {
+    "mfgpn": "LEN-21MC000CUS",
+    "brand": "lenovo commercial",
+    "stock": 208,
+    "sku": "7979823"
+  },
+  {
+    "mfgpn": "LEN-21ML006MUS",
+    "brand": "lenovo commercial",
+    "stock": 172,
+    "sku": "7979824"
+  },
+  {
+    "mfgpn": "LEN-21MN0070US",
+    "brand": "lenovo commercial",
+    "stock": 105,
+    "sku": "7979826"
+  },
+  {
+    "mfgpn": "LEN-21MC000CCA",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "7982859"
+  },
+  {
+    "mfgpn": "LEN-21MC000NUS",
+    "brand": "lenovo commercial",
+    "stock": 127,
+    "sku": "7982885"
+  },
+  {
+    "mfgpn": "LEN-21ME0019US",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7982901"
+  },
+  {
+    "mfgpn": "LEN-21KV0001CA",
+    "brand": "lenovo commercial",
+    "stock": 7,
+    "sku": "7984566"
+  },
+  {
+    "mfgpn": "LEN-21KV000AUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7984595"
+  },
+  {
+    "mfgpn": "LEN-21KV000PUS",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "7984611"
+  },
+  {
+    "mfgpn": "LEN-21M3000NCA",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7984632"
+  },
+  {
+    "mfgpn": "LEN-21M3000RCA",
+    "brand": "lenovo commercial",
+    "stock": 17,
+    "sku": "7984635"
+  },
+  {
+    "mfgpn": "LEN-21M5000GCA",
+    "brand": "lenovo commercial",
+    "stock": 201,
+    "sku": "7984636"
+  },
+  {
+    "mfgpn": "LEN-21M5000HCA",
+    "brand": "lenovo commercial",
+    "stock": 356,
+    "sku": "7984637"
+  },
+  {
+    "mfgpn": "LEN-21M70004CA",
+    "brand": "lenovo commercial",
+    "stock": 20,
+    "sku": "7984640"
+  },
+  {
+    "mfgpn": "LEN-21LU003SCA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7984659"
+  },
+  {
+    "mfgpn": "LEN-21M70006CA",
+    "brand": "lenovo commercial",
+    "stock": 89,
+    "sku": "7984672"
+  },
+  {
+    "mfgpn": "LEN-21M70007CA",
+    "brand": "lenovo commercial",
+    "stock": 36,
+    "sku": "7984673"
+  },
+  {
+    "mfgpn": "LEN-83FG000KUS",
+    "brand": "lenovo commercial",
+    "stock": 45,
+    "sku": "8039859"
+  },
+  {
+    "mfgpn": "LEN-83CR0016US",
+    "brand": "lenovo commercial",
+    "stock": 26,
+    "sku": "8161272"
+  },
+  {
+    "mfgpn": "LEN-21K9003BUS",
+    "brand": "lenovo commercial",
+    "stock": 106,
+    "sku": "8175948"
+  },
+  {
+    "mfgpn": "LEN-21NH000JUS",
+    "brand": "lenovo commercial",
+    "stock": 11,
+    "sku": "8177093"
+  },
+  {
+    "mfgpn": "LEN-21KS0043US",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8192673"
+  },
+  {
+    "mfgpn": "LEN-21NS000LUS",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "8192677"
+  },
+  {
+    "mfgpn": "LEN-21MN0070CA",
+    "brand": "lenovo commercial",
+    "stock": 26,
+    "sku": "8216614"
+  },
+  {
+    "mfgpn": "LEN-30GS00GRUS",
+    "brand": "lenovo commercial",
+    "stock": 24,
+    "sku": "8247898"
+  },
+  {
+    "mfgpn": "LEN-21KS0043CA",
+    "brand": "lenovo commercial",
+    "stock": 13,
+    "sku": "8250604"
+  },
+  {
+    "mfgpn": "LEN-21SH000FCF",
+    "brand": "lenovo commercial",
+    "stock": 96,
+    "sku": "8289961"
+  },
+  {
+    "mfgpn": "LEN-21SH0001CF",
+    "brand": "lenovo commercial",
+    "stock": 235,
+    "sku": "8289962"
+  },
+  {
+    "mfgpn": "LEN-21SG000FCF",
+    "brand": "lenovo commercial",
+    "stock": 73,
+    "sku": "8295619"
+  },
+  {
+    "mfgpn": "LEN-21SG000FUS",
+    "brand": "lenovo commercial",
+    "stock": 72,
+    "sku": "8295620"
+  },
+  {
+    "mfgpn": "LEN-21SG000HCF",
+    "brand": "lenovo commercial",
+    "stock": 8,
+    "sku": "8295621"
+  },
+  {
+    "mfgpn": "LEN-21SH0002US",
+    "brand": "lenovo commercial",
+    "stock": 296,
+    "sku": "8295623"
+  },
+  {
+    "mfgpn": "LEN-21SH000FUS",
+    "brand": "lenovo commercial",
+    "stock": 268,
+    "sku": "8301379"
+  },
+  {
+    "mfgpn": "LEN-21NS005TUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8303525"
+  },
+  {
+    "mfgpn": "LEN-21L10064US",
+    "brand": "lenovo commercial",
+    "stock": 15,
+    "sku": "8320177"
+  },
+  {
+    "mfgpn": "LEN-11JN002PUS",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "6853300"
+  },
+  {
+    "mfgpn": "LEN-12SH001LUS",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "8028680"
+  },
+  {
+    "mfgpn": "LEN-21ML0056CA",
+    "brand": "lenovo commercial",
+    "stock": 34,
+    "sku": "7607950"
+  },
+  {
+    "mfgpn": "LEN-21M3000NUS",
+    "brand": "lenovo commercial",
+    "stock": 233,
+    "sku": "7608230"
+  },
+  {
+    "mfgpn": "LEN-30H00072US",
+    "brand": "lenovo commercial",
+    "stock": 18,
+    "sku": "7916050"
+  },
+  {
+    "mfgpn": "LEN-21KS0026US",
+    "brand": "lenovo commercial",
+    "stock": 159,
+    "sku": "7916600"
+  },
+  {
+    "mfgpn": "LEN-21SH0001US",
+    "brand": "lenovo commercial",
+    "stock": 170,
+    "sku": "8301380"
+  },
+  {
+    "mfgpn": "LEN-7S05007PWW",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "6798901"
+  },
+  {
+    "mfgpn": "LEN-30H0006QUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7916051"
+  },
+  {
+    "mfgpn": "LEN-21MN00AHCA",
+    "brand": "lenovo commercial",
+    "stock": 239,
+    "sku": "7973801"
+  },
+  {
+    "mfgpn": "LEN-21MN005HCA",
+    "brand": "lenovo commercial",
+    "stock": 26,
+    "sku": "8242431"
+  },
+  {
+    "mfgpn": "LEN-21NU0036US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8303521"
+  },
+  {
+    "mfgpn": "LEN-F0HQ006DFZ",
+    "brand": "lenovo consumer",
+    "stock": 100,
+    "sku": "8296582"
+  },
+  {
+    "mfgpn": "LEN-12LN000CUS",
+    "brand": "lenovo commercial",
+    "stock": 604,
+    "sku": "7254722"
+  },
+  {
+    "mfgpn": "LEN-12TD001RCA",
+    "brand": "lenovo commercial",
+    "stock": 191,
+    "sku": "7977492"
+  },
+  {
+    "mfgpn": "LEN-12V4001BUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8187162"
+  },
+  {
+    "mfgpn": "LEN-12SB003SUS",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "8192822"
+  },
+  {
+    "mfgpn": "LEN-21M5000JUS",
+    "brand": "lenovo commercial",
+    "stock": 667,
+    "sku": "7608232"
+  },
+  {
+    "mfgpn": "LEN-21MW0038US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7886962"
+  },
+  {
+    "mfgpn": "LEN-21G2001KUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7916552"
+  },
+  {
+    "mfgpn": "LEN-21KE005UCA",
+    "brand": "lenovo commercial",
+    "stock": 9,
+    "sku": "7933122"
+  },
+  {
+    "mfgpn": "LEN-21MX000HCA",
+    "brand": "lenovo commercial",
+    "stock": 10,
+    "sku": "7950802"
+  },
+  {
+    "mfgpn": "LEN-21MS0067CA",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7951432"
+  },
+  {
+    "mfgpn": "LEN-21K7005FUS",
+    "brand": "lenovo commercial",
+    "stock": 34,
+    "sku": "8183802"
+  },
+  {
+    "mfgpn": "LEN-21SG000HUS",
+    "brand": "lenovo commercial",
+    "stock": 45,
+    "sku": "8295622"
+  },
+  {
+    "mfgpn": "LEN-90Y3016",
+    "brand": "lenovo global technology",
+    "stock": 12,
+    "sku": "5351203"
+  },
+  {
+    "mfgpn": "LEN-4Y37A72482",
+    "brand": "lenovo global technology",
+    "stock": 18,
+    "sku": "6798913"
+  },
+  {
+    "mfgpn": "LEN-12U00015US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8189813"
+  },
+  {
+    "mfgpn": "LEN-83MC000BCF",
+    "brand": "lenovo consumer",
+    "stock": 145,
+    "sku": "8303473"
+  },
+  {
+    "mfgpn": "LEN-12TD001RUS",
+    "brand": "lenovo commercial",
+    "stock": 576,
+    "sku": "7977493"
+  },
+  {
+    "mfgpn": "LEN-21KV0009US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7984593"
+  },
+  {
+    "mfgpn": "LEN-21SH0002CF",
+    "brand": "lenovo commercial",
+    "stock": 116,
+    "sku": "8289963"
+  },
+  {
+    "mfgpn": "LEN-7S05007XWW",
+    "brand": "lenovo global technology",
+    "stock": 1,
+    "sku": "6798884"
+  },
+  {
+    "mfgpn": "LEN-7DF3A00UNA",
+    "brand": "lenovo global technology",
+    "stock": 5,
+    "sku": "7977844"
+  },
+  {
+    "mfgpn": "LEN-83KT002YCC",
+    "brand": "lenovo consumer",
+    "stock": 111,
+    "sku": "8296574"
+  },
+  {
+    "mfgpn": "LEN-12LN000BUS",
+    "brand": "lenovo commercial",
+    "stock": 920,
+    "sku": "7254724"
+  },
+  {
+    "mfgpn": "LEN-12TH000EUS",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "8189804"
+  },
+  {
+    "mfgpn": "LEN-21F8004KUS",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7314744"
+  },
+  {
+    "mfgpn": "LEN-21M5000HUS",
+    "brand": "lenovo commercial",
+    "stock": 169,
+    "sku": "7608234"
+  },
+  {
+    "mfgpn": "LEN-21ML0089US",
+    "brand": "lenovo commercial",
+    "stock": 609,
+    "sku": "7973734"
+  },
+  {
+    "mfgpn": "LEN-21MC000NCA",
+    "brand": "lenovo commercial",
+    "stock": 3,
+    "sku": "7982884"
+  },
+  {
+    "mfgpn": "LEN-21MA0003CA",
+    "brand": "lenovo commercial",
+    "stock": 794,
+    "sku": "7984674"
+  },
+  {
+    "mfgpn": "LEN-21MN005MCA",
+    "brand": "lenovo commercial",
+    "stock": 52,
+    "sku": "8227014"
+  },
+  {
+    "mfgpn": "LEN-82N40059CF",
+    "brand": "lenovo consumer",
+    "stock": 190,
+    "sku": "8296575"
+  },
+  {
+    "mfgpn": "LEN-12TD001MUS",
+    "brand": "lenovo commercial",
+    "stock": 52,
+    "sku": "7977505"
+  },
+  {
+    "mfgpn": "LEN-12U3000WCA",
+    "brand": "lenovo commercial",
+    "stock": 30,
+    "sku": "7977535"
+  },
+  {
+    "mfgpn": "LEN-21JK0052US",
+    "brand": "lenovo commercial",
+    "stock": 145,
+    "sku": "7229245"
+  },
+  {
+    "mfgpn": "LEN-21HH0053US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7264005"
+  },
+  {
+    "mfgpn": "LEN-21KC00A0US",
+    "brand": "lenovo commercial",
+    "stock": 152,
+    "sku": "7607955"
+  },
+  {
+    "mfgpn": "LEN-21MV000AUS",
+    "brand": "lenovo commercial",
+    "stock": 139,
+    "sku": "7886965"
+  },
+  {
+    "mfgpn": "LEN-21MW0003CA",
+    "brand": "lenovo commercial",
+    "stock": 16,
+    "sku": "7886985"
+  },
+  {
+    "mfgpn": "LEN-21G2001UUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7916585"
+  },
+  {
+    "mfgpn": "LEN-21MS0066CA",
+    "brand": "lenovo commercial",
+    "stock": 55,
+    "sku": "7951125"
+  },
+  {
+    "mfgpn": "LEN-21MA0006CA",
+    "brand": "lenovo commercial",
+    "stock": 390,
+    "sku": "7975075"
+  },
+  {
+    "mfgpn": "LEN-21LS0058US",
+    "brand": "lenovo commercial",
+    "stock": 44,
+    "sku": "7979825"
+  },
+  {
+    "mfgpn": "LEN-21MC004YCA",
+    "brand": "lenovo commercial",
+    "stock": 32,
+    "sku": "8014205"
+  },
+  {
+    "mfgpn": "LEN-7XB7A00049",
+    "brand": "lenovo global technology",
+    "stock": 6,
+    "sku": "5965936"
+  },
+  {
+    "mfgpn": "LEN-11JN0089US",
+    "brand": "lenovo commercial",
+    "stock": 148,
+    "sku": "7254366"
+  },
+  {
+    "mfgpn": "LEN-12RQ000MCA",
+    "brand": "lenovo commercial",
+    "stock": 2,
+    "sku": "8247906"
+  },
+  {
+    "mfgpn": "LEN-21HM000SUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "7151096"
+  },
+  {
+    "mfgpn": "LEN-21K70008US",
+    "brand": "lenovo commercial",
+    "stock": 293,
+    "sku": "7259136"
+  },
+  {
+    "mfgpn": "LEN-21ML0053US",
+    "brand": "lenovo commercial",
+    "stock": 202,
+    "sku": "7607946"
+  },
+  {
+    "mfgpn": "LEN-21LU004BUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7608236"
+  },
+  {
+    "mfgpn": "LEN-21MC004YUS",
+    "brand": "lenovo commercial",
+    "stock": 374,
+    "sku": "7984396"
+  },
+  {
+    "mfgpn": "LEN-21K9003AUS",
+    "brand": "lenovo commercial",
+    "stock": 5,
+    "sku": "8175946"
+  },
+  {
+    "mfgpn": "LEN-21NS0014US",
+    "brand": "lenovo commercial",
+    "stock": 50,
+    "sku": "8192676"
+  },
+  {
+    "mfgpn": "LEN-21NS005UUS",
+    "brand": "lenovo commercial",
+    "stock": 14,
+    "sku": "8307526"
+  },
+  {
+    "mfgpn": "LEN-83LT000SCC",
+    "brand": "lenovo consumer",
+    "stock": 100,
+    "sku": "8309857"
+  },
+  {
+    "mfgpn": "LEN-12XF000VUS",
+    "brand": "lenovo commercial",
+    "stock": 15,
+    "sku": "8189057"
+  },
+  {
+    "mfgpn": "LEN-21CF003TUS",
+    "brand": "lenovo commercial",
+    "stock": 8,
+    "sku": "6940057"
+  },
+  {
+    "mfgpn": "LEN-21DA001DUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7266227"
+  },
+  {
+    "mfgpn": "LEN-21ML0052US",
+    "brand": "lenovo commercial",
+    "stock": 63,
+    "sku": "7607947"
+  },
+  {
+    "mfgpn": "LEN-21MN005HUS",
+    "brand": "lenovo commercial",
+    "stock": 14,
+    "sku": "7607977"
+  },
+  {
+    "mfgpn": "LEN-21G2001VUS",
+    "brand": "lenovo commercial",
+    "stock": 23,
+    "sku": "7916587"
+  },
+  {
+    "mfgpn": "LEN-21KS001WUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7916617"
+  },
+  {
+    "mfgpn": "LEN-21KX001VUS",
+    "brand": "lenovo commercial",
+    "stock": 12,
+    "sku": "7951127"
+  },
+  {
+    "mfgpn": "LEN-21KX002GUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "7951137"
+  },
+  {
+    "mfgpn": "LEN-21KV0000US",
+    "brand": "lenovo commercial",
+    "stock": 35,
+    "sku": "7979827"
+  },
+  {
+    "mfgpn": "LEN-21KV0001US",
+    "brand": "lenovo commercial",
+    "stock": 22,
+    "sku": "7984567"
+  },
+  {
+    "mfgpn": "LEN-45J7915",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "4354818"
+  },
+  {
+    "mfgpn": "LEN-4XB7A77446",
+    "brand": "lenovo global technology",
+    "stock": 3,
+    "sku": "6897248"
+  },
+  {
+    "mfgpn": "LEN-ZADA0028US",
+    "brand": "lenovo consumer",
+    "stock": 300,
+    "sku": "7451688"
+  },
+  {
+    "mfgpn": "LEN-83KA0045CF",
+    "brand": "lenovo consumer",
+    "stock": 105,
+    "sku": "8296578"
+  },
+  {
+    "mfgpn": "LEN-12RQ000KUS",
+    "brand": "lenovo commercial",
+    "stock": 147,
+    "sku": "7977478"
+  },
+  {
+    "mfgpn": "LEN-30CF003MUS",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "6522728"
+  },
+  {
+    "mfgpn": "LEN-21FA002XUS",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7245358"
+  },
+  {
+    "mfgpn": "LEN-21G20022US",
+    "brand": "lenovo commercial",
+    "stock": 6,
+    "sku": "7916578"
+  },
+  {
+    "mfgpn": "LEN-21ME001CUS",
+    "brand": "lenovo commercial",
+    "stock": 114,
+    "sku": "7982878"
+  },
+  {
+    "mfgpn": "LEN-21M5000JCA",
+    "brand": "lenovo commercial",
+    "stock": 184,
+    "sku": "7984638"
+  },
+  {
+    "mfgpn": "LEN-12U00010US",
+    "brand": "lenovo commercial",
+    "stock": 1,
+    "sku": "8189869"
+  },
+  {
+    "mfgpn": "LEN-90YA0015FZ",
+    "brand": "lenovo consumer",
+    "stock": 100,
+    "sku": "8307869"
+  },
+  {
+    "mfgpn": "LEN-21JN0073US",
+    "brand": "lenovo commercial",
+    "stock": 14,
+    "sku": "7256309"
+  }
+]

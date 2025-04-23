@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Playwright browser cache (if used)
+.playwright/
+
+# Debug screenshots
+logs/screenshots/
+
+# Raw XML debug files
+logs/xml/
