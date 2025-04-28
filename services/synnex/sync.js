@@ -7,7 +7,7 @@ export const syncLenovoSKUsFromFile = async (
   filePath = "./filtered_skus_two.json"
 ) => {
   const file = await readFile(
-    "./services/synnex/filtered_skus_two.json",
+    "./services/synnex/filtered_hp_laptops.json",
     "utf-8"
   );
   const list = JSON.parse(file);
