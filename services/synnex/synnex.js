@@ -35,7 +35,6 @@ const scrapeSkuDetails = async (sku) => {
   console.log(`📄 Page Title for SKU ${sku}: ${pageTitle}`);
   await page.screenshot({ path: `logs/screenshots/${sku}.png` });
 
-  // 🚨 Detect auth error or redirect
   const currentURL = page.url();
   if (
     pageTitle.toLowerCase().includes("login") ||
@@ -45,15 +44,15 @@ const scrapeSkuDetails = async (sku) => {
       `❌ Looks like we hit login page or session expired for SKU ${sku}`
     );
     await browser.close();
-    return { image_url: null, specifications: {} };
+    return { image_url: null, specifications: {}, extraDetails: {} };
   }
 
-  // ✅ Attempt to fetch image
+  // ✅ Image
   const imageEl = await page.$("img.product-main-img");
   const image_url = imageEl ? await imageEl.getAttribute("src") : null;
   if (!image_url) console.warn(`⚠️ No image found for SKU ${sku}`);
 
-  // ✅ Attempt to scrape specs
+  // ✅ Specifications
   const specifications = await page.evaluate(() => {
     const container = document.querySelector("#tabContext_spec");
     if (!container) return {};
@@ -88,11 +87,28 @@ const scrapeSkuDetails = async (sku) => {
     console.warn(`⚠️ No specifications scraped for SKU ${sku}`);
   }
 
+  // ✅ Extra details like UNSPSC, TD SNX#, UPC, Warranty
+  const extraDetails = await page.evaluate(() => {
+    const detailMap = {};
+    const dts = document.querySelectorAll("dl.product-vertical dt");
+    const dds = document.querySelectorAll("dl.product-vertical dd");
+
+    for (let i = 0; i < dts.length; i++) {
+      const key = dts[i]?.innerText?.trim().replace(":", "");
+      const value = dds[i]?.innerText?.trim();
+      if (["UNSPSC", "TD SNX#", "UPC", "Warranty"].includes(key)) {
+        detailMap[key] = value;
+      }
+    }
+    return detailMap;
+  });
+
   await browser.close();
 
   return {
     image_url: image_url?.startsWith("//") ? "https:" + image_url : image_url,
     specifications,
+    extraDetails,
   };
 };
 
@@ -180,15 +196,18 @@ export const fetchSynnexPriceData = async (synnexSKU) => {
 export const mapSynnexToShopify = (item) => {
   const title = item.description || "Unnamed Product";
   const type = "Adapters";
-  const price = parseFloat(item.price || 0).toFixed(2);
-  const msrp = parseFloat(item.msrp || 0).toFixed(2);
-  const compareAtPrice = (msrp * 1.1).toFixed(2);
+  const cost = parseFloat(item.price || 0);
+  const msrp = parseFloat(item.msrp || 0);
+
+  const price = msrp > 0 ? msrp.toFixed(2) : (cost * 1.2).toFixed(2);
+  const compareAtPrice = msrp > 0 ? undefined : (cost * 1.35).toFixed(2);
+
   const weight = parseFloat(item.weight || 0.5);
 
   return {
     title,
     body_html: `<p>${title} (Auto-imported from SYNNEX)</p>`,
-    vendor: "SYNNEX",
+    vendor: "QueryTel",
     product_type: type,
     tags: [type],
     status: "active",
@@ -210,74 +229,117 @@ export const mapSynnexToShopify = (item) => {
 // ---------------------------
 // STEP 4: Metafields Builder
 // ---------------------------
-const buildMetafieldsFromSynnex = (data, product) => [
-  {
-    namespace: "custom",
-    key: "shopify_status",
-    value: product.status || "draft",
-    type: "single_line_text_field",
-  },
-  {
-    namespace: "custom",
-    key: "msrp",
-    value: String(data.msrp || 0),
-    type: "number_decimal",
-  },
-  {
-    namespace: "custom",
-    key: "distributor_price",
-    value: String(data.price || 0),
-    type: "number_decimal",
-  },
-  {
-    namespace: "custom",
-    key: "compatibility",
-    value: JSON.stringify({
-      type: "root",
-      children: [
-        {
-          type: "paragraph",
-          children: [
-            {
-              type: "text",
-              value:
-                "Compatible with Windows. Not supported on macOS, ChromeOS, or Linux.",
-            },
-          ],
-        },
-      ],
-    }),
-    type: "rich_text_field",
-  },
-  {
-    namespace: "custom",
-    key: "shipping_info",
-    value: JSON.stringify({
-      type: "root",
-      children: [
-        {
-          type: "paragraph",
-          children: [
-            {
-              type: "text",
-              value:
-                data.parcelShippable === "Y"
-                  ? "Parcel shippable. Drop-shipped by MFG or local warehouse."
-                  : "Shipping details not available.",
-            },
-          ],
-        },
-      ],
-    }),
-    type: "rich_text_field",
-  },
-  {
-    namespace: "custom",
-    key: "warehouse_breakdown",
-    value: JSON.stringify(data.warehouses),
-    type: "json",
-  },
-];
+const buildMetafieldsFromSynnex = (data, product, scraped) => {
+  const base = [
+    {
+      namespace: "custom",
+      key: "shopify_status",
+      value: product.status || "draft",
+      type: "single_line_text_field",
+    },
+    {
+      namespace: "custom",
+      key: "msrp",
+      value: String(data.msrp || 0),
+      type: "number_decimal",
+    },
+    {
+      namespace: "custom",
+      key: "distributor_price",
+      value: String(data.price || 0),
+      type: "number_decimal",
+    },
+    {
+      namespace: "custom",
+      key: "compatibility",
+      value: JSON.stringify({
+        type: "root",
+        children: [
+          {
+            type: "paragraph",
+            children: [
+              {
+                type: "text",
+                value:
+                  "Compatible with Windows. Not supported on macOS, ChromeOS, or Linux.",
+              },
+            ],
+          },
+        ],
+      }),
+      type: "rich_text_field",
+    },
+    {
+      namespace: "custom",
+      key: "shipping_info",
+      value: JSON.stringify({
+        type: "root",
+        children: [
+          {
+            type: "paragraph",
+            children: [
+              {
+                type: "text",
+                value:
+                  data.parcelShippable === "Y"
+                    ? "Parcel shippable. Drop-shipped by MFG or local warehouse."
+                    : "Shipping details not available.",
+              },
+            ],
+          },
+        ],
+      }),
+      type: "rich_text_field",
+    },
+    {
+      namespace: "custom",
+      key: "warehouse_breakdown",
+      value: JSON.stringify(data.warehouses),
+      type: "json",
+    },
+  ];
+
+  // Append new optional details if available
+  const { extraDetails } = scraped;
+
+  if (extraDetails?.["UNSPSC"]) {
+    base.push({
+      namespace: "custom",
+      key: "unspsc",
+      value: extraDetails["UNSPSC"],
+      type: "single_line_text_field",
+    });
+  }
+
+  if (extraDetails?.["TD SNX#"]) {
+    base.push({
+      namespace: "custom",
+      key: "td_snx",
+      value: extraDetails["TD SNX#"],
+      type: "single_line_text_field",
+    });
+  }
+
+  if (extraDetails?.["UPC"]) {
+    base.push({
+      namespace: "custom",
+      key: "upc",
+      value: extraDetails["UPC"],
+      type: "single_line_text_field",
+    });
+  }
+
+  if (extraDetails?.["Warranty"]) {
+    base.push({
+      namespace: "custom",
+      key: "warranty",
+      value: extraDetails["Warranty"],
+      type: "single_line_text_field",
+    });
+  }
+
+  return base;
+};
 
 // ---------------------------
 // STEP 5: Master Sync Function
