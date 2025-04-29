@@ -4,7 +4,7 @@
     "value": "en_CA",
     "domain": "ec.synnex.ca",
     "path": "/ecx8",
-    "expires": 1746540696.793801,
+    "expires": 1746556447.627367,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -14,7 +14,7 @@
     "value": "en_CA",
     "domain": "ec.synnex.ca",
     "path": "/ecx",
-    "expires": 1746540696.793734,
+    "expires": 1746556447.627317,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -24,7 +24,7 @@
     "value": "\"prem.kumar@querytel.com\"",
     "domain": "ec.synnex.ca",
     "path": "/ecx",
-    "expires": 1761473513.407526,
+    "expires": 1761489253.374879,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -41,7 +41,7 @@
   },
   {
     "name": "XJSESSIONID",
-    "value": "ecg1u1v7st7iiba4358yo8vlgw6y80.ecg1u1",
+    "value": "ecg1u25n7ynoljv7ia11fwa5re6v0vr.ecg1u2",
     "domain": "ec.synnex.ca",
     "path": "/",
     "expires": -1,
@@ -51,17 +51,17 @@
   },
   {
     "name": "visid_incap_3102877",
-    "value": "ON2rauqLRfSlCZp0dgUSNQPeEGgAAAAAQUIPAAAAAAAdGwIXSzQj3KsF1+k2Wscq",
+    "value": "0Atik+L3TIyvkNiEhOzFpIsbEWgAAAAAQUIPAAAAAABUbBB0xrQk516YltEr0PPT",
     "domain": ".synnex.ca",
     "path": "/",
-    "expires": 1777390908.793823,
+    "expires": 1777477309.627399,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "nlbi_3102877",
-    "value": "l4cOExMGHnI/gBz5tCIGVwAAAAAasNCx5XX5e3+JpGAxAmrv",
+    "value": "3ERaD6ZNHg5IUonqtCIGVwAAAACARhxKkQ7VEmNNlEnXecgZ",
     "domain": ".synnex.ca",
     "path": "/",
     "expires": -1,
@@ -71,7 +71,7 @@
   },
   {
     "name": "incap_ses_1564_3102877",
-    "value": "cSGpeWKbRyoE1xdFAXK0FQXeEGgAAAAAMdkhVWnVN/LefQl6xdtLhA==",
+    "value": "CyFEJdSppBOt93FFAXK0FYwbEWgAAAAAEdrlKUhM9FBhoBdAuztwtw==",
     "domain": ".synnex.ca",
     "path": "/",
     "expires": -1,
@@ -80,28 +80,28 @@
     "sameSite": "None"
   },
   {
-    "name": "visid_incap_3102875",
-    "value": "F/yke0tiSReqPLZsg+vUSQfeEGgAAAAAQUIPAAAAAAA2nTxuhBHx5MfgLh6ynMBR",
-    "domain": ".synnex.com",
-    "path": "/",
-    "expires": 1777390494.462945,
-    "httpOnly": true,
-    "secure": true,
-    "sameSite": "None"
-  },
-  {
     "name": "activeScreenHash",
-    "value": "7e3df76f-609c-46af-ba80-e8b8b1452029",
+    "value": "ce3bbdd7-202e-410b-a662-4efd06374c5e",
     "domain": "ec.synnex.ca",
     "path": "/",
-    "expires": 1748527914,
+    "expires": 1748543654,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
+    "name": "visid_incap_3102875",
+    "value": "wHzjOzNiSHCFAkz3jTUCeI0bEWgAAAAAQUIPAAAAAACXReXM7KU9uZuOtvXMF/YA",
+    "domain": ".synnex.com",
+    "path": "/",
+    "expires": 1777476895.577391,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
     "name": "incap_ses_960_3102875",
-    "value": "PQJoEz7J0G2l7ia4RJtSDQfeEGgAAAAAGiGFJQp/9JhXin7WgyVWVA==",
+    "value": "diMEOpolQA6JAn64RJtSDY0bEWgAAAAAlFjgdCFLbB+G/a3+l9pP5Q==",
     "domain": ".synnex.com",
     "path": "/",
     "expires": -1,
@@ -111,7 +111,7 @@
   },
   {
     "name": "logid",
-    "value": "3435f9ddde9d4ac0b1577f8e5fa37f80",
+    "value": "7bd21f16cb064bef9650227e8563b3dd",
     "domain": "ec.synnex.ca",
     "path": "/",
     "expires": -1,
@@ -121,7 +121,7 @@
   },
   {
     "name": "x-xsrf-token",
-    "value": "f5cb85428ec146c3b46567660b95e1fe",
+    "value": "2646d2c50b4f45eeb35521ca6d519033",
     "domain": "ec.synnex.ca",
     "path": "/",
     "expires": -1,
@@ -130,71 +130,61 @@
     "sameSite": "None"
   },
   {
-    "name": "__cf_bm",
-    "value": "JDnEpCbcCWroYWLH2U0O9.iRIxtklJv_qaYUabu3Fgg-1745935882-1.0.1.1-YbvItIaz11vi6qjbE1b5.VV0dkF66arWpva9CaHFBKK3GTeHuCqquF1gYIHUg5H8ReXfKSBFHigUCofvZrMMjGBKK_7HJIqDEU9Zc47kaqA",
-    "domain": ".info.tdsynnex.com",
-    "path": "/",
-    "expires": 1745937700.505824,
-    "httpOnly": true,
-    "secure": true,
-    "sameSite": "None"
-  },
-  {
     "name": "_mkto_trk",
-    "value": "id:946-OMQ-360&token:_mch-ec.synnex.ca-92b2e7a8c0bbba28c872893404c9f7d",
+    "value": "id:946-OMQ-360&token:_mch-ec.synnex.ca-4d5454af6058971998f97b54be5131ab",
     "domain": ".ec.synnex.ca",
     "path": "/",
-    "expires": 1780495917.100782,
+    "expires": 1780511655.415047,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "_ga",
-    "value": "GA1.1.1633197672.1745935901",
+    "value": "GA1.1.690592189.1745951651",
     "domain": ".synnex.ca",
     "path": "/",
-    "expires": 1780495915.697456,
+    "expires": 1780511654.852808,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "CLID",
-    "value": "9b932e6db42c4f39ade0290ff8a430be.20250429.20260429",
+    "value": "bb0359f95ea049fb8639becb515727f5.20250429.20260429",
     "domain": "www.clarity.ms",
     "path": "/",
-    "expires": 1777471901.069892,
+    "expires": 1777487651.076644,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "TtpdCFsxF5sKgqvKf.pwrDqM8BQKBiB_d9hg7WNzDfo-1745951632-1.0.1.1-jUZTkgs8Rjt4RwE3nBO0vfQ4nPYFZ.HXJNnLK1fzV4AqVg4ladPFqRyF5o1L1q9Zm6xdS_2JYJpDAJSuDrath8CwP.K_DDqeW_koURYjSB8",
+    "domain": ".info.tdsynnex.com",
+    "path": "/",
+    "expires": 1745953451.083078,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "_clck",
-    "value": "12dyuvt%7C2%7Cfvh%7C0%7C1945",
+    "value": "yespop%7C2%7Cfvh%7C0%7C1945",
     "domain": ".synnex.ca",
     "path": "/",
-    "expires": 1777471901,
+    "expires": 1777487651,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
-    "name": "nlbi_3102875",
-    "value": "7Rf7Tx5rzQlU7sPuS92beAAAAACQKAfbvE29J11leOEVAbvF",
-    "domain": ".synnex.com",
-    "path": "/",
-    "expires": -1,
-    "httpOnly": true,
-    "secure": true,
-    "sameSite": "None"
-  },
-  {
     "name": "MUID",
-    "value": "31253465E67C6AD2372721B8E77C6B5B",
+    "value": "2E92F6F8EFAC6A222B53E325EEB86B81",
     "domain": ".bing.com",
     "path": "/",
-    "expires": 1779631902.479256,
+    "expires": 1779647652.143032,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
@@ -204,17 +194,17 @@
     "value": "0",
     "domain": ".c.bing.com",
     "path": "/",
-    "expires": 1746540702.479366,
+    "expires": 1746556452.143143,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
   },
   {
     "name": "SRM_B",
-    "value": "31253465E67C6AD2372721B8E77C6B5B",
+    "value": "2E92F6F8EFAC6A222B53E325EEB86B81",
     "domain": ".c.bing.com",
     "path": "/",
-    "expires": 1779631902.4794,
+    "expires": 1779647652.143175,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
@@ -231,10 +221,10 @@
   },
   {
     "name": "MUID",
-    "value": "31253465E67C6AD2372721B8E77C6B5B",
+    "value": "2E92F6F8EFAC6A222B53E325EEB86B81",
     "domain": ".clarity.ms",
     "path": "/",
-    "expires": 1779631903.62717,
+    "expires": 1779647653.287405,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
@@ -244,7 +234,7 @@
     "value": "0",
     "domain": ".c.clarity.ms",
     "path": "/",
-    "expires": 1746540703.627222,
+    "expires": 1746556453.287447,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
@@ -254,14 +244,24 @@
     "value": "0",
     "domain": ".c.clarity.ms",
     "path": "/",
-    "expires": 1745936503.627247,
+    "expires": 1745952253.287456,
     "httpOnly": false,
     "secure": true,
     "sameSite": "None"
   },
   {
+    "name": "nlbi_3102875",
+    "value": "wu1EKQuhWCya3X4HS92beAAAAADj53vknmOa5LSuiJjnz0h7",
+    "domain": ".synnex.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
     "name": "sid",
-    "value": "ba286f65052d4a09ba0d063345b460adepowipi1eq0",
+    "value": "a4452a77e3ea435284eeee7da38afc33epowipi1eq0",
     "domain": "ec.synnex.ca",
     "path": "/",
     "expires": -1,
@@ -271,17 +271,47 @@
   },
   {
     "name": "_clsk",
-    "value": "fi49q9%7C1745935916593%7C2%7C1%7Cs.clarity.ms%2Fcollect",
+    "value": "kxbi8l%7C1745951655807%7C2%7C1%7Cs.clarity.ms%2Fcollect",
     "domain": ".synnex.ca",
     "path": "/",
-    "expires": 1746022316,
+    "expires": 1746038055,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ab_csid",
+    "value": "D8yR%2BWzh%3DqVbww8rbLtfZ%2F78a2JHcOfgvCh8a5iU9%2F2sX6PVuezKc%2Bhg2Vj5G6EC",
+    "domain": ".servedbyadbutler.com",
+    "path": "/",
+    "expires": 1777487656.658033,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_9W18CP18E7",
+    "value": "GS1.1.1745951650.1.1.1745951656.0.0.0",
+    "domain": ".synnex.ca",
+    "path": "/",
+    "expires": 1780511656.805135,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_K18PYH8N4K",
+    "value": "GS1.1.1745951651.1.1.1745951656.0.0.0",
+    "domain": ".synnex.ca",
+    "path": "/",
+    "expires": 1780511656.808241,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "QSI_HistorySession",
-    "value": "https%3A%2F%2Fec.synnex.ca%2Fecx%2Flogin.html~1745935902081%7Chttps%3A%2F%2Fec.synnex.ca%2Fecx%2Fpart%2FtechNote.html%3FskuNo%3D5124092%26redirectReq%3D1~1745935917707",
+    "value": "https%3A%2F%2Fec.synnex.ca%2Fecx%2Flogin.html~1745951651840%7Chttps%3A%2F%2Fec.synnex.ca%2Fecx%2Flanding.html%3FredirectReq%3D1~1745951657995",
     "domain": "ec.synnex.ca",
     "path": "/",
     "expires": -1,
@@ -290,23 +320,13 @@
     "sameSite": "Lax"
   },
   {
-    "name": "_ga_9W18CP18E7",
-    "value": "GS1.1.1745935901.1.1.1745935919.0.0.0",
-    "domain": ".synnex.ca",
+    "name": "QSI_SI_0NvPdPwsYeI2R5I_intercept",
+    "value": "true",
+    "domain": "ec.synnex.ca",
     "path": "/",
-    "expires": 1780495919.06557,
+    "expires": 1751135658,
     "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
-    "name": "_ga_K18PYH8N4K",
-    "value": "GS1.1.1745935901.1.1.1745935919.0.0.0",
-    "domain": ".synnex.ca",
-    "path": "/",
-    "expires": 1780495919.068081,
-    "httpOnly": false,
-    "secure": false,
+    "secure": true,
     "sameSite": "Lax"
   }
 ]
