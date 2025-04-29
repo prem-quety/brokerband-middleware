@@ -1,40 +1,31 @@
-// services/sync.service.js
-import { readFile } from "fs/promises";
-import { syncSynnexToShopify } from "./synnex.js"; // update path
-import path from "path";
+// /services/synnex/sync.js
+import { fetchSynnexPriceData } from "./apiFetcher.js";
+import { scrapeSkuDetails } from "./scraper.js";
+import { mapSynnexToShopify, buildMetafieldsFromSynnex } from "./mappings.js";
+import {
+  postProductToShopify,
+  setProductMetafields,
+} from "../shopify/shopify.js";
+import { log } from "../../utils/helpers.js";
 
-export const syncLenovoSKUsFromFile = async (
-  filePath = "./filtered_skus_two.json"
-) => {
-  const file = await readFile(
-    "./services/synnex/filtered_hp_laptops.json",
-    "utf-8"
-  );
-  const list = JSON.parse(file);
+export const syncSynnexToShopify = async (synnexSKU) => {
+  const [apiData, scraped] = await Promise.all([
+    fetchSynnexPriceData(synnexSKU),
+    scrapeSkuDetails(synnexSKU),
+  ]);
 
-  let success = 0;
-  let failed = [];
-
-  for (let i = 0; i < list.length; i++) {
-    const sku = list[i]?.sku;
-    if (!sku) continue;
-
-    console.log(`\n🔄 Syncing SKU [${i + 1}/${list.length}]: ${sku}`);
-
-    try {
-      const result = await syncSynnexToShopify(sku);
-      if (result) success++;
-    } catch (err) {
-      console.error(`❌ Failed for SKU ${sku}: ${err.message}`);
-      failed.push(sku);
-    }
-
-    await new Promise((r) => setTimeout(r, 2000)); // optional delay
+  if (!apiData) {
+    log("warn", `No data returned for SKU: ${synnexSKU}`);
+    return;
   }
 
-  return {
-    synced: success,
-    failed,
-    total: list.length,
-  };
+  const payload = mapSynnexToShopify(apiData);
+  if (scraped.image_url) payload.images = [{ src: scraped.image_url }];
+
+  const created = await postProductToShopify(payload);
+  const metafields = buildMetafieldsFromSynnex(apiData, created, scraped);
+  await setProductMetafields(created.id, metafields);
+
+  log("info", `✅ Synced product + metafields for SKU: ${synnexSKU}`);
+  return created;
 };
