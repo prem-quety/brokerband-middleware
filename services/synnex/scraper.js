@@ -25,19 +25,17 @@ export const scrapeSkuDetails = async (sku) => {
 
   const title = await page.title();
   const currentURL = page.url();
+  const pageTitle = await page.title();
 
   await page.screenshot({
     path: path.join(screenshotDir, `${sku}.png`),
   });
 
   // ❌ If login required, return fallback
+  console.log(`📄 Page Title for SKU ${sku}: ${pageTitle}`);
   if (title.toLowerCase().includes("login") || currentURL.includes("login")) {
     await browser.close();
-    return {
-      image_url: null,
-      specifications: {},
-      extraDetails: {},
-    };
+    throw new Error(`❌ Session expired: SYNNEX login required for SKU ${sku}`);
   }
 
   const imageEl = await page.$("img.product-main-img");
