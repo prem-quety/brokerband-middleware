@@ -38,9 +38,26 @@ export const scrapeSkuDetails = async (sku) => {
     throw new Error(`❌ Session expired: SYNNEX login required for SKU ${sku}`);
   }
 
-  const imageEl = await page.$("img.product-main-img");
-  let image_url = imageEl ? await imageEl.getAttribute("src") : null;
-  if (image_url?.startsWith("//")) image_url = `https:${image_url}`;
+  // ✅ Scrape ALL image URLs (converted to high-res)
+  const image_urls = await page.evaluate(() => {
+    const thumbnails = Array.from(
+      document.querySelectorAll(".carousel-gallery img")
+    );
+
+    return thumbnails
+      .map((img) => img.getAttribute("src"))
+      .filter(Boolean)
+      .map((src) =>
+        src.startsWith("//")
+          ? `https:${
+              src
+                .replace("small_image_technote", "image_technote")
+                .split("?")[0]
+            }`
+          : null
+      )
+      .filter(Boolean);
+  });
 
   const specifications = await page.evaluate(() => {
     const container = document.querySelector("#tabContext_spec");
@@ -91,11 +108,17 @@ export const scrapeSkuDetails = async (sku) => {
     };
   });
 
+  const scrapedDescription = await page.evaluate(() => {
+    const descEl = document.querySelector("p.product-description");
+    return descEl?.innerText.trim() || null;
+  });
+
   await browser.close();
 
   return {
-    image_url,
+    image_urls,
     specifications,
     extraDetails,
+    description: scrapedDescription,
   };
 };

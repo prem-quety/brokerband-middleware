@@ -1,0 +1,2858 @@
+[
+  {
+    "mfgpn": "S015086",
+    "sku": "1141000",
+    "brand": "epson",
+    "stock": 4,
+    "description": "printer fabric ribbon - black -  12 million characters - fx-2170 ,fx-2180,lq-207",
+    "lineIndex": 158
+  },
+  {
+    "mfgpn": "ERC-38B",
+    "sku": "1211597",
+    "brand": "epson",
+    "stock": 347,
+    "description": "consumable type: print ribbon - output color: black - printer compatibility: tm-",
+    "lineIndex": 174
+  },
+  {
+    "mfgpn": "ERC-05B",
+    "sku": "1211601",
+    "brand": "epson",
+    "stock": 1,
+    "description": "consumable type - printer ribbon , output color - black, printer compatibility -",
+    "lineIndex": 175
+  },
+  {
+    "mfgpn": "S041385",
+    "sku": "1623185",
+    "brand": "epson",
+    "stock": 10,
+    "description": "matte paper - white - stylus pro 7000, 7500, 9000, and 9500 printers",
+    "lineIndex": 666
+  },
+  {
+    "mfgpn": "C9351AN#140",
+    "sku": "4139148",
+    "brand": "hp inc.",
+    "stock": 48,
+    "description": "hp 21 (c9351an#140) black original inkjet catridge; avg page yield 190",
+    "lineIndex": 1374
+  },
+  {
+    "mfgpn": "S042004",
+    "sku": "4140122",
+    "brand": "epson",
+    "stock": 1,
+    "description": "commercial proofing paper -  white semimatte for select epson printers - 24in x",
+    "lineIndex": 1380
+  },
+  {
+    "mfgpn": "Q7432A",
+    "sku": "4182958",
+    "brand": "hp inc.",
+    "stock": 47,
+    "description": "hp staple cartridge pack staple cartridge pack for the hp laserjet 3392 all-in-o",
+    "lineIndex": 1514
+  },
+  {
+    "mfgpn": "0898B001",
+    "sku": "4361372",
+    "brand": "canon",
+    "stock": 2,
+    "description": "lucia pfi-102 y - ink tank - pigmented yellow - for ipf 500, 600 and 700 printer",
+    "lineIndex": 2348
+  },
+  {
+    "mfgpn": "0894B001",
+    "sku": "4362653",
+    "brand": "canon",
+    "stock": 5,
+    "description": "ink tank - pigmented matte black - for ipf 500, 600 and 700 printers",
+    "lineIndex": 2350
+  },
+  {
+    "mfgpn": "CC640WN#140",
+    "sku": "4446211",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 60 (cc640wn#140) black original inkjet catridge; avg page yield 200",
+    "lineIndex": 2919
+  },
+  {
+    "mfgpn": "CE712A#BGJ",
+    "sku": "4641904",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hp color laserjet pro cp5225dn (ppm-20) (dpi-600 x 600 dpi) (dc-up to 75,000 pag",
+    "lineIndex": 4041
+  },
+  {
+    "mfgpn": "200011P",
+    "sku": "4739989",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet 5si, 5simx, 5sinx, mop",
+    "lineIndex": 4558
+  },
+  {
+    "mfgpn": "200121P",
+    "sku": "4740000",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet m1120, m1522, m1522n,",
+    "lineIndex": 4563
+  },
+  {
+    "mfgpn": "200126P",
+    "sku": "4740001",
+    "brand": "clover imaging group",
+    "stock": 8,
+    "description": "cig remanufactured consumable alternative for hp laserjet p4014, p4014dn, p4014n",
+    "lineIndex": 4564
+  },
+  {
+    "mfgpn": "200181P",
+    "sku": "4740004",
+    "brand": "clover imaging group",
+    "stock": 70,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m1536dnf mfp, p156",
+    "lineIndex": 4567
+  },
+  {
+    "mfgpn": "200182P",
+    "sku": "4740005",
+    "brand": "clover imaging group",
+    "stock": 60,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m1130, m1132mfp, m",
+    "lineIndex": 4568
+  },
+  {
+    "mfgpn": "200173P",
+    "sku": "4740006",
+    "brand": "clover imaging group",
+    "stock": 245,
+    "description": "cig remanufactured consumable alternative for hp laserjet p2030, p2035, p2035n,",
+    "lineIndex": 4569
+  },
+  {
+    "mfgpn": "200176P",
+    "sku": "4740008",
+    "brand": "clover imaging group",
+    "stock": 12,
+    "description": "cig remanufactured consumable alternative for hp laserjet 4200, 4200n, 4200tn, 4",
+    "lineIndex": 4571
+  },
+  {
+    "mfgpn": "200042P",
+    "sku": "4740017",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 2410, 2420, 2420d, 242",
+    "lineIndex": 4576
+  },
+  {
+    "mfgpn": "200094P",
+    "sku": "4740020",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet m2727 mfp, m2727nf mfp",
+    "lineIndex": 4579
+  },
+  {
+    "mfgpn": "115044P",
+    "sku": "4740021",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet m5025 mfp, m5035 mfp,",
+    "lineIndex": 4580
+  },
+  {
+    "mfgpn": "200009P",
+    "sku": "4740027",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 1000, 1200, 1200n, 120",
+    "lineIndex": 4582
+  },
+  {
+    "mfgpn": "200180P",
+    "sku": "4740035",
+    "brand": "clover imaging group",
+    "stock": 136,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro mfp m521dn, m521dw",
+    "lineIndex": 4588
+  },
+  {
+    "mfgpn": "200050P",
+    "sku": "4740042",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet 1320, 1320n, 1320t, 13",
+    "lineIndex": 4593
+  },
+  {
+    "mfgpn": "200136P",
+    "sku": "4740046",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet m3027 mfp, m3027x, m30",
+    "lineIndex": 4596
+  },
+  {
+    "mfgpn": "200177P",
+    "sku": "4740047",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet m3027 mfp, m3027x, m30",
+    "lineIndex": 4597
+  },
+  {
+    "mfgpn": "200005P",
+    "sku": "4740048",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet m2727 mfp, m2727nf mfp",
+    "lineIndex": 4598
+  },
+  {
+    "mfgpn": "200203P",
+    "sku": "4740049",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet m2727 mfp, m2727nf mfp",
+    "lineIndex": 4599
+  },
+  {
+    "mfgpn": "115997P",
+    "sku": "4740067",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet p2030, p2035, p2035n,",
+    "lineIndex": 4606
+  },
+  {
+    "mfgpn": "200081P",
+    "sku": "4740276",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet 3600, 3600n, 36",
+    "lineIndex": 4635
+  },
+  {
+    "mfgpn": "200197P",
+    "sku": "4740278",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet cm3530 mfp, cm3",
+    "lineIndex": 4636
+  },
+  {
+    "mfgpn": "200123P",
+    "sku": "4740285",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet cp1210, cp1215,",
+    "lineIndex": 4639
+  },
+  {
+    "mfgpn": "200128P",
+    "sku": "4740286",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet cm2320 mfp, cm2",
+    "lineIndex": 4640
+  },
+  {
+    "mfgpn": "200125P",
+    "sku": "4740303",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet cp1210, cp1215,",
+    "lineIndex": 4648
+  },
+  {
+    "mfgpn": "200076P",
+    "sku": "4740326",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet 1600, 2600, 260",
+    "lineIndex": 4661
+  },
+  {
+    "mfgpn": "RM1-4554-REF",
+    "sku": "4743594",
+    "brand": "clover imaging group",
+    "stock": 7,
+    "description": "hp laserjet p4014, p4014dn,p4014n, p4015,p4015dn, p4015n, p4015tn, p4515, p4515d",
+    "lineIndex": 4684
+  },
+  {
+    "mfgpn": "200187P",
+    "sku": "4898616",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro cm1415, cp1",
+    "lineIndex": 5566
+  },
+  {
+    "mfgpn": "200490P",
+    "sku": "4898623",
+    "brand": "clover imaging group",
+    "stock": 30,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro mfp m521dn, m521dw",
+    "lineIndex": 5571
+  },
+  {
+    "mfgpn": "200511P",
+    "sku": "4909144",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet m3027 mfp, m3027x, m30",
+    "lineIndex": 5753
+  },
+  {
+    "mfgpn": "CF236A#BGJ",
+    "sku": "4915503",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hp laserjet enterprise 700 m712dn",
+    "lineIndex": 5810
+  },
+  {
+    "mfgpn": "CF064-67901-REF",
+    "sku": "4915944",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "hp laserjet enterprise 600 m601n, m601dn, m602dn, m602n, m602x, m603dn, m603n, m",
+    "lineIndex": 5840
+  },
+  {
+    "mfgpn": "200574P",
+    "sku": "5107858",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise cp55",
+    "lineIndex": 6643
+  },
+  {
+    "mfgpn": "200575P",
+    "sku": "5107860",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise cp55",
+    "lineIndex": 6644
+  },
+  {
+    "mfgpn": "200569P",
+    "sku": "5107861",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet professional cp",
+    "lineIndex": 6645
+  },
+  {
+    "mfgpn": "200570P",
+    "sku": "5107862",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet professional cp",
+    "lineIndex": 6646
+  },
+  {
+    "mfgpn": "200572P",
+    "sku": "5107863",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet professional cp",
+    "lineIndex": 6647
+  },
+  {
+    "mfgpn": "200571P",
+    "sku": "5107864",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet professional cp",
+    "lineIndex": 6648
+  },
+  {
+    "mfgpn": "200577P",
+    "sku": "5107865",
+    "brand": "clover imaging group",
+    "stock": 20,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 400 m401, m401dn,",
+    "lineIndex": 6649
+  },
+  {
+    "mfgpn": "200586P",
+    "sku": "5107867",
+    "brand": "clover imaging group",
+    "stock": 5,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 400 m401, m401dn,",
+    "lineIndex": 6651
+  },
+  {
+    "mfgpn": "200582P",
+    "sku": "5153858",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet p4014, p4014dn, p4014n",
+    "lineIndex": 7330
+  },
+  {
+    "mfgpn": "200559P",
+    "sku": "5165260",
+    "brand": "clover imaging group",
+    "stock": 9,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 300 colour m351, m",
+    "lineIndex": 7469
+  },
+  {
+    "mfgpn": "200560P",
+    "sku": "5165261",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 300 colour m351, m",
+    "lineIndex": 7470
+  },
+  {
+    "mfgpn": "200562P",
+    "sku": "5165263",
+    "brand": "clover imaging group",
+    "stock": 13,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 300 colour m351, m",
+    "lineIndex": 7471
+  },
+  {
+    "mfgpn": "5206B020",
+    "sku": "5168652",
+    "brand": "canon",
+    "stock": 238,
+    "description": "this special extra-large canon combo pack is for the serious photo printer. incl",
+    "lineIndex": 7497
+  },
+  {
+    "mfgpn": "2973B019",
+    "sku": "5168654",
+    "brand": "canon",
+    "stock": 21,
+    "description": "this special extra-large canon combo pack is for the serious photo printer. incl",
+    "lineIndex": 7498
+  },
+  {
+    "mfgpn": "CC643WN#140",
+    "sku": "5178264",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 60 (cc643wn#140) tri-color original inkjet catridge; avg page yield 165",
+    "lineIndex": 7621
+  },
+  {
+    "mfgpn": "CH561WN#140",
+    "sku": "5178269",
+    "brand": "hp inc.",
+    "stock": 288,
+    "description": "hp 61 (ch561wn#140) black original inkjet catridge; avg page yield 170",
+    "lineIndex": 7622
+  },
+  {
+    "mfgpn": "CH562WN#140",
+    "sku": "5178270",
+    "brand": "hp inc.",
+    "stock": 312,
+    "description": "hp 61 (ch562wn#140) tri-color original inkjet catridge; avg page yield 150",
+    "lineIndex": 7623
+  },
+  {
+    "mfgpn": "CH563WN#140",
+    "sku": "5178271",
+    "brand": "hp inc.",
+    "stock": 120,
+    "description": "hp 61xl (ch563wn#140) black high yield original inkjet catridge; avg page yield",
+    "lineIndex": 7624
+  },
+  {
+    "mfgpn": "CH564WN#140",
+    "sku": "5178272",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 61xl (ch564wn#140) tri-color high yield original inkjet catridge; avg page yi",
+    "lineIndex": 7625
+  },
+  {
+    "mfgpn": "C1N54A",
+    "sku": "5178413",
+    "brand": "hp inc.",
+    "stock": 12,
+    "description": "hp laserjet 110v maintenance kit; installation guide",
+    "lineIndex": 7632
+  },
+  {
+    "mfgpn": "CB316WN#140",
+    "sku": "5180396",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 564 (cb316wn#140) black original inkjet catridge; avg page yield 250",
+    "lineIndex": 7658
+  },
+  {
+    "mfgpn": "CN684WN#140",
+    "sku": "5180405",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 564xl (cn684wn#140) black high yield original inkjet catridge; avg page yield",
+    "lineIndex": 7662
+  },
+  {
+    "mfgpn": "CR259FN#140",
+    "sku": "5204553",
+    "brand": "hp inc.",
+    "stock": 1248,
+    "description": "hp 61 (cr259fn#140) tri-color/black dual-pack original inkjet catridge; avg page",
+    "lineIndex": 8111
+  },
+  {
+    "mfgpn": "200563P",
+    "sku": "5220289",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet m551n, m551dn,",
+    "lineIndex": 8302
+  },
+  {
+    "mfgpn": "200564P",
+    "sku": "5220290",
+    "brand": "clover imaging group",
+    "stock": 10,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet m551n, m551dn,",
+    "lineIndex": 8303
+  },
+  {
+    "mfgpn": "200565P",
+    "sku": "5220291",
+    "brand": "clover imaging group",
+    "stock": 20,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet m551n, m551dn,",
+    "lineIndex": 8304
+  },
+  {
+    "mfgpn": "200567P",
+    "sku": "5220292",
+    "brand": "clover imaging group",
+    "stock": 5,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet m551n, m551dn,",
+    "lineIndex": 8305
+  },
+  {
+    "mfgpn": "200617P",
+    "sku": "5220295",
+    "brand": "clover imaging group",
+    "stock": 22,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 200 colour m251nw;",
+    "lineIndex": 8307
+  },
+  {
+    "mfgpn": "200618P",
+    "sku": "5220296",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 200 colour m251nw;",
+    "lineIndex": 8308
+  },
+  {
+    "mfgpn": "200619P",
+    "sku": "5220298",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 200 colour m251nw;",
+    "lineIndex": 8310
+  },
+  {
+    "mfgpn": "200553P",
+    "sku": "5220299",
+    "brand": "clover imaging group",
+    "stock": 20,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 600 m601n,",
+    "lineIndex": 8311
+  },
+  {
+    "mfgpn": "200611P",
+    "sku": "5220302",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 m712dn,",
+    "lineIndex": 8313
+  },
+  {
+    "mfgpn": "200685P",
+    "sku": "5306140",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 m712dn,",
+    "lineIndex": 10501
+  },
+  {
+    "mfgpn": "C2P04AN#140",
+    "sku": "5317330",
+    "brand": "hp inc.",
+    "stock": 552,
+    "description": "hp 62 (c2p04an#140) black original inkjet catridge; avg page yield 200",
+    "lineIndex": 10688
+  },
+  {
+    "mfgpn": "C2P05AN#140",
+    "sku": "5317331",
+    "brand": "hp inc.",
+    "stock": 168,
+    "description": "hp 62xl (c2p05an#140) black high yield original inkjet catridge; avg page yield",
+    "lineIndex": 10689
+  },
+  {
+    "mfgpn": "C2P07AN#140",
+    "sku": "5317334",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 62xl (c2p07an#140) tri-color high yield original inkjet catridge; avg page yi",
+    "lineIndex": 10691
+  },
+  {
+    "mfgpn": "200777P",
+    "sku": "5483302",
+    "brand": "clover imaging group",
+    "stock": 34,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise m604dn, m60",
+    "lineIndex": 14595
+  },
+  {
+    "mfgpn": "200752P",
+    "sku": "5483304",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro mfp m176, m",
+    "lineIndex": 14596
+  },
+  {
+    "mfgpn": "200754P",
+    "sku": "5483306",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro mfp m176, m",
+    "lineIndex": 14598
+  },
+  {
+    "mfgpn": "200740P",
+    "sku": "5483309",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m476dn, m47",
+    "lineIndex": 14601
+  },
+  {
+    "mfgpn": "F6U61AN#140",
+    "sku": "5521695",
+    "brand": "hp inc.",
+    "stock": 120,
+    "description": "hp 63 (f6u61an#140) tri-color original inkjet cart",
+    "lineIndex": 15319
+  },
+  {
+    "mfgpn": "F6U62AN#140",
+    "sku": "5521696",
+    "brand": "hp inc.",
+    "stock": 312,
+    "description": "hp 63 (f6u62an#140) blk original inkjet cart",
+    "lineIndex": 15320
+  },
+  {
+    "mfgpn": "F6U64AN#140",
+    "sku": "5521698",
+    "brand": "hp inc.",
+    "stock": 336,
+    "description": "hp 63xl (f6u64an#140) blk high yield original inkjet cart",
+    "lineIndex": 15321
+  },
+  {
+    "mfgpn": "L0R46AN#140",
+    "sku": "5521699",
+    "brand": "hp inc.",
+    "stock": 1104,
+    "description": "hp 63 (l0r46an#140) tri-color/blk 2-pack original inkjet cart",
+    "lineIndex": 15322
+  },
+  {
+    "mfgpn": "D9P29A",
+    "sku": "5530214",
+    "brand": "hp inc.",
+    "stock": 75,
+    "description": "hp laserjet pro 550-sheet feeder tray",
+    "lineIndex": 16912
+  },
+  {
+    "mfgpn": "F2A73A",
+    "sku": "5530217",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hp laserjet printer cabinet",
+    "lineIndex": 16915
+  },
+  {
+    "mfgpn": "02-81575-001",
+    "sku": "5540341",
+    "brand": "troy group",
+    "stock": 4,
+    "description": "troy micr toner secure cartridge for use with: troy m402 micr secure printers an",
+    "lineIndex": 16991
+  },
+  {
+    "mfgpn": "0515C003",
+    "sku": "5549123",
+    "brand": "canon",
+    "stock": 7,
+    "description": "pixma mg3620 black wireless photo all-in-one inkjet printer, up to 4800 x 1200 d",
+    "lineIndex": 17871
+  },
+  {
+    "mfgpn": "200797",
+    "sku": "5600485",
+    "brand": "clover imaging group",
+    "stock": 10,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise flow",
+    "lineIndex": 18731
+  },
+  {
+    "mfgpn": "200798",
+    "sku": "5600486",
+    "brand": "clover imaging group",
+    "stock": 13,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise flow",
+    "lineIndex": 18732
+  },
+  {
+    "mfgpn": "200799",
+    "sku": "5600487",
+    "brand": "clover imaging group",
+    "stock": 10,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise flow",
+    "lineIndex": 18733
+  },
+  {
+    "mfgpn": "200624P",
+    "sku": "5600496",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 colour",
+    "lineIndex": 18736
+  },
+  {
+    "mfgpn": "200625P",
+    "sku": "5600497",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 colour",
+    "lineIndex": 18737
+  },
+  {
+    "mfgpn": "200784P",
+    "sku": "5600499",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 600 colour",
+    "lineIndex": 18738
+  },
+  {
+    "mfgpn": "200785P",
+    "sku": "5600500",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 600 colour",
+    "lineIndex": 18739
+  },
+  {
+    "mfgpn": "200787P",
+    "sku": "5600502",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 600 colour",
+    "lineIndex": 18741
+  },
+  {
+    "mfgpn": "F6U15AN#140",
+    "sku": "5623981",
+    "brand": "hp inc.",
+    "stock": 96,
+    "description": "hp 952 (f6u15an#140) black original inkjet catridge; avg page yield 900",
+    "lineIndex": 18856
+  },
+  {
+    "mfgpn": "F6U19AN#140",
+    "sku": "5623982",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 952xl (f6u19an#140) black high yield original inkjet catridge; avg page yield",
+    "lineIndex": 18857
+  },
+  {
+    "mfgpn": "L0S49AN#140",
+    "sku": "5623984",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 952 (l0s49an#140) cyan original inkjet catridge; avg page yield 630",
+    "lineIndex": 18858
+  },
+  {
+    "mfgpn": "L0S52AN#140",
+    "sku": "5623985",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 952 (l0s52an#140) magenta original inkjet catridge; avg page yield 630",
+    "lineIndex": 18859
+  },
+  {
+    "mfgpn": "L0S55AN#140",
+    "sku": "5623986",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 952 (l0s55an#140) yellow original inkjet catridge; avg page yield 630",
+    "lineIndex": 18860
+  },
+  {
+    "mfgpn": "L0S64AN#140",
+    "sku": "5623988",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 952xl (l0s64an#140) magenta high yield original inkjet catridge; avg page yie",
+    "lineIndex": 18862
+  },
+  {
+    "mfgpn": "L0S67AN#140",
+    "sku": "5623989",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 952xl (l0s67an#140) yellow high yield original inkjet catridge; avg page yiel",
+    "lineIndex": 18863
+  },
+  {
+    "mfgpn": "0287C001",
+    "sku": "5657393",
+    "brand": "canon",
+    "stock": 2,
+    "description": "canon 0287c001 039 black toner cartridge 11,000 sheets iso/iec - printer compati",
+    "lineIndex": 19310
+  },
+  {
+    "mfgpn": "N9K02AN#140",
+    "sku": "5662485",
+    "brand": "hp inc.",
+    "stock": 168,
+    "description": "hp 65 (n9k02an#140) blk original inkjet cart",
+    "lineIndex": 19427
+  },
+  {
+    "mfgpn": "N9K03AN#140",
+    "sku": "5662486",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 65xl (n9k03an#140) tri-color high yield original inkjet cart",
+    "lineIndex": 19428
+  },
+  {
+    "mfgpn": "N9K04AN#140",
+    "sku": "5662487",
+    "brand": "hp inc.",
+    "stock": 336,
+    "description": "hp 65xl (n9k04an#140) blk high yield original inkjet cart",
+    "lineIndex": 19429
+  },
+  {
+    "mfgpn": "T0A36AN#140",
+    "sku": "5662488",
+    "brand": "hp inc.",
+    "stock": 1080,
+    "description": "hp 65 (t0a36an#140) tri-color/blk 2-pack original inkjet cart",
+    "lineIndex": 19430
+  },
+  {
+    "mfgpn": "T6L90AN#140",
+    "sku": "5670556",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 902 (t6l90an#140) mgt original inkjet cart",
+    "lineIndex": 19615
+  },
+  {
+    "mfgpn": "T6L94AN#140",
+    "sku": "5670557",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 902 (t6l94an#140) ylw original inkjet cart",
+    "lineIndex": 19616
+  },
+  {
+    "mfgpn": "T6M14AN#140",
+    "sku": "5670562",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 902xl (t6m14an#140) blk high yield original inkjet cart",
+    "lineIndex": 19621
+  },
+  {
+    "mfgpn": "200766P",
+    "sku": "5801621",
+    "brand": "clover imaging group",
+    "stock": 8,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise m806dn; las",
+    "lineIndex": 24283
+  },
+  {
+    "mfgpn": "CC468-67907-REF",
+    "sku": "5908626",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "hp colour laserjet cp3525, cp3525x, cp3525n, cp3525dn, cm3530, cm3530fs, m551n,",
+    "lineIndex": 24695
+  },
+  {
+    "mfgpn": "RM2-6308-REF",
+    "sku": "5908672",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "hp laserjet enterprise m604/m605/m606 refurbished fuser, 110v  exchange only",
+    "lineIndex": 24713
+  },
+  {
+    "mfgpn": "K0Q14A#BGJ",
+    "sku": "5916835",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi m607n mono laserjet printer",
+    "lineIndex": 24882
+  },
+  {
+    "mfgpn": "L0H19A",
+    "sku": "5919318",
+    "brand": "hp inc.",
+    "stock": 10,
+    "description": "hpi lj printer stand",
+    "lineIndex": 25218
+  },
+  {
+    "mfgpn": "L0H24A",
+    "sku": "5919322",
+    "brand": "hp inc.",
+    "stock": 30,
+    "description": "hpi laserjet 110v maintenance kit",
+    "lineIndex": 25222
+  },
+  {
+    "mfgpn": "200914P",
+    "sku": "5941059",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m252dw; m27",
+    "lineIndex": 25724
+  },
+  {
+    "mfgpn": "200915P",
+    "sku": "5941060",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m252dw; m27",
+    "lineIndex": 25725
+  },
+  {
+    "mfgpn": "200917P",
+    "sku": "5941062",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m252dw; m27",
+    "lineIndex": 25727
+  },
+  {
+    "mfgpn": "200891P",
+    "sku": "5941101",
+    "brand": "clover imaging group",
+    "stock": 30,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m402d, m402dn, m40",
+    "lineIndex": 25728
+  },
+  {
+    "mfgpn": "1595C001",
+    "sku": "5982847",
+    "brand": "canon",
+    "stock": 2,
+    "description": "the gi-290 ink bottle replacements for the canon megatank printers are cost effe",
+    "lineIndex": 28583
+  },
+  {
+    "mfgpn": "1596C001",
+    "sku": "5982848",
+    "brand": "canon",
+    "stock": 3,
+    "description": "the gi-290 ink bottle replacements for the canon megatank printers are cost effe",
+    "lineIndex": 28584
+  },
+  {
+    "mfgpn": "1597C001",
+    "sku": "5982849",
+    "brand": "canon",
+    "stock": 3,
+    "description": "the gi-290 ink bottle replacements for the canon megatank printers are cost effe",
+    "lineIndex": 28585
+  },
+  {
+    "mfgpn": "1598C001",
+    "sku": "5982850",
+    "brand": "canon",
+    "stock": 3,
+    "description": "the gi-290 ink bottle replacements for the canon megatank printers are cost effe",
+    "lineIndex": 28586
+  },
+  {
+    "mfgpn": "N9J90AN#140",
+    "sku": "5988535",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 64 (n9j90an#140) blk original inkjet cart",
+    "lineIndex": 28650
+  },
+  {
+    "mfgpn": "N9J92AN#140",
+    "sku": "5988540",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 64xl (n9j92an#140) blk high yield original inkjet cart",
+    "lineIndex": 28651
+  },
+  {
+    "mfgpn": "N9J91AN#140",
+    "sku": "5988541",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 64xl (n9j91an#140) tri-color high yield original inkjet cart",
+    "lineIndex": 28652
+  },
+  {
+    "mfgpn": "X4D92AN#140",
+    "sku": "5990589",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 64 (x4d92an#140) tri-color/black original inkjet catridge; avg page yield 200",
+    "lineIndex": 28757
+  },
+  {
+    "mfgpn": "F2G76-67901-REF",
+    "sku": "5992730",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "consumable type maintenance kit - yield 225000 pages - hp laserjet enterprise m6",
+    "lineIndex": 28793
+  },
+  {
+    "mfgpn": "200918P",
+    "sku": "6009631",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m252dw, m27",
+    "lineIndex": 29380
+  },
+  {
+    "mfgpn": "200921P",
+    "sku": "6009633",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m252dw, m27",
+    "lineIndex": 29382
+  },
+  {
+    "mfgpn": "200894P",
+    "sku": "6034670",
+    "brand": "clover imaging group",
+    "stock": 18,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m402d, m402dn, m40",
+    "lineIndex": 30862
+  },
+  {
+    "mfgpn": "1VD87A#B1K",
+    "sku": "6044744",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hpi designjet t1700 ps printer",
+    "lineIndex": 31434
+  },
+  {
+    "mfgpn": "200892P",
+    "sku": "6076346",
+    "brand": "clover imaging group",
+    "stock": 70,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m402d, m402dn, m40",
+    "lineIndex": 32424
+  },
+  {
+    "mfgpn": "C11CF39201",
+    "sku": "6083114",
+    "brand": "epson",
+    "stock": 2,
+    "description": "lq-590ii impact dot matrix printer c11cf39201 - 80 columns (at 10 cpi) - monochr",
+    "lineIndex": 32609
+  },
+  {
+    "mfgpn": "W3Z71A#B1K",
+    "sku": "6174087",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hpi designjet z9+ 24in ps printer",
+    "lineIndex": 33481
+  },
+  {
+    "mfgpn": "W3Z72A#B1K",
+    "sku": "6174088",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi designjet z9+ 44in ps printer",
+    "lineIndex": 33482
+  },
+  {
+    "mfgpn": "B3M77-67903-REF",
+    "sku": "6299734",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "hp laserjet enterprise mfp m630dn, m630f, m630h; laserjet enterprise flow mfp m6",
+    "lineIndex": 36931
+  },
+  {
+    "mfgpn": "3HZ99AN#140",
+    "sku": "6339772",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 962 (3hz99an#140) black original inkjet catridge; avg page yield 1000",
+    "lineIndex": 38239
+  },
+  {
+    "mfgpn": "3JA00AN#140",
+    "sku": "6339773",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 962xl (3ja00an#140) cyan high yield original inkjet catridge; avg page yield",
+    "lineIndex": 38240
+  },
+  {
+    "mfgpn": "3JA01AN#140",
+    "sku": "6339774",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 962xl (3ja01an#140) magenta high yield original inkjet catridge; avg page yie",
+    "lineIndex": 38241
+  },
+  {
+    "mfgpn": "3JA02AN#140",
+    "sku": "6339775",
+    "brand": "hp inc.",
+    "stock": 48,
+    "description": "hp 962xl (3ja02an#140) yellow high yield original inkjet catridge; avg page yiel",
+    "lineIndex": 38242
+  },
+  {
+    "mfgpn": "3JA03AN#140",
+    "sku": "6339776",
+    "brand": "hp inc.",
+    "stock": 96,
+    "description": "hp 962xl (3ja03an#140) black high yield original inkjet catridge; avg page yield",
+    "lineIndex": 38243
+  },
+  {
+    "mfgpn": "3YP00AN#140",
+    "sku": "6339779",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 962 (3yp00an#140) c/m/y tri-pack original inkjet catridge; avg page yield 700",
+    "lineIndex": 38244
+  },
+  {
+    "mfgpn": "3YL58AN#140",
+    "sku": "6345387",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 910 (3yl58an#140) cyn original inkjet cart",
+    "lineIndex": 38394
+  },
+  {
+    "mfgpn": "3YL59AN#140",
+    "sku": "6345388",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 910 (3yl59an#140) mgt original inkjet cart",
+    "lineIndex": 38395
+  },
+  {
+    "mfgpn": "3YL62AN#140",
+    "sku": "6345391",
+    "brand": "hp inc.",
+    "stock": 96,
+    "description": "hp 910xl (3yl62an#140) cyn high yield original inkjet cart",
+    "lineIndex": 38398
+  },
+  {
+    "mfgpn": "3YL63AN#140",
+    "sku": "6345392",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 910xl (3yl63an#140) mgt high yield original inkjet cart",
+    "lineIndex": 38399
+  },
+  {
+    "mfgpn": "3YL64AN#140",
+    "sku": "6345393",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 910xl (3yl64an#140) ylw high yield original inkjet cart",
+    "lineIndex": 38400
+  },
+  {
+    "mfgpn": "3YL65AN#140",
+    "sku": "6345394",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 910xl (3yl65an#140) blk high yield original inkjet cart",
+    "lineIndex": 38401
+  },
+  {
+    "mfgpn": "1PV64A#BGJ",
+    "sku": "6353225",
+    "brand": "hp inc.",
+    "stock": 12,
+    "description": "hpi m528dn mono laserjet mfp",
+    "lineIndex": 38503
+  },
+  {
+    "mfgpn": "1PV65A#BGJ",
+    "sku": "6353226",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hpi m528f mono laserjet mfp",
+    "lineIndex": 38504
+  },
+  {
+    "mfgpn": "3WT89A",
+    "sku": "6361761",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi laserjet image transfer belt kit",
+    "lineIndex": 39371
+  },
+  {
+    "mfgpn": "3394C001",
+    "sku": "6378641",
+    "brand": "canon",
+    "stock": 7,
+    "description": "ink bottle - cyan - ink bottle for select canon pixma megatank printers",
+    "lineIndex": 42150
+  },
+  {
+    "mfgpn": "3WT91A#BGJ",
+    "sku": "6471970",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi m776z clr laserjet mfp",
+    "lineIndex": 46082
+  },
+  {
+    "mfgpn": "T3U55A#BGJ",
+    "sku": "6471975",
+    "brand": "hp inc.",
+    "stock": 1,
+    "description": "hpi m776dn clr laserjet mfp",
+    "lineIndex": 46087
+  },
+  {
+    "mfgpn": "200945P",
+    "sku": "6550727",
+    "brand": "clover imaging group",
+    "stock": 12,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m452dn, m45",
+    "lineIndex": 48794
+  },
+  {
+    "mfgpn": "200946P",
+    "sku": "6550731",
+    "brand": "clover imaging group",
+    "stock": 14,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m452dn, m45",
+    "lineIndex": 48796
+  },
+  {
+    "mfgpn": "200948P",
+    "sku": "6550732",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m452dn, m45",
+    "lineIndex": 48797
+  },
+  {
+    "mfgpn": "200947P",
+    "sku": "6550733",
+    "brand": "clover imaging group",
+    "stock": 9,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m452dn, m45",
+    "lineIndex": 48798
+  },
+  {
+    "mfgpn": "200941P",
+    "sku": "6550739",
+    "brand": "clover imaging group",
+    "stock": 19,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise m553",
+    "lineIndex": 48802
+  },
+  {
+    "mfgpn": "201050P",
+    "sku": "6550743",
+    "brand": "clover imaging group",
+    "stock": 20,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m203dw; laserjet p",
+    "lineIndex": 48805
+  },
+  {
+    "mfgpn": "200942P",
+    "sku": "6550747",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise m553",
+    "lineIndex": 48809
+  },
+  {
+    "mfgpn": "201168P",
+    "sku": "6550750",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 48811
+  },
+  {
+    "mfgpn": "201174P",
+    "sku": "6550751",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 48812
+  },
+  {
+    "mfgpn": "201173P",
+    "sku": "6550753",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 48814
+  },
+  {
+    "mfgpn": "200943P",
+    "sku": "6550759",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise m553",
+    "lineIndex": 48818
+  },
+  {
+    "mfgpn": "200950P",
+    "sku": "6550763",
+    "brand": "clover imaging group",
+    "stock": 15,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m452dn, m45",
+    "lineIndex": 48820
+  },
+  {
+    "mfgpn": "200937P",
+    "sku": "6550764",
+    "brand": "clover imaging group",
+    "stock": 20,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise m553",
+    "lineIndex": 48821
+  },
+  {
+    "mfgpn": "3YM55AN#140",
+    "sku": "6559157",
+    "brand": "hp inc.",
+    "stock": 312,
+    "description": "hp 67 (3ym55an#140) tri-color original inkjet cart",
+    "lineIndex": 49399
+  },
+  {
+    "mfgpn": "3YM56AN#140",
+    "sku": "6559158",
+    "brand": "hp inc.",
+    "stock": 2664,
+    "description": "hp 67 (3ym56an#140) blk original inkjet cart",
+    "lineIndex": 49400
+  },
+  {
+    "mfgpn": "3YM57AN#140",
+    "sku": "6559159",
+    "brand": "hp inc.",
+    "stock": 1248,
+    "description": "hp 67xl (3ym57an#140) blk high yield original inkjet cart",
+    "lineIndex": 49401
+  },
+  {
+    "mfgpn": "7PS82A#BGJ",
+    "sku": "6565334",
+    "brand": "hp inc.",
+    "stock": 12,
+    "description": "hpi m610dn mono laserjet printer",
+    "lineIndex": 49754
+  },
+  {
+    "mfgpn": "7PS84A#BGJ",
+    "sku": "6565336",
+    "brand": "hp inc.",
+    "stock": 23,
+    "description": "hpi m611dn mono laserjet printer",
+    "lineIndex": 49755
+  },
+  {
+    "mfgpn": "7PS85A#BGJ",
+    "sku": "6565337",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hpi m611x mono laserjet printer",
+    "lineIndex": 49756
+  },
+  {
+    "mfgpn": "7PS87A#BGJ",
+    "sku": "6565340",
+    "brand": "hp inc.",
+    "stock": 1,
+    "description": "hpi m612x mono laserjet printer",
+    "lineIndex": 49757
+  },
+  {
+    "mfgpn": "4167C023",
+    "sku": "6590536",
+    "brand": "canon",
+    "stock": 29,
+    "description": "canon pixma tr150 wireless portable printer",
+    "lineIndex": 51549
+  },
+  {
+    "mfgpn": "HPM712-KIT-REF",
+    "sku": "6625262",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "hp laserjet enterprise 700 m712dn, m712n, m712xh - refurbished maintenance kit w",
+    "lineIndex": 64178
+  },
+  {
+    "mfgpn": "CF235-67921-REF",
+    "sku": "6625325",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "hp laserjet enterprise 700 m712dn, m712n, m712xh, m725dn, m725f, m725z, m725z+ -",
+    "lineIndex": 64197
+  },
+  {
+    "mfgpn": "7PS96A#BGJ",
+    "sku": "6660993",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hpi m634z mono laserjet mfp",
+    "lineIndex": 71834
+  },
+  {
+    "mfgpn": "F9A28D#B1K",
+    "sku": "6661270",
+    "brand": "hp inc.",
+    "stock": 1,
+    "description": "hpi designjet t830 24in mfp printer",
+    "lineIndex": 71869
+  },
+  {
+    "mfgpn": "4469C003",
+    "sku": "6683107",
+    "brand": "canon",
+    "stock": 1,
+    "description": "canon pixma g1220 printer blk wireless",
+    "lineIndex": 73713
+  },
+  {
+    "mfgpn": "3QA55A#BGJ",
+    "sku": "6689306",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hp color laserjet enterprise mfp m480f ppm-29 dpi up to 600x600 dc-up to 55,000",
+    "lineIndex": 75070
+  },
+  {
+    "mfgpn": "EL2630PIII",
+    "sku": "6819923",
+    "brand": "sharp electronics",
+    "stock": 332,
+    "description": "sharp el2630piii commercial quality two-colour ribbon printer, 4.8 lps with cloc",
+    "lineIndex": 102308
+  },
+  {
+    "mfgpn": "DELL-MFS22",
+    "sku": "6909637",
+    "brand": "dell csg",
+    "stock": 57,
+    "description": "dell micro aio stand mfs22",
+    "lineIndex": 108799
+  },
+  {
+    "mfgpn": "2Z599F#BGJ",
+    "sku": "6939929",
+    "brand": "hp inc.",
+    "stock": 57,
+    "description": "hpi 4001n mono laserjet pro printer (bp)",
+    "lineIndex": 110253
+  },
+  {
+    "mfgpn": "2Z600F#BGJ",
+    "sku": "6939931",
+    "brand": "hp inc.",
+    "stock": 30,
+    "description": "hpi 4001dn mono laserjet printer (bp)",
+    "lineIndex": 110254
+  },
+  {
+    "mfgpn": "2Z601F#BGJ",
+    "sku": "6939933",
+    "brand": "hp inc.",
+    "stock": 15,
+    "description": "hpi 4001dw mono laserjet printer (bp)",
+    "lineIndex": 110255
+  },
+  {
+    "mfgpn": "2Z619F#BGJ",
+    "sku": "6939935",
+    "brand": "hp inc.",
+    "stock": 36,
+    "description": "hpi 4101fdw mono laserjet mfp (bp)",
+    "lineIndex": 110256
+  },
+  {
+    "mfgpn": "5074C023",
+    "sku": "7048343",
+    "brand": "canon",
+    "stock": 40,
+    "description": "pixma tr4720 - all-in-one printer - ink-jet - color - print, copy, scan and fax",
+    "lineIndex": 111425
+  },
+  {
+    "mfgpn": "2Z620F#BGJ",
+    "sku": "7048380",
+    "brand": "hp inc.",
+    "stock": 50,
+    "description": "hpi 4101dw mono laserjet mfp (bp)",
+    "lineIndex": 111426
+  },
+  {
+    "mfgpn": "4RA82F#BGJ",
+    "sku": "7174991",
+    "brand": "hp inc.",
+    "stock": 40,
+    "description": "hpi 4301fdw clr laserjet mfp printer (bp)",
+    "lineIndex": 116531
+  },
+  {
+    "mfgpn": "4RA80F#BGJ",
+    "sku": "7174993",
+    "brand": "hp inc.",
+    "stock": 4,
+    "description": "hpi 4301dw clr laserjet mfp (bp)",
+    "lineIndex": 116532
+  },
+  {
+    "mfgpn": "4RA85F#BGJ",
+    "sku": "7174997",
+    "brand": "hp inc.",
+    "stock": 7,
+    "description": "hpi 4201dn clr laserjet printer (bp)",
+    "lineIndex": 116533
+  },
+  {
+    "mfgpn": "6QN28A#BGJ",
+    "sku": "7212658",
+    "brand": "hp inc.",
+    "stock": 7,
+    "description": "hpi 5700dn clr laserjet printer",
+    "lineIndex": 116980
+  },
+  {
+    "mfgpn": "6QN29A#BGJ",
+    "sku": "7212659",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hpi 5800dn clr laserjet mfp",
+    "lineIndex": 116981
+  },
+  {
+    "mfgpn": "6QN33A#BGJ",
+    "sku": "7212661",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi 6700dn clr laserjet printer",
+    "lineIndex": 116983
+  },
+  {
+    "mfgpn": "6QN35A#BGJ",
+    "sku": "7212662",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hpi 6800dn clr laserjet mfp",
+    "lineIndex": 116984
+  },
+  {
+    "mfgpn": "5816C002",
+    "sku": "7239896",
+    "brand": "canon",
+    "stock": 1,
+    "description": "canon 24inc roll & cut sheet multifunction printer imageprograf tc-20",
+    "lineIndex": 117785
+  },
+  {
+    "mfgpn": "5455C010",
+    "sku": "7245484",
+    "brand": "canon",
+    "stock": 1,
+    "description": "canon imageclass mf753cdw 4-on-1 multi-function color printer",
+    "lineIndex": 118431
+  },
+  {
+    "mfgpn": "01-3001WM-101",
+    "sku": "7259084",
+    "brand": "troy group",
+    "stock": 1,
+    "description": "m3001dw micr printer",
+    "lineIndex": 121533
+  },
+  {
+    "mfgpn": "9G9M7UP#ABA",
+    "sku": "7357155",
+    "brand": "hp inc.",
+    "stock": 20,
+    "description": "ncnr cto hpi hp eliteone 840 g9 aio i51350016gb/512pc u.s. - english localizatio",
+    "lineIndex": 136808
+  },
+  {
+    "mfgpn": "4S6U9LN",
+    "sku": "7495854",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 936 (4s6u9ln) cyn original inkjet cart",
+    "lineIndex": 142131
+  },
+  {
+    "mfgpn": "4S6V0LN",
+    "sku": "7495855",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 936 (4s6v0ln) mgt original inkjet cart",
+    "lineIndex": 142132
+  },
+  {
+    "mfgpn": "4S6V1LN",
+    "sku": "7495856",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 936 (4s6v1ln) ylw original inkjet cart",
+    "lineIndex": 142133
+  },
+  {
+    "mfgpn": "4S6V2LN",
+    "sku": "7495857",
+    "brand": "hp inc.",
+    "stock": 48,
+    "description": "hp 936 (4s6v2ln) blk original inkjet cart",
+    "lineIndex": 142134
+  },
+  {
+    "mfgpn": "4K0T0LN",
+    "sku": "7495958",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 923 (4k0t0ln) cyn original inkjet cart",
+    "lineIndex": 142138
+  },
+  {
+    "mfgpn": "4K0T1LN",
+    "sku": "7495959",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 923 (4k0t1ln) mgt original inkjet cart",
+    "lineIndex": 142139
+  },
+  {
+    "mfgpn": "4K0T2LN",
+    "sku": "7495960",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 923 (4k0t2ln) ylw original inkjet cart",
+    "lineIndex": 142140
+  },
+  {
+    "mfgpn": "A12H2UT#ABC",
+    "sku": "7600474",
+    "brand": "hp inc.",
+    "stock": 1,
+    "description": "hp eliteone 840 g9 aio i71470016gb/512pc canada - french localization",
+    "lineIndex": 146111
+  },
+  {
+    "mfgpn": "4S6V4LN",
+    "sku": "7911242",
+    "brand": "hp inc.",
+    "stock": 48,
+    "description": "hp 936e (4s6v4ln) evomore mgt original inkjet cart",
+    "lineIndex": 147025
+  },
+  {
+    "mfgpn": "9V9E5A",
+    "sku": "8219572",
+    "brand": "hp inc.",
+    "stock": 43,
+    "description": "hpi hp color laserjet stand",
+    "lineIndex": 163812
+  },
+  {
+    "mfgpn": "9V9E6A",
+    "sku": "8219573",
+    "brand": "hp inc.",
+    "stock": 47,
+    "description": "hpi hp color laserjet storage stand",
+    "lineIndex": 163813
+  },
+  {
+    "mfgpn": "9V9E7A",
+    "sku": "8219574",
+    "brand": "hp inc.",
+    "stock": 8,
+    "description": "hpi hp clr laserjet 2100 sheet hc tray/stand",
+    "lineIndex": 163814
+  },
+  {
+    "mfgpn": "20L8100",
+    "sku": "8283922",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark cx950se color a3 multifunction printer",
+    "lineIndex": 166668
+  },
+  {
+    "mfgpn": "20L8150",
+    "sku": "8283923",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark cx951se color a3 multifunction printer",
+    "lineIndex": 166669
+  },
+  {
+    "mfgpn": "USB2HAB10",
+    "sku": "9059887",
+    "brand": "startech.com",
+    "stock": 360,
+    "description": "10ft usb cable - a to b usb cable - usb printer cable - type a to b usb cable -",
+    "lineIndex": 171886
+  },
+  {
+    "mfgpn": "USB2HAB15",
+    "sku": "9059888",
+    "brand": "startech.com",
+    "stock": 90,
+    "description": "15ft usb cable - a to b usb cable - usb printer cable - type a to b usb cable -",
+    "lineIndex": 171887
+  },
+  {
+    "mfgpn": "200561P",
+    "sku": "5165262",
+    "brand": "clover imaging group",
+    "stock": 15,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro 300 colour m351, m",
+    "lineIndex": 181971
+  },
+  {
+    "mfgpn": "4S6V5LN",
+    "sku": "7911243",
+    "brand": "hp inc.",
+    "stock": 24,
+    "description": "hp 936e (4s6v5ln) evomore ylw original inkjet cart",
+    "lineIndex": 182655
+  },
+  {
+    "mfgpn": "SLP-TRL",
+    "sku": "1625039",
+    "brand": "seiko instruments",
+    "stock": 24,
+    "description": "white - label width: 1 1/8 label length: 3 1/2 - seiko smartlabel printers:ez30s",
+    "lineIndex": 182876
+  },
+  {
+    "mfgpn": "C31C514653",
+    "sku": "3976370",
+    "brand": "epson pos",
+    "stock": 1,
+    "description": "epson tmu220b-653-receipt printer-two-color-dot-matrix-serial interface-color:da",
+    "lineIndex": 182878
+  },
+  {
+    "mfgpn": "C31C163272",
+    "sku": "4075537",
+    "brand": "epson pos",
+    "stock": 24,
+    "description": "tm-u295-272:ecw,printer,pos sys (b) rbn",
+    "lineIndex": 182935
+  },
+  {
+    "mfgpn": "SLP620",
+    "sku": "4969772",
+    "brand": "seiko instruments",
+    "stock": 112,
+    "description": "seiko slp620 pc/mac 2in label printer",
+    "lineIndex": 183680
+  },
+  {
+    "mfgpn": "PJ862",
+    "sku": "6964080",
+    "brand": "brother international corporat",
+    "stock": 7,
+    "description": "e pocketjet 8, 200dpi, 8.5 width, thermal printer with usb c connectivity/chargi",
+    "lineIndex": 208871
+  },
+  {
+    "mfgpn": "PJ883",
+    "sku": "6964084",
+    "brand": "brother international corporat",
+    "stock": 1,
+    "description": "e pocketjet 8, 300dpi, 8.5 width, thermal printer with usb c connectivity/chargi",
+    "lineIndex": 208875
+  },
+  {
+    "mfgpn": "LSPRNTR-300",
+    "sku": "8014080",
+    "brand": "netally",
+    "stock": 10,
+    "description": "netally lsprntr-300,linksprinter model 300",
+    "lineIndex": 243308
+  },
+  {
+    "mfgpn": "R-LS520-BKAMMM-G-1",
+    "sku": "8027430",
+    "brand": "deepcool",
+    "stock": 60,
+    "description": "deepcool ls520 se is an all-in-one liquid cpu cooler, 240mm radiator, black",
+    "lineIndex": 243473
+  },
+  {
+    "mfgpn": "R-LS520-WHAMMM-G-1",
+    "sku": "8027431",
+    "brand": "deepcool",
+    "stock": 30,
+    "description": "deepcool ls520 se is an all-in-one liquid cpu cooler, 240mm radiator, white",
+    "lineIndex": 243474
+  },
+  {
+    "mfgpn": "R-LS720-BKAMMM-G-1",
+    "sku": "8027434",
+    "brand": "deepcool",
+    "stock": 36,
+    "description": "deepcool ls720 se is an all-in-one liquid cpu cooler, 360mm, black",
+    "lineIndex": 243476
+  },
+  {
+    "mfgpn": "R-LS720-WHAMMM-G-1",
+    "sku": "8027435",
+    "brand": "deepcool",
+    "stock": 36,
+    "description": "deepcool ls720 se is an all-in-one liquid cpu cooler, 360mm, white",
+    "lineIndex": 243477
+  },
+  {
+    "mfgpn": "R-LS720-BKNNMM-G-1",
+    "sku": "8027453",
+    "brand": "deepcool",
+    "stock": 48,
+    "description": "deepcool ls720s zero dark linqid cooler, 4th aios, 360mm",
+    "lineIndex": 243491
+  },
+  {
+    "mfgpn": "CE516A-REF",
+    "sku": "5908630",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "hp laserjet enterprise 700 colour mfp m775dn, m775f, m775z, m775zr; colour laser",
+    "lineIndex": 253975
+  },
+  {
+    "mfgpn": "200025P",
+    "sku": "4739992",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 4000, 4000n, 4000se, 4",
+    "lineIndex": 260084
+  },
+  {
+    "mfgpn": "5815C002",
+    "sku": "7172662",
+    "brand": "canon",
+    "stock": 4,
+    "description": "canon 24 roll & cut sheet printer imageprograf tc-20",
+    "lineIndex": 260669
+  },
+  {
+    "mfgpn": "R-LS520-BKNNMM-G-1",
+    "sku": "8027452",
+    "brand": "deepcool",
+    "stock": 48,
+    "description": "deepcool ls520s zero dark linqid cooler, 4th aios, 240mm",
+    "lineIndex": 261061
+  },
+  {
+    "mfgpn": "200158P",
+    "sku": "4740045",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 2410, 2420, 2420d, 242",
+    "lineIndex": 263849
+  },
+  {
+    "mfgpn": "200623P",
+    "sku": "5600495",
+    "brand": "clover imaging group",
+    "stock": 11,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 colour",
+    "lineIndex": 263882
+  },
+  {
+    "mfgpn": "1PV87A#BGJ",
+    "sku": "6353229",
+    "brand": "hp inc.",
+    "stock": 11,
+    "description": "hpi m507dn mono laserjet printer",
+    "lineIndex": 265533
+  },
+  {
+    "mfgpn": "N9K27AN#140",
+    "sku": "5623990",
+    "brand": "hp inc.",
+    "stock": 72,
+    "description": "hp 952 (n9k27an#140) c/m/y tri-pack original inkjet catridge; avg page yield 189",
+    "lineIndex": 266297
+  },
+  {
+    "mfgpn": "201172P",
+    "sku": "6550740",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 266397
+  },
+  {
+    "mfgpn": "3YM58AN#140",
+    "sku": "6559160",
+    "brand": "hp inc.",
+    "stock": 504,
+    "description": "hp 67xl (3ym58an#140) tri-color high yield original inkjet cart",
+    "lineIndex": 266407
+  },
+  {
+    "mfgpn": "200012P",
+    "sku": "4740011",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 2300, 2300d, 2300l, 23",
+    "lineIndex": 269067
+  },
+  {
+    "mfgpn": "200083P",
+    "sku": "4740311",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet 3600, 3600n, 36",
+    "lineIndex": 269069
+  },
+  {
+    "mfgpn": "201169P",
+    "sku": "6550761",
+    "brand": "clover imaging group",
+    "stock": 4,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 270014
+  },
+  {
+    "mfgpn": "BF6S7UT#ABA",
+    "sku": "8312201",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hp hpengageonepro15.6g2aioi514500t8gb/256pc english sb+",
+    "lineIndex": 272564
+  },
+  {
+    "mfgpn": "SS112-025A",
+    "sku": "4643872",
+    "brand": "seiko instruments",
+    "stock": 12,
+    "description": "for dpu-414 & dpu-s445 4 thermal printers; ultra high sensitivity; caliper: 63;",
+    "lineIndex": 280037
+  },
+  {
+    "mfgpn": "200159P",
+    "sku": "4739993",
+    "brand": "clover imaging group",
+    "stock": 5,
+    "description": "cig remanufactured consumable alternative for hp laserjet 4000, 4000n, 4000se, 4",
+    "lineIndex": 281241
+  },
+  {
+    "mfgpn": "200542P",
+    "sku": "5220303",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp laserjet pro m1536dnf mfp, p156",
+    "lineIndex": 281253
+  },
+  {
+    "mfgpn": "RM2-1256-REF",
+    "sku": "6587725",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "hp laserjet enterprise m607, m608, m609, m631, m632. m633 - fuser assembly   exc",
+    "lineIndex": 284593
+  },
+  {
+    "mfgpn": "200041P",
+    "sku": "4740015",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet 4240, 4240n, 4250, 425",
+    "lineIndex": 289006
+  },
+  {
+    "mfgpn": "C11CC24001",
+    "sku": "5131315",
+    "brand": "epson",
+    "stock": 7,
+    "description": "epson lx-350,new compact, reliable and economical impact printer",
+    "lineIndex": 289007
+  },
+  {
+    "mfgpn": "200174P",
+    "sku": "4740036",
+    "brand": "clover imaging group",
+    "stock": 10,
+    "description": "cig remanufactured consumable alternative for hp laserjet p2050, p2055, p2055d,",
+    "lineIndex": 291974
+  },
+  {
+    "mfgpn": "114804P",
+    "sku": "4740077",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet m3027 mfp, m3027x, m30",
+    "lineIndex": 295915
+  },
+  {
+    "mfgpn": "200151P",
+    "sku": "4740028",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "cig remanufactured consumable alternative for hp laserjet 1000, 1200, 1200n, 120",
+    "lineIndex": 297219
+  },
+  {
+    "mfgpn": "115527P",
+    "sku": "4740268",
+    "brand": "clover imaging group",
+    "stock": 3,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet cp4005, cp4005n",
+    "lineIndex": 297221
+  },
+  {
+    "mfgpn": "CF242A",
+    "sku": "4923498",
+    "brand": "hp inc.",
+    "stock": 1,
+    "description": "hpi laserjet 3x500 sheet feeder and stand",
+    "lineIndex": 297230
+  },
+  {
+    "mfgpn": "200626P",
+    "sku": "5600498",
+    "brand": "clover imaging group",
+    "stock": 5,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise 700 colour",
+    "lineIndex": 297354
+  },
+  {
+    "mfgpn": "K0Q17A#BGJ",
+    "sku": "5916838",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hpi m608n mono laserjet printer",
+    "lineIndex": 297371
+  },
+  {
+    "mfgpn": "1PV86A#BGJ",
+    "sku": "6353228",
+    "brand": "hp inc.",
+    "stock": 11,
+    "description": "hpi m507n mono laserjet printer",
+    "lineIndex": 297416
+  },
+  {
+    "mfgpn": "200897P",
+    "sku": "6550728",
+    "brand": "clover imaging group",
+    "stock": 25,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise m506n, m506",
+    "lineIndex": 297454
+  },
+  {
+    "mfgpn": "6385B002",
+    "sku": "4933909",
+    "brand": "canon",
+    "stock": 9,
+    "description": "cli-42 cyan ink tank - cartridge - for pixma pro-100 inkjet photo printer - cli-",
+    "lineIndex": 299047
+  },
+  {
+    "mfgpn": "200576P",
+    "sku": "5107859",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise cp55",
+    "lineIndex": 299055
+  },
+  {
+    "mfgpn": "200939P",
+    "sku": "6550769",
+    "brand": "clover imaging group",
+    "stock": 6,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet enterprise m553",
+    "lineIndex": 299708
+  },
+  {
+    "mfgpn": "7PS86A#BGJ",
+    "sku": "6565339",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi m612dn mono laserjet printer",
+    "lineIndex": 299717
+  },
+  {
+    "mfgpn": "SLP-2RLH",
+    "sku": "1007219",
+    "brand": "seiko instruments",
+    "stock": 96,
+    "description": "white - label width: 1 1/8 label length: 3 1/2 - seiko smartlabel printers:ez30s",
+    "lineIndex": 302483
+  },
+  {
+    "mfgpn": "2112552",
+    "sku": "6866315",
+    "brand": "newell-dymo",
+    "stock": 30,
+    "description": "newell-dymo dy lw 550 printer na/la",
+    "lineIndex": 313134
+  },
+  {
+    "mfgpn": "2112553",
+    "sku": "6866316",
+    "brand": "newell-dymo",
+    "stock": 20,
+    "description": "newell-dymo dy lw 550 turbo printer na/la",
+    "lineIndex": 313761
+  },
+  {
+    "mfgpn": "NEATBAR-SE",
+    "sku": "8194161",
+    "brand": "neat",
+    "stock": 1,
+    "description": "neat all-in-one video device for zoom/byod. ideal for small to medium rooms up t",
+    "lineIndex": 315989
+  },
+  {
+    "mfgpn": "95153",
+    "sku": "4644260",
+    "brand": "verbatim",
+    "stock": 12,
+    "description": "dvd-r 4.7gb 16x white inkjet printable, branded hub logo 100pk spindle",
+    "lineIndex": 320875
+  },
+  {
+    "mfgpn": "97016",
+    "sku": "4482763",
+    "brand": "verbatim",
+    "stock": 12,
+    "description": "dvd-r 4.7gb 16x datalifeplus white inkjet hub printable 100pk tape wrap",
+    "lineIndex": 336063
+  },
+  {
+    "mfgpn": "95137",
+    "sku": "4053323",
+    "brand": "verbatim",
+    "stock": 4,
+    "description": "dvd-r 4.7gb 16x branded white inkjet 50pk spindle",
+    "lineIndex": 336068
+  },
+  {
+    "mfgpn": "95252",
+    "sku": "4053336",
+    "brand": "verbatim",
+    "stock": 12,
+    "description": "cd-r 80min 700mb 52x white inkjet printable, hub printable 100pk spindle",
+    "lineIndex": 351184
+  },
+  {
+    "mfgpn": "95078",
+    "sku": "1350477",
+    "brand": "verbatim",
+    "stock": 4,
+    "description": "dvd-r 4.7gb 16x datalifeplus, white inkjet printable 50pk spindle",
+    "lineIndex": 356204
+  },
+  {
+    "mfgpn": "95079",
+    "sku": "1350478",
+    "brand": "verbatim",
+    "stock": 16,
+    "description": "dvd-r 4.7gb 16x datalifeplus, white inkjet printable, hub printable 50pk spindle",
+    "lineIndex": 361198
+  },
+  {
+    "mfgpn": "95159",
+    "sku": "1373138",
+    "brand": "verbatim",
+    "stock": 5,
+    "description": "cd-rw 700mb 12x datalifeplus silver inkjet printable with branded hub - 50pk spi",
+    "lineIndex": 361200
+  },
+  {
+    "mfgpn": "B415/DN",
+    "sku": "7272460",
+    "brand": "xerox",
+    "stock": 5,
+    "description": "xerox versalink b415 multifunction printer, up to 50ppm, duplex",
+    "lineIndex": 368360
+  },
+  {
+    "mfgpn": "50M0060",
+    "sku": "7216530",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark colour printer cs632dwe",
+    "lineIndex": 368868
+  },
+  {
+    "mfgpn": "29S0000",
+    "sku": "6527920",
+    "brand": "lexmark",
+    "stock": 36,
+    "description": "lexmark mono laser printer/ms331dn",
+    "lineIndex": 368871
+  },
+  {
+    "mfgpn": "UVC40 E2",
+    "sku": "8253180",
+    "brand": "yealink network technology",
+    "stock": 1,
+    "description": "yealink all-in-one usb video bar for small rooms",
+    "lineIndex": 369549
+  },
+  {
+    "mfgpn": "499Q5F#BGJ",
+    "sku": "7886390",
+    "brand": "hp inc.",
+    "stock": 65,
+    "description": "hpi 3301fdw clr laserjet pro mfp (bp)",
+    "lineIndex": 372456
+  },
+  {
+    "mfgpn": "404M0A#B1H",
+    "sku": "7506000",
+    "brand": "hp inc.",
+    "stock": 25,
+    "description": "hpi 9135e clr officejet pro aio printer (bp)",
+    "lineIndex": 372458
+  },
+  {
+    "mfgpn": "B341H00",
+    "sku": "6527931",
+    "brand": "lexmark",
+    "stock": 3,
+    "description": "toner cartridge - black - 3000 pages - lexmark black and white all-in-one 4-seri",
+    "lineIndex": 376738
+  },
+  {
+    "mfgpn": "499Q9F#BGJ",
+    "sku": "7886391",
+    "brand": "hp inc.",
+    "stock": 28,
+    "description": "hpi 3201dw clr laserjet pro printer (bp)",
+    "lineIndex": 381557
+  },
+  {
+    "mfgpn": "588S5A#B1H",
+    "sku": "7595111",
+    "brand": "hp inc.",
+    "stock": 230,
+    "description": "hpi 2855e clr deskjet aio printer (bp)",
+    "lineIndex": 381558
+  },
+  {
+    "mfgpn": "714N5A#B1H",
+    "sku": "8172871",
+    "brand": "hp inc.",
+    "stock": 25,
+    "description": "hpi 6555e clr envy aio printer (bp)",
+    "lineIndex": 381560
+  },
+  {
+    "mfgpn": "16899",
+    "sku": "4324131",
+    "brand": "c2g",
+    "stock": 3,
+    "description": "legrand av c2g 6ft usb to db25 ieee-1284 parallel printer adapter cable",
+    "lineIndex": 381880
+  },
+  {
+    "mfgpn": "B341X00",
+    "sku": "6527932",
+    "brand": "lexmark",
+    "stock": 68,
+    "description": "toner cartridge - black - 6000 pages - lexmark black and white all-in-one 4-seri",
+    "lineIndex": 385814
+  },
+  {
+    "mfgpn": "C625/DN",
+    "sku": "7316442",
+    "brand": "xerox",
+    "stock": 6,
+    "description": "xerox versalink c625 color multifunction printer, up to 52ppm, duplex, with copy",
+    "lineIndex": 386554
+  },
+  {
+    "mfgpn": "P6230CDN",
+    "sku": "6254832",
+    "brand": "kyocera document solutions",
+    "stock": 1,
+    "description": "ecosys p6230cdn - laser printer - laser - usb 2.0,ethernet 10/100/1000base-tx,us",
+    "lineIndex": 386998
+  },
+  {
+    "mfgpn": "38S0900",
+    "sku": "7216532",
+    "brand": "lexmark",
+    "stock": 6,
+    "description": "lexmark multi-function printer mx632adwe",
+    "lineIndex": 387032
+  },
+  {
+    "mfgpn": "28B98A#B1H",
+    "sku": "7079882",
+    "brand": "hp inc.",
+    "stock": 20,
+    "description": "hp smart tank 7602 all-in-one printer us/canada - english french and spanish",
+    "lineIndex": 390640
+  },
+  {
+    "mfgpn": "588S6A#B1H",
+    "sku": "7595112",
+    "brand": "hp inc.",
+    "stock": 75,
+    "description": "hpi 4255e clr deskjet aio printer (bp)",
+    "lineIndex": 390641
+  },
+  {
+    "mfgpn": "537P6A#B1H",
+    "sku": "7886392",
+    "brand": "hp inc.",
+    "stock": 30,
+    "description": "hpi 9730e clr officejet pro aio printer (bp)",
+    "lineIndex": 390642
+  },
+  {
+    "mfgpn": "B620/DN",
+    "sku": "7512193",
+    "brand": "xerox",
+    "stock": 3,
+    "description": "xerox versalink b620 printer, up to 65ppm, duplex",
+    "lineIndex": 395681
+  },
+  {
+    "mfgpn": "C620/DN",
+    "sku": "7442653",
+    "brand": "xerox",
+    "stock": 4,
+    "description": "xerox versalink c620 color printer, up to 52ppm, duplex",
+    "lineIndex": 395682
+  },
+  {
+    "mfgpn": "40N9020",
+    "sku": "6358943",
+    "brand": "lexmark",
+    "stock": 5,
+    "description": "lexmark cs331dw - laser printer - color - laser - black: 26 ppm (letter), color:",
+    "lineIndex": 396159
+  },
+  {
+    "mfgpn": "50G0610",
+    "sku": "6174243",
+    "brand": "lexmark",
+    "stock": 3,
+    "description": "lexmark mono printer ms725dvn",
+    "lineIndex": 396162
+  },
+  {
+    "mfgpn": "28B49A#B1H",
+    "sku": "6804323",
+    "brand": "hp inc.",
+    "stock": 11,
+    "description": "hp smart tank 7001 all-in-one printer us/canada - english, french and spanis",
+    "lineIndex": 399758
+  },
+  {
+    "mfgpn": "CZ992A#B1H",
+    "sku": "5703863",
+    "brand": "hp inc.",
+    "stock": 50,
+    "description": "hpi 250 officejet mobile aio printer (bp)",
+    "lineIndex": 399759
+  },
+  {
+    "mfgpn": "4U555A#B1H",
+    "sku": "7440723",
+    "brand": "hp inc.",
+    "stock": 70,
+    "description": "hpi 9130b clr officejet pro aio printer (bp)",
+    "lineIndex": 399761
+  },
+  {
+    "mfgpn": "B625/DN",
+    "sku": "7205384",
+    "brand": "xerox",
+    "stock": 3,
+    "description": "xerox versalink b625 multifunction printer, up to 65ppm, duplex, with copy, prin",
+    "lineIndex": 404730
+  },
+  {
+    "mfgpn": "PA4500X",
+    "sku": "7294344",
+    "brand": "kyocera document solutions",
+    "stock": 5,
+    "description": "kyocera 47 ppm black and white a4 printer",
+    "lineIndex": 405170
+  },
+  {
+    "mfgpn": "47C9100",
+    "sku": "6921784",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark colour printer cs735de",
+    "lineIndex": 405204
+  },
+  {
+    "mfgpn": "50G0050",
+    "sku": "6174244",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark printer ms821n",
+    "lineIndex": 405206
+  },
+  {
+    "mfgpn": "3G650F#BGJ",
+    "sku": "6874254",
+    "brand": "hp inc.",
+    "stock": 35,
+    "description": "hp laserjet pro 3001dw printer - 256 mb - hi-speed usb device (compatible with u",
+    "lineIndex": 408846
+  },
+  {
+    "mfgpn": "9D2X4F#BGJ",
+    "sku": "8027174",
+    "brand": "hp inc.",
+    "stock": 10,
+    "description": "hpi 3101sdw mono laserjet pro mfp (bp)",
+    "lineIndex": 408847
+  },
+  {
+    "mfgpn": "5A0S1A#B1H",
+    "sku": "7440724",
+    "brand": "hp inc.",
+    "stock": 5,
+    "description": "hpi 9110b clr officejet pro printer (bp)",
+    "lineIndex": 408848
+  },
+  {
+    "mfgpn": "38S0400",
+    "sku": "7216535",
+    "brand": "lexmark",
+    "stock": 3,
+    "description": "lexmark mono printer ms631dw",
+    "lineIndex": 414322
+  },
+  {
+    "mfgpn": "50G0100",
+    "sku": "6174245",
+    "brand": "lexmark",
+    "stock": 11,
+    "description": "lexmark mono printer ms821dn",
+    "lineIndex": 414323
+  },
+  {
+    "mfgpn": "29S0500",
+    "sku": "6527915",
+    "brand": "lexmark",
+    "stock": 2,
+    "description": "lexmark mfp mono laser printer/mx431adw",
+    "lineIndex": 414325
+  },
+  {
+    "mfgpn": "SMARTVISION 40",
+    "sku": "7601415",
+    "brand": "yealink network technology",
+    "stock": 18,
+    "description": "yealink all-in-one ai usb video bar for small to medium rooms",
+    "lineIndex": 414961
+  },
+  {
+    "mfgpn": "38S0300",
+    "sku": "7216536",
+    "brand": "lexmark",
+    "stock": 212,
+    "description": "lexmark mono printer  ms531dw",
+    "lineIndex": 423336
+  },
+  {
+    "mfgpn": "B410/DN",
+    "sku": "7262566",
+    "brand": "xerox",
+    "stock": 16,
+    "description": "xerox b410 printer, up to 50ppm, duplex",
+    "lineIndex": 430811
+  },
+  {
+    "mfgpn": "0TSBC0117001F",
+    "sku": "5138236",
+    "brand": "toshiba tec",
+    "stock": 40,
+    "description": "toshiba industrial label printer b-ex4t1 4in width,203dpi,near edge head b-ex4t1",
+    "lineIndex": 430871
+  },
+  {
+    "mfgpn": "0TSBC0117201F",
+    "sku": "5197966",
+    "brand": "toshiba tec",
+    "stock": 20,
+    "description": "toshiba industrial label printer b-ex4t1 4in width,305dpi,near edge head b-ex4t1",
+    "lineIndex": 430872
+  },
+  {
+    "mfgpn": "C230/DNI",
+    "sku": "6774917",
+    "brand": "xerox",
+    "stock": 14,
+    "description": "xerox c230 color printer, up to 24ppm,letter/legal, automatic 2-sided print, usb",
+    "lineIndex": 431844
+  },
+  {
+    "mfgpn": "50G0180",
+    "sku": "6174247",
+    "brand": "lexmark",
+    "stock": 6,
+    "description": "lexmark mono printer ms823n",
+    "lineIndex": 432338
+  },
+  {
+    "mfgpn": "29S0150",
+    "sku": "6527917",
+    "brand": "lexmark",
+    "stock": 55,
+    "description": "lexmark mfp mono laser printer/mx331adn",
+    "lineIndex": 432340
+  },
+  {
+    "mfgpn": "35S8502",
+    "sku": "4919857",
+    "brand": "lexmark",
+    "stock": 7,
+    "description": "adjustable printer stand for ms/mx310,410,510,610 series",
+    "lineIndex": 432354
+  },
+  {
+    "mfgpn": "6GW62F#BGJ",
+    "sku": "6726457",
+    "brand": "hp inc.",
+    "stock": 36,
+    "description": "hpi m209dw mono laserjet printer (bp)",
+    "lineIndex": 435948
+  },
+  {
+    "mfgpn": "C415/DN",
+    "sku": "7272448",
+    "brand": "xerox",
+    "stock": 69,
+    "description": "xerox versalink c415 color multifunction printer, up to 42ppm, duplex",
+    "lineIndex": 440952
+  },
+  {
+    "mfgpn": "PA2100CWX",
+    "sku": "7109118",
+    "brand": "kyocera document solutions",
+    "stock": 6,
+    "description": "kyocera 22 ppm colour letter/legal/a4 printer",
+    "lineIndex": 441408
+  },
+  {
+    "mfgpn": "50G0200",
+    "sku": "6174248",
+    "brand": "lexmark",
+    "stock": 26,
+    "description": "lexmark mono printer ms823dn",
+    "lineIndex": 441447
+  },
+  {
+    "mfgpn": "29S0100",
+    "sku": "6527918",
+    "brand": "lexmark",
+    "stock": 101,
+    "description": "lexmark mono laser printer/ms431dw",
+    "lineIndex": 441449
+  },
+  {
+    "mfgpn": "40C2300",
+    "sku": "5571468",
+    "brand": "lexmark",
+    "stock": 40,
+    "description": "lexmark 40c2300 adjustable printer stand for use in cx635adwe cx532adwe cs632dwe",
+    "lineIndex": 441452
+  },
+  {
+    "mfgpn": "8J9L0F#BGJ",
+    "sku": "8173218",
+    "brand": "hp inc.",
+    "stock": 10,
+    "description": "hpi m209d mono laserjet printer (bp)",
+    "lineIndex": 445040
+  },
+  {
+    "mfgpn": "B230/DNI",
+    "sku": "6827798",
+    "brand": "xerox",
+    "stock": 3,
+    "description": "xerox b230 printer 110v",
+    "lineIndex": 448939
+  },
+  {
+    "mfgpn": "50M7040",
+    "sku": "7216529",
+    "brand": "lexmark",
+    "stock": 97,
+    "description": "lexmark cx532adwe mfp color laser printer",
+    "lineIndex": 450505
+  },
+  {
+    "mfgpn": "29S0050",
+    "sku": "6527919",
+    "brand": "lexmark",
+    "stock": 76,
+    "description": "lexmark mono laser printer/ms431dn",
+    "lineIndex": 450509
+  },
+  {
+    "mfgpn": "24CN670NK6N",
+    "sku": "6869689",
+    "brand": "lg",
+    "stock": 2,
+    "description": "lg 24in 24cn670nk6n fhd ips all-in-one thin client for medical & healthcare with",
+    "lineIndex": 454837
+  },
+  {
+    "mfgpn": "A230-001-KP",
+    "sku": "5720170",
+    "brand": "tripp lite",
+    "stock": 28,
+    "description": "tripp lite series bnc all-in-one keystone/panel mount coupler (f/f), 75 ohms - w",
+    "lineIndex": 458464
+  },
+  {
+    "mfgpn": "5HB06T#B1K",
+    "sku": "8192740",
+    "brand": "hp inc.",
+    "stock": 3,
+    "description": "hp designjet t250 24in printer 2025 edition w/ 2yr warr",
+    "lineIndex": 459202
+  },
+  {
+    "mfgpn": "C325/DNI",
+    "sku": "8012770",
+    "brand": "xerox",
+    "stock": 25,
+    "description": "xerox c325 color multifunction printer, up to 35ppm, duplex with copy, print, sc",
+    "lineIndex": 459758
+  },
+  {
+    "mfgpn": "714L5A#B1H",
+    "sku": "8169270",
+    "brand": "hp inc.",
+    "stock": 90,
+    "description": "hpi 6155e clr envy aio printer (bp)",
+    "lineIndex": 459965
+  },
+  {
+    "mfgpn": "24CN650I-6N",
+    "sku": "6847590",
+    "brand": "lg",
+    "stock": 283,
+    "description": "lg 24in 24cn650i-6n fhd all-in-one thin client, igel os, 4gb ddr4, 16gb emmc, in",
+    "lineIndex": 460005
+  },
+  {
+    "mfgpn": "403X0A#B1H",
+    "sku": "7440721",
+    "brand": "hp inc.",
+    "stock": 45,
+    "description": "hpi 9125e clr officejet pro aio printer (bp)",
+    "lineIndex": 461609
+  },
+  {
+    "mfgpn": "C320/DNI",
+    "sku": "8237922",
+    "brand": "xerox",
+    "stock": 27,
+    "description": "xerox c320 color printer, up to 35ppm, duplex, wifi, 110v",
+    "lineIndex": 463721
+  },
+  {
+    "mfgpn": "3G628F#BGJ",
+    "sku": "6874252",
+    "brand": "hp inc.",
+    "stock": 45,
+    "description": "hpi 3101fdw mono laserjet pro mfp (bp)",
+    "lineIndex": 463938
+  },
+  {
+    "mfgpn": "40Q35A#B1H",
+    "sku": "7440722",
+    "brand": "hp inc.",
+    "stock": 50,
+    "description": "hpi 8135e clr officejet pro aio printer (bp)",
+    "lineIndex": 463939
+  },
+  {
+    "mfgpn": "200566P",
+    "sku": "5220293",
+    "brand": "clover imaging group",
+    "stock": 16,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet m551n, m551dn,",
+    "lineIndex": 464156
+  },
+  {
+    "mfgpn": "95145",
+    "sku": "1373133",
+    "brand": "verbatim",
+    "stock": 4,
+    "description": "dvd+r 4.7gb 16x white inkjet printable",
+    "lineIndex": 464698
+  },
+  {
+    "mfgpn": "CZ993A#B1H",
+    "sku": "5686913",
+    "brand": "hp inc.",
+    "stock": 75,
+    "description": "hpi 200 officejet mobile printer (bp)",
+    "lineIndex": 464994
+  },
+  {
+    "mfgpn": "7ZU81A#BGJ",
+    "sku": "6661264",
+    "brand": "hp inc.",
+    "stock": 4,
+    "description": "hpi m554dn clr laserjet printer",
+    "lineIndex": 465227
+  },
+  {
+    "mfgpn": "24CN650W-AP",
+    "sku": "6953864",
+    "brand": "lg",
+    "stock": 36,
+    "description": "lg 24in 24cn650w-ap fhd all-in-one thin client, windows 10 iot enterprise ltsc,",
+    "lineIndex": 465967
+  },
+  {
+    "mfgpn": "4RA86F#BGJ",
+    "sku": "7174995",
+    "brand": "hp inc.",
+    "stock": 4,
+    "description": "hpi 4201dw clr laserjet printer (bp)",
+    "lineIndex": 466191
+  },
+  {
+    "mfgpn": "29S0200",
+    "sku": "6527916",
+    "brand": "lexmark",
+    "stock": 43,
+    "description": "lexmark mfp mono laser printer/mx431adn",
+    "lineIndex": 467682
+  },
+  {
+    "mfgpn": "B310/DNI",
+    "sku": "6774906",
+    "brand": "xerox",
+    "stock": 4,
+    "description": "b310 - laser printer - laser - usb 2.0,ethernet 10/100base-tx - up to 42 ppm - m",
+    "lineIndex": 468027
+  },
+  {
+    "mfgpn": "B235/DNI",
+    "sku": "6827797",
+    "brand": "xerox",
+    "stock": 107,
+    "description": "xerox b235 mltfnctn printer 110v",
+    "lineIndex": 468531
+  },
+  {
+    "mfgpn": "201170P",
+    "sku": "6550758",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp colour laserjet pro m254dw; mfp",
+    "lineIndex": 468986
+  },
+  {
+    "mfgpn": "6GW99F#BGJ",
+    "sku": "6700128",
+    "brand": "hp inc.",
+    "stock": 157,
+    "description": "hpi m234dw mono laserjet mfp (bp)",
+    "lineIndex": 469773
+  },
+  {
+    "mfgpn": "200013P",
+    "sku": "4740039",
+    "brand": "clover imaging group",
+    "stock": 1,
+    "description": "cig remanufactured consumable alternative for hp laserjet 1300, 1300n, 1300xi (h",
+    "lineIndex": 469969
+  },
+  {
+    "mfgpn": "201318P",
+    "sku": "6550789",
+    "brand": "clover imaging group",
+    "stock": 2,
+    "description": "cig remanufactured consumable alternative for hp laserjet enterprise m506n, m506",
+    "lineIndex": 470008
+  },
+  {
+    "mfgpn": "5HB07T#B1K",
+    "sku": "8192739",
+    "brand": "hp inc.",
+    "stock": 2,
+    "description": "hp designjet t230 24in printer 2025 edition w/ 2yr warr",
+    "lineIndex": 470099
+  },
+  {
+    "mfgpn": "6GX01F#BGJ",
+    "sku": "6726459",
+    "brand": "hp inc.",
+    "stock": 85,
+    "description": "hpi m234sdw mono laserjet mfp (bp)",
+    "lineIndex": 470696
+  }
+]

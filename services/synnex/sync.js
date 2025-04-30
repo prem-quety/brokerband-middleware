@@ -23,8 +23,13 @@ export const syncSynnexToShopify = async (synnexSKU) => {
       return;
     }
 
-    const payload = mapSynnexToShopify(apiData);
-    if (scraped.image_url) payload.images = [{ src: scraped.image_url }];
+    const payload = mapSynnexToShopify(apiData, scraped);
+    // ✅ Use multi-image array if available, else fallback to single image
+    if (scraped.image_urls?.length) {
+      payload.images = scraped.image_urls.map((url) => ({ src: url }));
+    } else if (scraped.image_url) {
+      payload.images = [{ src: scraped.image_url }];
+    }
 
     const created = await postProductToShopify(payload);
     const metafields = buildMetafieldsFromSynnex(apiData, created, scraped);

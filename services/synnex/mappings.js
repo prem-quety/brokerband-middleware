@@ -1,22 +1,35 @@
-export const mapSynnexToShopify = (item) => {
+// File: services/synnex/mappings.js (or wherever this function lives)
+import { guessProductTags, guessProductType } from "../../utils/helpers.js"; // adjust path if needed
+
+export const mapSynnexToShopify = (item, scraped = {}) => {
   const title = item.description || "Unnamed Product";
-  const msrp = parseFloat(item.msrp || 0).toFixed(2);
-  const compareAtPrice = (msrp * 1.1).toFixed(2);
+  const fullDescription = scraped.description || item.description;
+
+  const type = guessProductType({ description: title, scraped });
+  const price = parseFloat(item.msrp || 0).toFixed(2);
+  const compareAtPrice = (parseFloat(item.msrp || 0) * 1.1).toFixed(2);
+  const weight = parseFloat(item.weight || 0.5);
   const vendor = title.trim().split(" ")[0] || "QueryTel";
+
+  const tags = guessProductTags({
+    description: fullDescription,
+    brand: vendor,
+    scraped,
+  });
 
   return {
     title,
-    body_html: `<p>${title}</p>`,
+    body_html: `<p>${fullDescription}</p>`,
     vendor,
-    product_type: "Adapters",
-    tags: ["Adapters"],
+    product_type: type,
+    tags,
     status: "active",
     variants: [
       {
         sku: item.mfgPN,
-        price: msrp,
+        price,
         compare_at_price: compareAtPrice,
-        weight: parseFloat(item.weight || 0.5),
+        weight,
         weight_unit: "lb",
         inventory_quantity: parseInt(item.quantity || 0),
         inventory_management: "shopify",
