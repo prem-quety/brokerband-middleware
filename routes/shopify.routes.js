@@ -10,6 +10,7 @@ import {
 } from "../services/shopify/shopify.js";
 import Order from "../models/Order.js";
 import { setProductMetafields } from "../services/shopify/shopify.js";
+import { deleteProductsWithoutPriceOrImage } from "../services/shopify/shopify.js";
 
 const router = express.Router();
 
@@ -194,6 +195,20 @@ router.post("/webhook/order", async (req, res) => {
   // 2. Queue SYNNEX + Zoho logic (later)
 
   res.status(200).send("ok");
+});
+
+router.delete("/products/cleanup", async (req, res) => {
+  try {
+    const deleted = await deleteProductsWithoutPriceOrImage();
+    res.status(200).json({
+      success: true,
+      message: `Deleted ${deleted.length} products without price or image`,
+      data: deleted,
+    });
+  } catch (err) {
+    console.error("❌ Cleanup error:", err.message);
+    res.status(500).json({ error: "Failed to clean up products" });
+  }
 });
 
 export default router;

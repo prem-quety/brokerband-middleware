@@ -59,6 +59,12 @@ export const scrapeSkuDetails = async (sku) => {
       .filter(Boolean);
   });
 
+  console.log(`🖼️ Found ${image_urls.length} image(s) for SKU ${sku}`);
+  if (!image_urls.length) {
+    await browser.close();
+    throw new Error(`❌ No product images found for SKU ${sku}`);
+  }
+
   const specifications = await page.evaluate(() => {
     const container = document.querySelector("#tabContext_spec");
     if (!container) return {};

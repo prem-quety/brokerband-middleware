@@ -137,25 +137,55 @@ export const guessProductTags = ({
 export const guessProductType = ({ description = "", scraped = {} }) => {
   const lowerDesc = description.toLowerCase();
 
-  // Normalize shorthand patterns
-  const shorthandMap = {
-    nb: "laptop", // NB = Notebook
-    tp: "laptop", // ThinkPad
-    t14: "laptop",
-    x1: "laptop",
-    r5: "laptop",
-    ryzen: "laptop",
-    intel: "laptop",
-  };
+  const printerTerms = [
+    "laserjet",
+    "inkjet",
+    "printer",
+    "mfp",
+    "aio",
+    "officejet",
+    "designjet",
+    "deskjet",
+    "pagewide",
+    "label printer",
+    "impact printer",
+    "dot matrix",
+    "smartlabel",
+    "thermal printer",
+    "imageclass",
+    "imageprograf",
+    "ecosys",
+  ];
 
-  for (const [abbr, normalized] of Object.entries(shorthandMap)) {
-    if (lowerDesc.includes(abbr)) return "Laptop";
-  }
+  const printerSupplyTerms = [
+    "remanufactured consumable",
+    "toner",
+    "ink",
+    "cartridge",
+    "fuser",
+    "drum",
+    "ribbon",
+    "maintenance kit",
+    "staple cartridge",
+    "print ribbon",
+  ];
 
-  // Main keyword map
+  const workstationTerms = [
+    "mobile precision",
+    "precision tower",
+    "tower workstation",
+    "compact workstation",
+  ];
+
+  const aios = ["all in one", "aio"];
+  const sff = ["small form factor"];
+  const micro = ["micro"];
+  const optiplex = ["optiplex"];
+
   const typeMap = {
     laptop: "Laptop",
     notebook: "Laptop",
+    desktop: "Desktop",
     backpack: "Bag",
     charger: "Charger",
     adapter: "Adapter",
@@ -164,22 +194,118 @@ export const guessProductType = ({ description = "", scraped = {} }) => {
     keyboard: "Keyboard",
     webcam: "Webcam",
     dock: "Dock",
-    printer: "Printer",
     phone: "Phone",
     speaker: "Speaker",
+    stylus: "Stylus",
+    pen: "Stylus",
+    tab: "Tablet",
+    tablet: "Tablet",
+    handle: "Tablet Accessory",
+    strap: "Tablet Accessory",
   };
 
-  for (const [keyword, type] of Object.entries(typeMap)) {
-    if (lowerDesc.includes(keyword)) return type;
-  }
+  // Precision-based checks
+  for (const term of workstationTerms)
+    if (lowerDesc.includes(term)) return "Workstation";
 
+  for (const term of aios)
+    if (lowerDesc.includes(term) && lowerDesc.includes("optiplex"))
+      return "All-in-One PC";
+
+  for (const term of sff)
+    if (lowerDesc.includes(term) && lowerDesc.includes("optiplex"))
+      return "Small Form Factor PC";
+
+  for (const term of micro)
+    if (lowerDesc.includes(term) && lowerDesc.includes("optiplex"))
+      return "Mini PC";
+
+  for (const term of optiplex)
+    if (lowerDesc.includes(term)) return "Desktop PC";
+
+  for (const term of printerTerms)
+    if (lowerDesc.includes(term)) return "Printer";
+
+  for (const term of printerSupplyTerms)
+    if (lowerDesc.includes(term)) return "Printer Supply";
+
+  for (const [keyword, type] of Object.entries(typeMap))
+    if (lowerDesc.includes(keyword)) return type;
+
+  // Scraped fallback
   const scrapedSections = Object.keys(scraped.specifications || {});
   for (const section of scrapedSections) {
     const lower = section.toLowerCase();
     if (lower.includes("laptop")) return "Laptop";
+    if (lower.includes("printer")) return "Printer";
     if (lower.includes("monitor")) return "Monitor";
     if (lower.includes("bag")) return "Bag";
   }
 
   return "Miscellaneous";
+};
+
+const KNOWN_BRANDS = [
+  "HP",
+  "HPI",
+  "HP Inc.",
+  "DELL",
+  "Dell CSG",
+  "Lenovo",
+  "Acer",
+  "Asus",
+  "Canon",
+  "Epson",
+  "Lexmark",
+  "Brother",
+  "Toshiba",
+  "Xerox",
+  "Kyocera",
+  "Seiko",
+  "StarTech",
+  "LG",
+  "Neat",
+  "TROY",
+  "Deepcool",
+  "Tripp",
+  "C2G",
+  "DYMO",
+  "Newell",
+  "Samsung",
+  "MSI",
+  "Razer",
+  "Clover Imaging Group",
+];
+
+export const detectVendor = (title = "", description = "") => {
+  const combinedText = `${title} ${description}`
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+  const titleWords = title.trim().split(/\s+/);
+
+  for (const brand of KNOWN_BRANDS) {
+    const cleanBrand = brand
+      .toLowerCase()
+      .replace(/ inc\.?| csg/g, "")
+      .trim();
+    if (combinedText.includes(cleanBrand)) {
+      return brand.replace(/ inc\.?| csg/g, "").trim();
+    }
+  }
+
+  const blockedFallbacks = [
+    "optiplex",
+    "latitude",
+    "thinkpad",
+    "envy",
+    "precision",
+  ];
+
+  const firstWord = titleWords[0]?.toLowerCase();
+  if (firstWord && !blockedFallbacks.includes(firstWord)) {
+    return titleWords[0][0].toUpperCase() + titleWords[0].slice(1); // Capitalized
+  }
+
+  return "BrokerBand"; // Brand fallback
 };

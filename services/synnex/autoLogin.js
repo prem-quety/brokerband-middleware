@@ -7,7 +7,7 @@ import dotenv from "dotenv";
 dotenv.config(); // Load .env
 
 export const autoLoginAndSaveCookies = async () => {
-  const browser = await chromium.launch({ headless: false }); // show browser for debugging
+  const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page = await context.newPage();
 

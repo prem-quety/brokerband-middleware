@@ -35,6 +35,17 @@ export const fetchSynnexPriceData = async (synnexSKU) => {
     if (["not found", "discontinued", "notauthorized"].includes(status))
       return null;
 
+    const price = parseFloat(product.price?.[0] || "0");
+    let msrp = parseFloat(product.msrp?.[0]);
+
+    if (isNaN(msrp) || msrp === 0) {
+      msrp = parseFloat((price * 1.1).toFixed(2));
+      log(
+        "warn",
+        `MSRP missing for SKU ${synnexSKU}, defaulted to price * 1.1`
+      );
+    }
+
     const warehouses = (product.AvailabilityByWarehouse || []).map((entry) => ({
       city: entry.warehouseInfo?.[0]?.city?.[0],
       qty: parseInt(entry.qty?.[0] || 0),
@@ -44,8 +55,8 @@ export const fetchSynnexPriceData = async (synnexSKU) => {
       synnexSKU: product.synnexSKU?.[0],
       mfgPN: product.mfgPN?.[0],
       description: product.description?.[0],
-      price: product.price?.[0],
-      msrp: product.msrp?.[0],
+      price,
+      msrp,
       quantity: product.totalQuantity?.[0],
       weight: product.weight?.[0],
       parcelShippable: product.parcelShippable?.[0],

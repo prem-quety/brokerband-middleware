@@ -80,3 +80,47 @@ export const postProductToShopify = async (productData) => {
     throw err;
   }
 };
+
+export const deleteProductsWithoutPriceOrImage = async () => {
+  const deleted = [];
+  let nextPageUrl = `${process.env.SHOPIFY_STORE_URL}/admin/api/${process.env.SHOPIFY_API_VERSION}/products.json?limit=250`;
+
+  while (nextPageUrl) {
+    const response = await axios.get(nextPageUrl, {
+      headers: {
+        "X-Shopify-Access-Token": process.env.SHOPIFY_ADMIN_TOKEN,
+        "Content-Type": "application/json",
+      },
+    });
+
+    const products = response.data.products || [];
+    console.log(`📦 Fetched ${products.length} products`);
+
+    for (const product of products) {
+      const hasImage = product.images?.length > 0;
+      const price = parseFloat(product.variants?.[0]?.price || "0");
+      const hasPrice = !isNaN(price) && price > 0;
+
+      if (!hasImage || !hasPrice) {
+        const deleteUrl = `${process.env.SHOPIFY_STORE_URL}/admin/api/${process.env.SHOPIFY_API_VERSION}/products/${product.id}.json`;
+
+        await axios.delete(deleteUrl, {
+          headers: {
+            "X-Shopify-Access-Token": process.env.SHOPIFY_ADMIN_TOKEN,
+          },
+        });
+
+        deleted.push({ id: product.id, title: product.title });
+        console.log(`🗑️ Deleted: ${product.title}`);
+      }
+    }
+
+    // Use Link header to get next page URL
+    const linkHeader = response.headers.link;
+    const nextMatch = linkHeader?.match(/<([^>]+)>;\s*rel="next"/);
+    nextPageUrl = nextMatch ? nextMatch[1] : null;
+  }
+
+  console.log(`✅ Finished. Total deleted: ${deleted.length}`);
+  return deleted;
+};

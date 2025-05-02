@@ -1,5 +1,9 @@
 // File: services/synnex/mappings.js (or wherever this function lives)
-import { guessProductTags, guessProductType } from "../../utils/helpers.js"; // adjust path if needed
+import {
+  guessProductTags,
+  guessProductType,
+  detectVendor,
+} from "../../utils/helpers.js"; // adjust path if needed
 
 export const mapSynnexToShopify = (item, scraped = {}) => {
   const title = item.description || "Unnamed Product";
@@ -9,7 +13,10 @@ export const mapSynnexToShopify = (item, scraped = {}) => {
   const price = parseFloat(item.msrp || 0).toFixed(2);
   const compareAtPrice = (parseFloat(item.msrp || 0) * 1.1).toFixed(2);
   const weight = parseFloat(item.weight || 0.5);
-  const vendor = title.trim().split(" ")[0] || "QueryTel";
+  const vendor = detectVendor(
+    scraped?.name || item?.description || "",
+    scraped?.description || ""
+  );
 
   const tags = guessProductTags({
     description: fullDescription,

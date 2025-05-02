@@ -1,0 +1,475 @@
+[
+
+  {
+    "mfgpn": "DG02W",
+    "sku": "7520066",
+    "brand": "dell csg",
+    "stock": 82,
+    "description": "dell optiplex micro 7020 core i5 14500t 16gb 1dimm 256gb ss wls w11 1dp 1hdmi 5u",
+    "lineIndex": 145646
+  },
+  {
+    "mfgpn": "9X1PV",
+    "sku": "7520069",
+    "brand": "dell csg",
+    "stock": 100,
+    "description": "dell optiplex micro 7020 core i5 14500t 16gb 1dimm 512gb ss wls w11 1dp 1hdmi 5u",
+    "lineIndex": 145648
+  },
+  {
+    "mfgpn": "GDX46",
+    "sku": "7520070",
+    "brand": "dell csg",
+    "stock": 50,
+    "description": "dell optiplex micro 7020 core i7 14700 16gb 1dimm 256gb ss wls w11 1dp 1hdmi 5us",
+    "lineIndex": 145649
+  },
+  {
+    "mfgpn": "X8FRK",
+    "sku": "7520077",
+    "brand": "dell csg",
+    "stock": 8,
+    "description": "dell optiplex micro 7020 core i3 14100 8gb 1dimm 256gb ss nowls w11 1dp 1hdmi 5u",
+    "lineIndex": 145651
+  },
+  {
+    "mfgpn": "54J8K",
+    "sku": "7520079",
+    "brand": "dell csg",
+    "stock": 52,
+    "description": "dell optiplex micro 7020 core i5 14500t 8gb 1dimm 256gb ss nowls w11 1dp 1hdmi 5",
+    "lineIndex": 145652
+  },
+  {
+    "mfgpn": "NP2H8",
+    "sku": "7520081",
+    "brand": "dell csg",
+    "stock": 13,
+    "description": "dell optiplex micro 7020 core i5 14500t 16gb 1dimm 256gb ss nowls w11 1dp 1hdmi",
+    "lineIndex": 145654
+  },
+  {
+    "mfgpn": "DN5R3",
+    "sku": "7520082",
+    "brand": "dell csg",
+    "stock": 90,
+    "description": "dell optiplex micro plus 7020 core i7 14700 16gb 1dimm 512gb ss wls w11 3dp 4usb",
+    "lineIndex": 145655
+  },
+  {
+    "mfgpn": "VTG9M",
+    "sku": "7520083",
+    "brand": "dell csg",
+    "stock": 10,
+    "description": "dell optiplex micro plus 7020 core i7 14700 32gb 1dimm 512gb ss wls w11 3dp 4usb",
+    "lineIndex": 145656
+  },
+  {
+    "mfgpn": "2PTC6",
+    "sku": "7520084",
+    "brand": "dell csg",
+    "stock": 50,
+    "description": "dell optiplex micro plus 7020 core i5 14500 16gb 1dimm 512gb ss wls w11 3dp 4usb",
+    "lineIndex": 145657
+  },
+  {
+    "mfgpn": "PX86J",
+    "sku": "7521346",
+    "brand": "dell csg",
+    "stock": 20,
+    "description": "dell optiplex small form factor plus 7020 core i7 14700 16gb 2dimms 512gb ss int",
+    "lineIndex": 145876
+  },
+  {
+    "mfgpn": "FMFD1",
+    "sku": "7521349",
+    "brand": "dell csg",
+    "stock": 30,
+    "description": "dell optiplex small form factor plus 7020 core i7 14700 32gb 2dimms 512gb ss int",
+    "lineIndex": 145878
+  },
+  {
+    "mfgpn": "7FW7W",
+    "sku": "7521350",
+    "brand": "dell csg",
+    "stock": 24,
+    "description": "dell optiplex small form factor plus 7020 core i7 14700 32gb 2dimms 512gb ss int",
+    "lineIndex": 145879
+  },
+  {
+    "mfgpn": "GFXMD",
+    "sku": "7521352",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell optiplex mt mlk 7020 core i5 14500 16gb 1dimm 256gb ss intel hd wls w11 1dp",
+    "lineIndex": 145880
+  },
+  {
+    "mfgpn": "87F7H",
+    "sku": "7521353",
+    "brand": "dell csg",
+    "stock": 9,
+    "description": "dell optiplex mt mlk 7020 core i5 14500 16gb 1dimm 512gb ss intel hd nowls rw w1",
+    "lineIndex": 145881
+  },
+  {
+    "mfgpn": "V1FFJ",
+    "sku": "7521365",
+    "brand": "dell csg",
+    "stock": 52,
+    "description": "dell optiplex small form factor 7020 core i5 14500 16gb 1dimm 256gb ss intel hd",
+    "lineIndex": 145890
+  },
+  {
+    "mfgpn": "9DN74",
+    "sku": "7521367",
+    "brand": "dell csg",
+    "stock": 34,
+    "description": "dell optiplex small form factor 7020 core i5 14500 16gb 1dimm 512gb ss intel hd",
+    "lineIndex": 145891
+  },
+  {
+    "mfgpn": "94W75",
+    "sku": "7521369",
+    "brand": "dell csg",
+    "stock": 53,
+    "description": "dell optiplex small form factor plus 7020 core i5 14500 16gb 2dimms 512gb ss int",
+    "lineIndex": 145892
+  },
+  {
+    "mfgpn": "TR8V8",
+    "sku": "7595025",
+    "brand": "dell csg",
+    "stock": 29,
+    "description": "dell optiplex all in one 7420 core i5 14500 16gb 1dimm 512gb ss nt intel hd wls",
+    "lineIndex": 146064
+  },
+  {
+    "mfgpn": "2NTMN",
+    "sku": "7595038",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell optiplex all in one 7420 energy efficient process core i5 14500t 8gb 1dimm",
+    "lineIndex": 146075
+  },
+  {
+    "mfgpn": "8KRPJ",
+    "sku": "7609155",
+    "brand": "dell csg",
+    "stock": 5,
+    "description": "dell precision 3680 tower core i5 14 14500 16gb 2dimms 512gb intel hd nowls rw w",
+    "lineIndex": 146681
+  },
+  {
+    "mfgpn": "NVY8C",
+    "sku": "7609157",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell precision 3680 tower core i7 14 14700 16gb 2dimms 512gb amd rad pro w6400 n",
+    "lineIndex": 146682
+  },
+  {
+    "mfgpn": "6223J",
+    "sku": "7885438",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell mobile precision 5490 core ultra 7 165h 32gb 512gb ss nt nvidia rtx a1000 1",
+    "lineIndex": 146716
+  },
+  {
+    "mfgpn": "5P4PT",
+    "sku": "7885448",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell mobile precision 3591 core ultra 5 135h 16gb 1dimm 512gb ss nt nvidia rtx a",
+    "lineIndex": 146725
+  },
+  {
+    "mfgpn": "3H85P",
+    "sku": "7911712",
+    "brand": "dell csg",
+    "stock": 200,
+    "description": "dell dell latitude 5450 core ultra 5 125u 16gb 2dimms 256gb ss 1920x1080 nt wls",
+    "lineIndex": 147110
+  },
+  {
+    "mfgpn": "74X93",
+    "sku": "7911715",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell dell latitude 5450 core ultra 5 135u 16gb 2dimms 256gb ss 1920x1080 t wls w",
+    "lineIndex": 147112
+  },
+  {
+    "mfgpn": "WV43H",
+    "sku": "7911717",
+    "brand": "dell csg",
+    "stock": 9,
+    "description": "dell dell latitude 5450 core ultra 5 135u 16gb 2dimms 256gb ss 1920x1080 nt wls",
+    "lineIndex": 147114
+  },
+  {
+    "mfgpn": "04RCP",
+    "sku": "7911737",
+    "brand": "dell csg",
+    "stock": 50,
+    "description": "dell dell latitude 5550 core ultra 5 125u 16gb 2dimms 256gb ss 1920x1080 nt wls",
+    "lineIndex": 147125
+  },
+  {
+    "mfgpn": "79J6P",
+    "sku": "7911750",
+    "brand": "dell csg",
+    "stock": 20,
+    "description": "dell dell latitude 5550 core ultra 5 135u 16gb 2dimms 256gb ss 1920x1080 nt wls",
+    "lineIndex": 147134
+  },
+  {
+    "mfgpn": "HVMV3",
+    "sku": "7911757",
+    "brand": "dell csg",
+    "stock": 150,
+    "description": "dell dell latitude 5550 core ultra 7 165u 16gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 147137
+  },
+  {
+    "mfgpn": "R3MV7",
+    "sku": "7911772",
+    "brand": "dell csg",
+    "stock": 18,
+    "description": "dell dell latitude 7650 core ultra 7 155u 16gb 1dimm 512gb ss nt 1920x1200 wls w",
+    "lineIndex": 147143
+  },
+  {
+    "mfgpn": "8PXTR",
+    "sku": "7912203",
+    "brand": "dell csg",
+    "stock": 56,
+    "description": "dell dell latitude 3450 core i5 1335u 16gb 2dimms 512gb ss 1920x1080 nt wls w11",
+    "lineIndex": 147166
+  },
+  {
+    "mfgpn": "NKPY8",
+    "sku": "7912204",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell dell latitude 3450 core i5 1335u 16gb 2dimms 512gb ss 1920x1080 t wls w11 3",
+    "lineIndex": 147167
+  },
+  {
+    "mfgpn": "15D24",
+    "sku": "7912210",
+    "brand": "dell csg",
+    "stock": 182,
+    "description": "dell dell latitude 3550 core i5 1335u 16gb 2dimms 256gb ss 1920x1080 nt wls w11",
+    "lineIndex": 147170
+  },
+  {
+    "mfgpn": "KRG7K",
+    "sku": "7912213",
+    "brand": "dell csg",
+    "stock": 64,
+    "description": "dell dell latitude 3550 core i5 1335u 16gb 2dimms 256gb ss 1920x1080 t wls w11 3",
+    "lineIndex": 147173
+  },
+  {
+    "mfgpn": "P5PY4",
+    "sku": "7912215",
+    "brand": "dell csg",
+    "stock": 26,
+    "description": "dell dell latitude 3550 core i5 1335u 8gb 1dimm 256gb ss 1920x1080 nt wls w11 3c",
+    "lineIndex": 147175
+  },
+  {
+    "mfgpn": "TTVC4",
+    "sku": "7912217",
+    "brand": "dell csg",
+    "stock": 4,
+    "description": "dell dell latitude 3450 core i7 1355u 16gb 2dimms 512gb ss 1920x1080 nt wls w11",
+    "lineIndex": 147177
+  },
+  {
+    "mfgpn": "58JKH",
+    "sku": "7946906",
+    "brand": "dell csg",
+    "stock": 4,
+    "description": "dell mobile precision 5690 core ultra 7 155h 32gb 512gb ss nt nvidia rtx a1000 1",
+    "lineIndex": 148093
+  },
+  {
+    "mfgpn": "728PF",
+    "sku": "7946907",
+    "brand": "dell csg",
+    "stock": 5,
+    "description": "dell mobile precision 5690 core ultra 7 165h 32gb 1tb ss nt nvidia rtx a2000 192",
+    "lineIndex": 148094
+  },
+  {
+    "mfgpn": "W7XCG",
+    "sku": "7946909",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell mobile precision 5690 core ultra 7 165h 32gb 512gb ss nt nvidia rtx a2000 1",
+    "lineIndex": 148096
+  },
+  {
+    "mfgpn": "D3G2V",
+    "sku": "7946911",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell mobile precision 5690 core ultra 9 185h 32gb 1tb ss nt nvidia rtx a2000 192",
+    "lineIndex": 148098
+  },
+  {
+    "mfgpn": "K16TP",
+    "sku": "8014534",
+    "brand": "dell csg",
+    "stock": 2,
+    "description": "dell mobile precision 3591 core ultra 9 185h 32gb 2dimms 1tb ss nvidia rtx 2000a",
+    "lineIndex": 154820
+  },
+  {
+    "mfgpn": "VGN2J",
+    "sku": "8162429",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell precision 3280 compact core i7 14700 32gb 2dimms 512gb ss nvidia rtx 2000 a",
+    "lineIndex": 158395
+  },
+  {
+    "mfgpn": "F6N60",
+    "sku": "8172477",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell optiplex 7000 xe micro for logitech tap bundle only core i7 12700t 16gb 2di",
+    "lineIndex": 160652
+  },
+  {
+    "mfgpn": "63N3D",
+    "sku": "7595030",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell optiplex all in one plus 7420 core i7 14700 16gb 1dimm 512gb ss t intel hd",
+    "lineIndex": 266621
+  },
+  {
+    "mfgpn": "YWPCM",
+    "sku": "7911740",
+    "brand": "dell csg",
+    "stock": 26,
+    "description": "dell dell latitude 5550 core ultra 7 155u 16gb 2dimms 512gb ss 1920x1080 t wls w",
+    "lineIndex": 267490
+  },
+  {
+    "mfgpn": "2T6X9",
+    "sku": "7521362",
+    "brand": "dell csg",
+    "stock": 200,
+    "description": "dell optiplex small form factor 7020 core i5 14500 16gb 1dimm 256gb ss intel hd",
+    "lineIndex": 279928
+  },
+  {
+    "mfgpn": "HWFV4",
+    "sku": "7911729",
+    "brand": "dell csg",
+    "stock": 1,
+    "description": "dell dell latitude 5350 t 2in1 ccore ultra 7 165u 32gb 1dimm 512gb ss 1920x1080",
+    "lineIndex": 301494
+  },
+  {
+    "mfgpn": "7M9WG",
+    "sku": "7911749",
+    "brand": "dell csg",
+    "stock": 90,
+    "description": "dell dell latitude 7450 core ultra 7 165u 32gb 1dimm 512gb ss nt 1920x1200 wls w",
+    "lineIndex": 301495
+  },
+  {
+    "mfgpn": "YRT5D",
+    "sku": "7911732",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell dell latitude 5450 core ultra 7 165u 32gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 462634
+  },
+  {
+    "mfgpn": "7KVJY",
+    "sku": "7911763",
+    "brand": "dell csg",
+    "stock": 78,
+    "description": "dell dell latitude 7450 core ultra 7 155u 16gb 1dimm 512gb ss nt 1920x1200 wls w",
+    "lineIndex": 464361
+  },
+  {
+    "mfgpn": "WWMYN",
+    "sku": "7911734",
+    "brand": "dell csg",
+    "stock": 430,
+    "description": "dell dell latitude 5450 core ultra 5 125u 16gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 465322
+  },
+  {
+    "mfgpn": "VFR3R",
+    "sku": "7911755",
+    "brand": "dell csg",
+    "stock": 100,
+    "description": "dell dell latitude 5550 core ultra 7 155u 16gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 466235
+  },
+  {
+    "mfgpn": "3NGK2",
+    "sku": "7984415",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell mobile precision 3590 core ultra 7 165h 32gb 2dimms 512gb ss t nvidia rtx a",
+    "lineIndex": 466257
+  },
+  {
+    "mfgpn": "G2V4X",
+    "sku": "7521366",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell optiplex small form factor 7020 core i5 14500 16gb 1dimm 512gb ss intel hd",
+    "lineIndex": 467207
+  },
+  {
+    "mfgpn": "1WRXW",
+    "sku": "7520067",
+    "brand": "dell csg",
+    "stock": 150,
+    "description": "dell optiplex micro 7020 core i5 14500t 16gb 1dimm 256gb ss wls w11 1dp 1hdmi 5u",
+    "lineIndex": 468172
+  },
+  {
+    "mfgpn": "JJC7N",
+    "sku": "7885437",
+    "brand": "dell csg",
+    "stock": 2,
+    "description": "dell mobile precision 5490 core ultra 7 165h 32gb 1tb ss nt nvidia rtx a2000 192",
+    "lineIndex": 468175
+  },
+  {
+    "mfgpn": "9W6F6",
+    "sku": "7911718",
+    "brand": "dell csg",
+    "stock": 2,
+    "description": "dell dell latitude 5450 core ultra 5 135u 16gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 469158
+  },
+  {
+    "mfgpn": "CN62X",
+    "sku": "7911738",
+    "brand": "dell csg",
+    "stock": 200,
+    "description": "dell dell latitude 5550 core ultra 5 125u 16gb 2dimms 512gb ss 1920x1080 nt wls",
+    "lineIndex": 469159
+  },
+  {
+    "mfgpn": "77NRM",
+    "sku": "7912208",
+    "brand": "dell csg",
+    "stock": 3,
+    "description": "dell dell latitude 3550 core i3 1315u 8gb 1dimm 256gb ss 1366x768 nt wls w11 3c",
+    "lineIndex": 469160
+  }
+]
