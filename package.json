@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js",
+    "dev": "dotenv -e .env.dev -- node index.js",
     "start": "node index.js",
     "refresh-cookies": "node services/synnex/autoLogin.js"
   },
