@@ -14,50 +14,59 @@ router.post("/order", express.json(), async (req, res) => {
     const orderId = order.id.toString();
     console.log("[Webhook] New order received:", orderId);
 
-    // 1. Save Shopify order to DB
-    await ShopifyOrder.create({
-      shopifyOrderId: orderId,
-      orderNumber: order.number,
-      email: order.email,
-      gateway: order.gateway,
-      financialStatus: order.financial_status,
-      currency: order.currency,
-      totalPrice: order.total_price,
-      subtotalPrice: order.subtotal_price,
-      totalTax: order.total_tax,
-      customer: order.customer,
-      shippingAddress: order.shipping_address,
-      billingAddress: order.billing_address,
-      lineItems: order.line_items,
-      shopifyCreatedAt: order.created_at,
-      shopifyUpdatedAt: order.updated_at,
-      rawPayload: order,
-    });
+    // 1. Save Shopify order safely (avoid duplicates)
+    await ShopifyOrder.findOneAndUpdate(
+      { shopifyOrderId: orderId },
+      {
+        $set: {
+          orderNumber: order.number,
+          email: order.email,
+          gateway: order.gateway,
+          financialStatus: order.financial_status,
+          currency: order.currency,
+          totalPrice: order.total_price,
+          subtotalPrice: order.subtotal_price,
+          totalTax: order.total_tax,
+          customer: order.customer,
+          shippingAddress: order.shipping_address,
+          billingAddress: order.billing_address,
+          lineItems: order.line_items,
+          shopifyCreatedAt: order.created_at,
+          shopifyUpdatedAt: order.updated_at,
+          rawPayload: order,
+        }
+      },
+      { upsert: true, new: true }
+    );
 
-    // 2. Send to SYNNEX and get raw XML response
+    // 2. Send to SYNNEX
     const xmlResponse = await handleNewOrder(order);
 
     // 3. Parse full and partial response
     const fullParsed = convert(xmlResponse, { format: "object" });
     const parsedResponse = parseSynnexResponse(xmlResponse);
 
-    // 4. Log full response to console
+    // 4. Log full response
     console.log("[Webhook] Full SYNNEX response:\n", JSON.stringify(fullParsed, null, 2));
 
-    // 5. Save SYNNEX response to DB
-    await SynnexResponse.create({
-      shopifyOrderId: orderId,
-      poNumber: parsedResponse.poNumber,
-      customerNumber: parsedResponse.customerNumber,
-      statusCode: parsedResponse.statusCode,
-      rejectionReason: parsedResponse.reason || null,
-      items: parsedResponse.items,
-      rawXml: xmlResponse,
-      parsed: JSON.parse(JSON.stringify(fullParsed)),
+    // 5. Save SYNNEX response safely
+    await SynnexResponse.findOneAndUpdate(
+      { shopifyOrderId: orderId },
+      {
+        $set: {
+          poNumber: parsedResponse.poNumber,
+          customerNumber: parsedResponse.customerNumber,
+          statusCode: parsedResponse.statusCode,
+          rejectionReason: parsedResponse.reason || null,
+          items: parsedResponse.items,
+          rawXml: xmlResponse,
+          parsed: JSON.parse(JSON.stringify(fullParsed)),
+        }
+      },
+      { upsert: true, new: true }
+    );
 
-    });
-
-    // 6. Return clean response to Shopify
+    // 6. Return clean response
     return res.status(200).json({
       status: "success",
       shopifyOrderId: orderId,
