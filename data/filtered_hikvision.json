@@ -1,0 +1,5859 @@
+[
+
+  {
+    "mfgpn": "ds-96128ni-m16/r",
+    "sku": "7332392",
+    "brand": "hikvision",
+    "name": "HIKVISION 128-CH 3U 4K NVR",
+    "description": "hikvision 128-ch 3u 4k nvr",
+    "lineIndex": 387800
+  },
+  {
+    "mfgpn": "ds-7732ni-m4/24p",
+    "sku": "7332402",
+    "brand": "hikvision",
+    "name": "HIKVISION 32CH 8K NVR 24POE",
+    "description": "hikvision 32ch 8k nvr 24poe",
+    "lineIndex": 387801
+  },
+  {
+    "mfgpn": "ids-7216huhi-m2/s",
+    "sku": "7915052",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 16 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE IN",
+    "description": "hikvision 4-ch false alarm filter, 16 turbo hd/cvi / ahd / cvbs self-adaptive in",
+    "lineIndex": 387802
+  },
+  {
+    "mfgpn": "ds-7604nxi-k1/4p",
+    "sku": "7915072",
+    "brand": "hikvision",
+    "name": "HIKVISION ALL-CH MOTION DETECTION 2.0UP TO 1-CH FALSE ALARM REDUCTION THROUGH HU",
+    "description": "hikvision all-ch motion detection 2.0up to 1-ch false alarm reduction through hu",
+    "lineIndex": 387803
+  },
+  {
+    "mfgpn": "t7208u2ta6(b)(usa-std)",
+    "sku": "7915092",
+    "brand": "hikvision",
+    "name": "HIKVISION CAMERAS: 5 MP HIGH PERFORMANCE CMOSUP TO 2560 X 1944 RESOLUTION2.8 MM",
+    "description": "hikvision cameras: 5 mp high performance cmosup to 2560 x 1944 resolution2.8 mm",
+    "lineIndex": 387804
+  },
+  {
+    "mfgpn": "ids-7204huhi-m1/s(c)us/4a+4/1alm",
+    "sku": "7915152",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 4 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 4 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 387805
+  },
+  {
+    "mfgpn": "ds-9016hui-k8",
+    "sku": "6087582",
+    "brand": "hikvision",
+    "name": "Tribrid DVR, 16 Channel TurboHD/Analog, Auto-Detect, H.265+,  1080p/3MP/4MP/5MP/",
+    "description": "tribrid dvr, 16 channel turbohd/analog, auto-detect, h.265+,  1080p/3mp/4mp/5mp/",
+    "lineIndex": 387807
+  },
+  {
+    "mfgpn": "ds-7716ni-m4/16p",
+    "sku": "7147032",
+    "brand": "hikvision",
+    "name": "HIKVISION 16CH 8K NVR POE",
+    "description": "hikvision 16ch 8k nvr poe",
+    "lineIndex": 387808
+  },
+  {
+    "mfgpn": "ds-7616nxi-k2/16p",
+    "sku": "7092402",
+    "brand": "hikvision",
+    "name": "HIKVISION 16-CH POE K ACUSENSE NVR",
+    "description": "hikvision 16-ch poe k acusense nvr",
+    "lineIndex": 387809
+  },
+  {
+    "mfgpn": "ds-7204huhi-k1",
+    "sku": "6749742",
+    "brand": "hikvision",
+    "name": "TRI DVR 4-CH 5MP H.265",
+    "description": "tri dvr 4-ch 5mp h.265",
+    "lineIndex": 387810
+  },
+  {
+    "mfgpn": "ds-7216huhi-k2-1tb",
+    "sku": "6749752",
+    "brand": "hikvision",
+    "name": "TRI DVR 16-CH 5MP H.265 1TB",
+    "description": "tri dvr 16-ch 5mp h.265 1tb",
+    "lineIndex": 387811
+  },
+  {
+    "mfgpn": "eci-d14f 2.8mm",
+    "sku": "7067252",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR DOME 4MP H265 2.8MM 2 AXIS DAY/NIGHT DWDR IR UP TO 30M IP67/IK",
+    "description": "hikvision outdoor dome 4mp h265 2.8mm 2 axis day/night dwdr ir up to 30m ip67/ik",
+    "lineIndex": 387812
+  },
+  {
+    "mfgpn": "ids-2cd7546g0-izhsy(2.8-12mm)",
+    "sku": "7067272",
+    "brand": "hikvision",
+    "name": "HIKVISION DM 4M 2.8-12MZ WDR IR NEMA4X",
+    "description": "hikvision dm 4m 2.8-12mz wdr ir nema4x",
+    "lineIndex": 387813
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-20",
+    "sku": "7067292",
+    "brand": "hikvision",
+    "name": "HIKVISION CV 2MP 3.7MM IO POE/12DC",
+    "description": "hikvision cv 2mp 3.7mm io poe/12dc",
+    "lineIndex": 387814
+  },
+  {
+    "mfgpn": "ds-2cd2343g2-iu 2.8mm",
+    "sku": "8169642",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 387815
+  },
+  {
+    "mfgpn": "ds-2db4236i-cwx",
+    "sku": "7067302",
+    "brand": "hikvision",
+    "name": "HIKVISION XPRF SS VF IR BULLET 2MP",
+    "description": "hikvision xprf ss vf ir bullet 2mp",
+    "lineIndex": 387816
+  },
+  {
+    "mfgpn": "ds-2cd2383g0-ib(2.8mm)",
+    "sku": "7329422",
+    "brand": "hikvision",
+    "name": "HIKVISION TUR IP67 8MP 28MM WDR POE/12",
+    "description": "hikvision tur ip67 8mp 28mm wdr poe/12",
+    "lineIndex": 387817
+  },
+  {
+    "mfgpn": "ds-2dy9250x-a(t5)",
+    "sku": "7914582",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS UP TO 1920 1080 RESOLUTION MIN. ILLUMINA",
+    "description": "hikvision 1/1.8in progressive scan cmos up to 1920 1080 resolution min. illumina",
+    "lineIndex": 387820
+  },
+  {
+    "mfgpn": "ds-2cd6d52g0-ihs(6mm)",
+    "sku": "7914982",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.7IN PROGRESSIVE SCAN CMOS;DUAL LENS;FLEXIBLE LENS: P: -90 TO 90 ;",
+    "description": "hikvision 1/2.7in progressive scan cmos;dual lens;flexible lens: p: -90 to 90 ;",
+    "lineIndex": 387821
+  },
+  {
+    "mfgpn": "ds-2ce57d3t-vpitf(3.6mm)",
+    "sku": "7915112",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 70M IR, OUTDO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 70m ir, outdo",
+    "lineIndex": 387822
+  },
+  {
+    "mfgpn": "ds-2td6267-100c4l/wy",
+    "sku": "7915132",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE: 640X512 17  M VOX UFPA; 100MM (6.23 4.98 (H V)); OPTIC",
+    "description": "hikvision thermal module: 640x512 17  m vox ufpa; 100mm (6.23 4.98 (h v)); optic",
+    "lineIndex": 387823
+  },
+  {
+    "mfgpn": "ds-2td6267t-50h4l/w",
+    "sku": "7067392",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL POSITIONING SYSTEM 640 50MM",
+    "description": "hikvision thermal positioning system 640 50mm",
+    "lineIndex": 387824
+  },
+  {
+    "mfgpn": "ds-2xm6222g0-im/nd 4mm(ae)",
+    "sku": "7067402",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP BULLET IP CAM",
+    "description": "hikvision 2mp bullet ip cam",
+    "lineIndex": 387825
+  },
+  {
+    "mfgpn": "ae-vc224t-it(2.8mm)",
+    "sku": "7067412",
+    "brand": "hikvision",
+    "name": "HIKVISION TURRET TVI 2MP OUTDOOR",
+    "description": "hikvision turret tvi 2mp outdoor",
+    "lineIndex": 387826
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivsm",
+    "sku": "7067422",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE PEOPLE COUNTING IPC",
+    "description": "hikvision mobile people counting ipc",
+    "lineIndex": 387827
+  },
+  {
+    "mfgpn": "ds-2cd2387g3-lis2uy/sl 2.8mm(black)",
+    "sku": "8295432",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SHL WITH COLORVU 3.0 FIXED IP TURRET BLACK",
+    "description": "hikvision 8mp shl with colorvu 3.0 fixed ip turret black",
+    "lineIndex": 387829
+  },
+  {
+    "mfgpn": "ds-2ae7232ti-a",
+    "sku": "6322752",
+    "brand": "hikvision",
+    "name": "Outdoor PTZ, 7-Inch, TurboHD, 2MP, Switchable TVI/CVI/AHD/CVBS Video, 32X Optica",
+    "description": "outdoor ptz, 7-inch, turbohd, 2mp, switchable tvi/cvi/ahd/cvbs video, 32x optica",
+    "lineIndex": 387830
+  },
+  {
+    "mfgpn": "ds-2cd2687g2ht-lizs(2.8-12mm)(ef)",
+    "sku": "7914552",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 387831
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0/p-izhsy8",
+    "sku": "7914562",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 387833
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(rj45)(8mm)",
+    "sku": "7092382",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 387834
+  },
+  {
+    "mfgpn": "pci-b14z2hs(8-32mm)",
+    "sku": "7092392",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE BULLET HEATER 8-32",
+    "description": "hikvision 4mp acusense bullet heater 8-32",
+    "lineIndex": 387835
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-30(2.8mm)8m",
+    "sku": "7914592",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; 1920 1080 @ 30FPS; H.265/H.264/MJPEG; T",
+    "description": "hikvision 1/2.8in progressive scan cmos; 1920 1080 @ 30fps; h.265/h.264/mjpeg; t",
+    "lineIndex": 387836
+  },
+  {
+    "mfgpn": "ds-2cd6d54g2-izhs/nfc 2.8-8mm",
+    "sku": "7955832",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING OUTDOOR BULLET, COLORVU, SMART HYBRID LIGHT, 4MP, H265+,",
+    "description": "hikvision deep learning outdoor bullet, colorvu, smart hybrid light, 4mp, h265+,",
+    "lineIndex": 387837
+  },
+  {
+    "mfgpn": "ds-2xe6422fwd-izhrs8",
+    "sku": "7092502",
+    "brand": "hikvision",
+    "name": "HIKVISION EXPROOF NETWORK VF IR BULLET, 2MP, 8-32MM,316L STAINLESS STEEL, IP68,",
+    "description": "hikvision exproof network vf ir bullet, 2mp, 8-32mm,316l stainless steel, ip68,",
+    "lineIndex": 387838
+  },
+  {
+    "mfgpn": "ds-2xm6222g1-im/nd(2.8mm)(ae)",
+    "sku": "7914682",
+    "brand": "hikvision",
+    "name": "HIKVISION IPC",
+    "description": "hikvision ipc",
+    "lineIndex": 387839
+  },
+  {
+    "mfgpn": "ae-mn5043(m12)",
+    "sku": "7914732",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR",
+    "description": "hikvision nvr",
+    "lineIndex": 387840
+  },
+  {
+    "mfgpn": "ds-2cd6365g1-s/rc 1.16mm",
+    "sku": "7319622",
+    "brand": "hikvision",
+    "name": "HIKVISION 6MP FISH, H265+,IN-CEIL",
+    "description": "hikvision 6mp fish, h265+,in-ceil",
+    "lineIndex": 387842
+  },
+  {
+    "mfgpn": "ds-2cd3386g2h-lisu 2.8mm",
+    "sku": "7319632",
+    "brand": "hikvision",
+    "name": "HIKVISION OT TR 8MP 2.8MM SHL",
+    "description": "hikvision ot tr 8mp 2.8mm shl",
+    "lineIndex": 387843
+  },
+  {
+    "mfgpn": "ds-2de7a432iw-aeb",
+    "sku": "6848792",
+    "brand": "hikvision",
+    "name": "HIKVISION PTZ OUT 4MP 32X200MIR 24V/POE",
+    "description": "hikvision ptz out 4mp 32x200mir 24v/poe",
+    "lineIndex": 387844
+  },
+  {
+    "mfgpn": "ds-2cd2043g2-iu(4mm)",
+    "sku": "7914912",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 387845
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-iws(4mm)",
+    "sku": "7914922",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 387846
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izs(2.8-12mm)(d)",
+    "sku": "7914952",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, H.265+/H.265/H.264+/H.264/MJPE",
+    "description": "hikvision darkfighter ultra-low light technology, h.265+/h.265/h.264+/h.264/mjpe",
+    "lineIndex": 387848
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-20(3.7mm)8m/e(hik usa)(b)",
+    "sku": "7914972",
+    "brand": "hikvision",
+    "name": "HIKVISION HIGH QUALITY IMAGING WITH 2 MP RESOLUTIONEFFICIENT H.265+ COMPRESSION",
+    "description": "hikvision high quality imaging with 2 mp resolutionefficient h.265+ compression",
+    "lineIndex": 387849
+  },
+  {
+    "mfgpn": "ds-2cd2747g2ht-lizs(2.8-12mm)(ef)",
+    "sku": "7915002",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 387851
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lisu 2.8mm",
+    "sku": "7361412",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 8MP 2.8MM SHL",
+    "description": "hikvision ob bl 8mp 2.8mm shl",
+    "lineIndex": 387852
+  },
+  {
+    "mfgpn": "ds-2de5225w-ae3(t5)",
+    "sku": "7915012",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 2 MP RESOLUTIO",
+    "description": "hikvision 1/2.8in progressive scan cmos high quality imaging with 2 mp resolutio",
+    "lineIndex": 387853
+  },
+  {
+    "mfgpn": "ds-2df8442ixs-aelw(t5)",
+    "sku": "7915022",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 4 MP RESOLUTIO",
+    "description": "hikvision 1/1.8in progressive scan cmos high quality imaging with 4 mp resolutio",
+    "lineIndex": 387854
+  },
+  {
+    "mfgpn": "ds-2xc6142fwd-is(2.8mm)(c)",
+    "sku": "7915032",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.264+/H.265/H.264/MJPEG; 2688 1520@30FPSNEMA 4X, C5-M, IP67; I",
+    "description": "hikvision h.265+/h.264+/h.265/h.264/mjpeg; 2688 1520@30fpsnema 4x, c5-m, ip67; i",
+    "lineIndex": 387855
+  },
+  {
+    "mfgpn": "ds-2xc6142fwd-is(6mm)(c)",
+    "sku": "7915062",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.264+/H.265/H.264/MJPEG; 2688 1520@30FPSNEMA 4X, C5-M, IP67; I",
+    "description": "hikvision h.265+/h.264+/h.265/h.264/mjpeg; 2688 1520@30fpsnema 4x, c5-m, ip67; i",
+    "lineIndex": 387856
+  },
+  {
+    "mfgpn": "ds-2ce17h0t-it3f(3.6mm)(c)",
+    "sku": "7915122",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR EXIR",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor exir",
+    "lineIndex": 387857
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd(2.0mm)(c)",
+    "sku": "7915142",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 3072 2048 @ 20FPS,",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 3072 2048 @ 20fps,",
+    "lineIndex": 387858
+  },
+  {
+    "mfgpn": "ds-2de3404w-de",
+    "sku": "6858232",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP PTZ POE OUT 4XZOOM 12DC",
+    "description": "hikvision 4mp ptz poe out 4xzoom 12dc",
+    "lineIndex": 387860
+  },
+  {
+    "mfgpn": "ds-2xm6522g0-im/nd(6mm)(c)",
+    "sku": "7915232",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS, ICR, 0LUX WITH IR, 2.8/4/6MM FIXED LENS,",
+    "description": "hikvision 1/3in progressive scan cmos, icr, 0lux with ir, 2.8/4/6mm fixed lens,",
+    "lineIndex": 387861
+  },
+  {
+    "mfgpn": "ds-2cd3186g2h-lisu 4mm",
+    "sku": "7996812",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SHL DOME IPC 4MM",
+    "description": "hikvision 8mp shl dome ipc 4mm",
+    "lineIndex": 387862
+  },
+  {
+    "mfgpn": "ds-2cd2683g2-lizs2u",
+    "sku": "7996822",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS SHL BL 8MP 2.8-12MM",
+    "description": "hikvision acs shl bl 8mp 2.8-12mm",
+    "lineIndex": 387863
+  },
+  {
+    "mfgpn": "ds-2xs6a47g1/p-izsc36s80(8-32mm)",
+    "sku": "7520092",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ANPR SOLAR POWER CAMERA",
+    "description": "hikvision 4mp anpr solar power camera",
+    "lineIndex": 387866
+  },
+  {
+    "mfgpn": "ds-2cd2t43g2-2li2u 2.8mm",
+    "sku": "8163942",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SHL ACS FIXED IP BULLET",
+    "description": "hikvision 4mp shl acs fixed ip bullet",
+    "lineIndex": 387867
+  },
+  {
+    "mfgpn": "ds-2ae4225t-d",
+    "sku": "6603512",
+    "brand": "hikvision",
+    "name": "High quality imaging with 2 MP resolution; Excellent low-light performance via p",
+    "description": "high quality imaging with 2 mp resolution; excellent low-light performance via p",
+    "lineIndex": 387868
+  },
+  {
+    "mfgpn": "ds-2ce57u7t-vpitf(2.8mm)",
+    "sku": "6889832",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K DOME 2.8MM 30 METERS IR",
+    "description": "hikvision 4k dome 2.8mm 30 meters ir",
+    "lineIndex": 387871
+  },
+  {
+    "mfgpn": "pci-d18z8hs(8-32mm)",
+    "sku": "6889842",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE DOME HEATER 8-32",
+    "description": "hikvision 8mp acusense dome heater 8-32",
+    "lineIndex": 387872
+  },
+  {
+    "mfgpn": "ds-2xs6a87g1-l/c32s80(2.8mm)",
+    "sku": "6889852",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 2.8MM COLORVU SOLAR CAM",
+    "description": "hikvision 4mp 2.8mm colorvu solar cam",
+    "lineIndex": 387873
+  },
+  {
+    "mfgpn": "ds-2td2628-10/qa",
+    "sku": "6889862",
+    "brand": "hikvision",
+    "name": "HIKVISION BULLET 256 9.7MM",
+    "description": "hikvision bullet 256 9.7mm",
+    "lineIndex": 387874
+  },
+  {
+    "mfgpn": "ds-2cd2e43g2-u(2.8mm)",
+    "sku": "6889872",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS MNDOME 4MP 2.8MM IN-CEIL",
+    "description": "hikvision acs mndome 4mp 2.8mm in-ceil",
+    "lineIndex": 387875
+  },
+  {
+    "mfgpn": "ds-2ce12hft-f 3.6mm",
+    "sku": "6523332",
+    "brand": "hikvision",
+    "name": "ColorVu outdoor Bullet, 5MP,0.0005Lux/F1.0, 0 Lux with Friendly Lighting,40m,3D",
+    "description": "colorvu outdoor bullet, 5mp,0.0005lux/f1.0, 0 lux with friendly lighting,40m,3d",
+    "lineIndex": 387876
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is 2.8mm(black)",
+    "sku": "8215672",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DMBK IP67 IK08 4MP28MM",
+    "description": "hikvision acs dmbk ip67 ik08 4mp28mm",
+    "lineIndex": 387877
+  },
+  {
+    "mfgpn": "ds-tcp440-b",
+    "sku": "7911622",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP IBEACON GUIDANCE CAMERA",
+    "description": "hikvision 4mp ibeacon guidance camera",
+    "lineIndex": 387878
+  },
+  {
+    "mfgpn": "ds-kd8003-ime2",
+    "sku": "6580372",
+    "brand": "hikvision",
+    "name": "Two-wire version: CMOS 2MP HD Colorful Camera, Fish eye (Horizontal: 180 , Verti",
+    "description": "two-wire version: cmos 2mp hd colorful camera, fish eye (horizontal: 180 , verti",
+    "lineIndex": 387879
+  },
+  {
+    "mfgpn": "ds-2de5225w-ae3",
+    "sku": "6919732",
+    "brand": "hikvision",
+    "name": "HIKVISION IN PTZ DOME 2MP 25X",
+    "description": "hikvision in ptz dome 2mp 25x",
+    "lineIndex": 387880
+  },
+  {
+    "mfgpn": "ds-2cd3146g2h-lisu 4mm",
+    "sku": "8194062",
+    "brand": "hikvision",
+    "name": "HIKVISION OD DM 4MP 4MM SHL",
+    "description": "hikvision od dm 4mp 4mm shl",
+    "lineIndex": 387881
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lisu/sl 2.8mm",
+    "sku": "8177612",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE SL FIXED BULLET IPC",
+    "description": "hikvision 4mp acusense sl fixed bullet ipc",
+    "lineIndex": 387882
+  },
+  {
+    "mfgpn": "ds-2cd71c5g0-izs",
+    "sku": "8006602",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264/MJPEG, COLOR:0.009LUX/F1.2, BW:0.0009LUX/F1.",
+    "description": "hikvision h.265+/h.265/h.264+/h.264/mjpeg, color:0.009lux/f1.2, bw:0.0009lux/f1.",
+    "lineIndex": 387883
+  },
+  {
+    "mfgpn": "ds-2ce17h0t-it3f 2.8mm",
+    "sku": "6586242",
+    "brand": "hikvision",
+    "name": "Outdoor EXIR Bullet, TurboHD 4.0, 5MP, 40m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart",
+    "description": "outdoor exir bullet, turbohd 4.0, 5mp, 40m ir, icr, 0.01 lux/f1.2, 12 vdc, smart",
+    "lineIndex": 387886
+  },
+  {
+    "mfgpn": "ds-2xe6025g0-is(6mm)",
+    "sku": "6745442",
+    "brand": "hikvision",
+    "name": "CAMERA 2MP EXPLOSION-PROOF",
+    "description": "camera 2mp explosion-proof",
+    "lineIndex": 387888
+  },
+  {
+    "mfgpn": "ds-2se7c432mwg-eb/26(f0)",
+    "sku": "7244502",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 32X DUAL LENS BULLET&PTZ",
+    "description": "hikvision 4mp 32x dual lens bullet&ptz",
+    "lineIndex": 387889
+  },
+  {
+    "mfgpn": "ds-2cd2043g2-iu 4mm",
+    "sku": "6868742",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS BLT IP67 4MP4MM",
+    "description": "hikvision acs blt ip67 4mp4mm",
+    "lineIndex": 387890
+  },
+  {
+    "mfgpn": "ds-2cd2343g2-iu 2.8mm(black)",
+    "sku": "6868752",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TURBK IP67 4MP28MM",
+    "description": "hikvision acs turbk ip67 4mp28mm",
+    "lineIndex": 387891
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is 2.8mm",
+    "sku": "6868762",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 8MP28MM",
+    "description": "hikvision acs dm ip67 8mp28mm",
+    "lineIndex": 387892
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd 2.8mm",
+    "sku": "7329492",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP DOME M12",
+    "description": "hikvision 5mp dome m12",
+    "lineIndex": 387895
+  },
+  {
+    "mfgpn": "ds-mcw406",
+    "sku": "7329582",
+    "brand": "hikvision",
+    "name": "HIKVISION 2K BODY CAMERA",
+    "description": "hikvision 2k body camera",
+    "lineIndex": 387896
+  },
+  {
+    "mfgpn": "ds-2cd2187g2-lsu 2.8mm(black)",
+    "sku": "7111232",
+    "brand": "hikvision",
+    "name": "HIKVISION OTBLKDM2.8MM8MP24HRX7COLOR",
+    "description": "hikvision otblkdm2.8mm8mp24hrx7color",
+    "lineIndex": 387898
+  },
+  {
+    "mfgpn": "ds-2td2637t-15/p",
+    "sku": "6709432",
+    "brand": "hikvision",
+    "name": "BULLET AT 384 P 15 MM",
+    "description": "bullet at 384 p 15 mm",
+    "lineIndex": 387899
+  },
+  {
+    "mfgpn": "ids-2cd75c5g0-izhs8",
+    "sku": "6749502",
+    "brand": "hikvision",
+    "name": "DM 12M 8-32MZ DN IR",
+    "description": "dm 12m 8-32mz dn ir",
+    "lineIndex": 387900
+  },
+  {
+    "mfgpn": "ds-2dp1618zixs-de/440/t2 2.8mm",
+    "sku": "6749512",
+    "brand": "hikvision",
+    "name": "16MP 180 W/ 40X PTZ",
+    "description": "16mp 180 w/ 40x ptz",
+    "lineIndex": 387901
+  },
+  {
+    "mfgpn": "ds-2xe6422fwd-izhrs(2.8-12mm)",
+    "sku": "6749582",
+    "brand": "hikvision",
+    "name": "XPRF SS VF IR BULLET 2MP",
+    "description": "xprf ss vf ir bullet 2mp",
+    "lineIndex": 387902
+  },
+  {
+    "mfgpn": "ds-2xc6224g0-l 2.8mm",
+    "sku": "6749642",
+    "brand": "hikvision",
+    "name": "UWATER 2MP 2.8MM IP68",
+    "description": "uwater 2mp 2.8mm ip68",
+    "lineIndex": 387903
+  },
+  {
+    "mfgpn": "ds-2ce78h8t-it3f 2.8mm",
+    "sku": "6749682",
+    "brand": "hikvision",
+    "name": "OUT TUR 5MP TVI IR 2.8MM",
+    "description": "out tur 5mp tvi ir 2.8mm",
+    "lineIndex": 387905
+  },
+  {
+    "mfgpn": "ds-2ce16h8t-it3f 2.8mm",
+    "sku": "6749702",
+    "brand": "hikvision",
+    "name": "OUT BUL 5MP 2.8MM F1.2 IP67",
+    "description": "out bul 5mp 2.8mm f1.2 ip67",
+    "lineIndex": 387906
+  },
+  {
+    "mfgpn": "ds-2ce56h0t-avpit3zfb",
+    "sku": "6438383",
+    "brand": "hikvision",
+    "name": "Outdoor IR Dome, TurboHD 4.0, HD-TVI/AHD/HD-CVI/CVBS, 5MP, 2.7-13.5mm Motorized",
+    "description": "outdoor ir dome, turbohd 4.0, hd-tvi/ahd/hd-cvi/cvbs, 5mp, 2.7-13.5mm motorized",
+    "lineIndex": 396852
+  },
+  {
+    "mfgpn": "ds-2td1217b-3/pa",
+    "sku": "6555753",
+    "brand": "hikvision",
+    "name": "High Accuracy Thermographic Turret Cameras, Network bi-spectrum Turret, Range:86",
+    "description": "high accuracy thermographic turret cameras, network bi-spectrum turret, range:86",
+    "lineIndex": 396854
+  },
+  {
+    "mfgpn": "hikcentral-p-anpr-1ch",
+    "sku": "7092423",
+    "brand": "hikvision",
+    "name": "HIKVISION HIKCENTRAL ANPR CAMERA EXP",
+    "description": "hikvision hikcentral anpr camera exp",
+    "lineIndex": 396858
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-16ch/base/promo",
+    "sku": "7915173",
+    "brand": "hikvision",
+    "name": "HIKVISION VIDEO SURVEILLANCE BASE PACKAGE ;WARRANTY : 3YEARS SUP;SUPPORTED: ;-AL",
+    "description": "hikvision video surveillance base package ;warranty : 3years sup;supported: ;-al",
+    "lineIndex": 396862
+  },
+  {
+    "mfgpn": "ds-mp1431-64g@",
+    "sku": "7914623",
+    "brand": "hikvision",
+    "name": "HIKVISION FIREPROOF STORAGE BOX FOR MOBILE VIDEO RECORDER, 64G,60CM WIRE LENGTH.",
+    "description": "hikvision fireproof storage box for mobile video recorder, 64g,60cm wire length.",
+    "lineIndex": 396878
+  },
+  {
+    "mfgpn": "ds-7604nxi-k1/4p/2tb",
+    "sku": "7076983",
+    "brand": "hikvision",
+    "name": "4-ch PoE interfaces, 4-ch@4 MP decoding capacity, 40 Mbps incoming bandwidth, al",
+    "description": "4-ch poe interfaces, 4-ch@4 mp decoding capacity, 40 mbps incoming bandwidth, al",
+    "lineIndex": 396895
+  },
+  {
+    "mfgpn": "ds-2cd2787g2h-liptrzs2u/sl",
+    "sku": "8193143",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD2787G2H-LIPTRZS2U/SL(2.8-12MM)OSTD",
+    "description": "hikvision ds-2cd2787g2h-liptrzs2u/sl(2.8-12mm)ostd",
+    "lineIndex": 396896
+  },
+  {
+    "mfgpn": "ds-2fsch30",
+    "sku": "6919743",
+    "brand": "hikvision",
+    "name": "HIKVISION 6A87 CHARGEABLE BATTERY",
+    "description": "hikvision 6a87 chargeable battery",
+    "lineIndex": 396897
+  },
+  {
+    "mfgpn": "ds-mh6171i-s",
+    "sku": "6749623",
+    "brand": "hikvision",
+    "name": "MOBILE PTZ W/CASE",
+    "description": "mobile ptz w/case",
+    "lineIndex": 396904
+  },
+  {
+    "mfgpn": "ds-7216huhi-k2-4t",
+    "sku": "7067343",
+    "brand": "hikvision",
+    "name": "HIKVISION TRIBRID DVR 16 CHANNEL TURBOHD/ANALOG AUTO-DETECT H.265",
+    "description": "hikvision tribrid dvr 16 channel turbohd/analog auto-detect h.265",
+    "lineIndex": 396910
+  },
+  {
+    "mfgpn": "ds-hilooki-dvr-204u-k1",
+    "sku": "7067353",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH DVR",
+    "description": "hikvision 4-ch dvr",
+    "lineIndex": 396911
+  },
+  {
+    "mfgpn": "ds-96128ni-h24r",
+    "sku": "7497433",
+    "brand": "hikvision",
+    "name": "HIKVISION 128-CH 4U 8K SUPER NVR",
+    "description": "hikvision 128-ch 4u 8k super nvr",
+    "lineIndex": 396912
+  },
+  {
+    "mfgpn": "ids-7216huhi-m2/s(usa-std)(e)us4a+alm/2t",
+    "sku": "7915053",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 16 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE IN",
+    "description": "hikvision 4-ch false alarm filter, 16 turbo hd/cvi / ahd / cvbs self-adaptive in",
+    "lineIndex": 396913
+  },
+  {
+    "mfgpn": "ds-7608nxi-i2/8p/s(c)",
+    "sku": "7915073",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM REDUCTION THROUGH HUMAN AND VEHICLE TARGET CLASSIFICA",
+    "description": "hikvision 4-ch false alarm reduction through human and vehicle target classifica",
+    "lineIndex": 396914
+  },
+  {
+    "mfgpn": "ids-7204huhi-m1/s/usa-std/c/us/4a+alm/1t",
+    "sku": "7915153",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 4 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 4 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 396917
+  },
+  {
+    "mfgpn": "ds-9632ni-i8-4tb",
+    "sku": "5708513",
+    "brand": "hikvision",
+    "name": "NVR 32-CHNL H.264+12MP HDMI 8-SATA4TB",
+    "description": "nvr 32-chnl h.264+12mp hdmi 8-sata4tb",
+    "lineIndex": 396919
+  },
+  {
+    "mfgpn": "ds-7608ni-i2/8p-4tb",
+    "sku": "5718723",
+    "brand": "hikvision",
+    "name": "NVR 8-CHANNEL H264+/H264/H265 2-SATA 4TB",
+    "description": "nvr 8-channel h264+/h264/h265 2-sata 4tb",
+    "lineIndex": 396921
+  },
+  {
+    "mfgpn": "ds-2cd6d42g0-is 2.8mm",
+    "sku": "8284013",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL-DIRECTIONAL PANOVU 2X5MP 2.8MM",
+    "description": "hikvision dual-directional panovu 2x5mp 2.8mm",
+    "lineIndex": 396924
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0-is",
+    "sku": "7067283",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP IND FISH HEATMAP IMMER",
+    "description": "hikvision 12mp ind fish heatmap immer",
+    "lineIndex": 396925
+  },
+  {
+    "mfgpn": "ds-2de7a412mcg-eb",
+    "sku": "7067293",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP 12X COLORVU PTZ",
+    "description": "hikvision 4 mp 12x colorvu ptz",
+    "lineIndex": 396926
+  },
+  {
+    "mfgpn": "ds-2cd2347g2h-lisu/sl 2.8mm",
+    "sku": "8169663",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 396927
+  },
+  {
+    "mfgpn": "ds-2xe6422fwd-izhrs",
+    "sku": "7067303",
+    "brand": "hikvision",
+    "name": "HIKVISION XPRF SS VF IR BULLET 2MP",
+    "description": "hikvision xprf ss vf ir bullet 2mp",
+    "lineIndex": 396928
+  },
+  {
+    "mfgpn": "ds-2ce12hft-f",
+    "sku": "7067333",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORVU 5MP 3.6MM 130DB 40M",
+    "description": "hikvision colorvu 5mp 3.6mm 130db 40m",
+    "lineIndex": 396929
+  },
+  {
+    "mfgpn": "ds-2td1117-2/pa",
+    "sku": "7067393",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL TURRET 1.8 MM",
+    "description": "hikvision thermal turret 1.8 mm",
+    "lineIndex": 396930
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivs",
+    "sku": "7067423",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE PEOPLE COUNTING IPC",
+    "description": "hikvision mobile people counting ipc",
+    "lineIndex": 396931
+  },
+  {
+    "mfgpn": "ds-2cd5585g0-izhs",
+    "sku": "6245933",
+    "brand": "hikvision",
+    "name": "OUTDOOR DOME,8MP,H265+,2.8-12MM",
+    "description": "outdoor dome,8mp,h265+,2.8-12mm",
+    "lineIndex": 396933
+  },
+  {
+    "mfgpn": "ds-2cd2687g2t-lzs(2.8-12mm)(c)",
+    "sku": "7914553",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 396935
+  },
+  {
+    "mfgpn": "ds-2cd6365g0e-is(1.27mm)(b)",
+    "sku": "7914563",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE CMOS, ICR, 0LUX WITH IR, 3072 2048 @30FPS, 1.27MM/",
+    "description": "hikvision 1/1.8in progressive cmos, icr, 0lux with ir, 3072 2048 @30fps, 1.27mm/",
+    "lineIndex": 396936
+  },
+  {
+    "mfgpn": "pci-d14z8hs(2.8-12mm)",
+    "sku": "7092393",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE DOME HEATER 2.8-12",
+    "description": "hikvision 4mp acusense dome heater 2.8-12",
+    "lineIndex": 396937
+  },
+  {
+    "mfgpn": "ids-2cd71c5g0-izs(8-32mm)",
+    "sku": "7914583",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264/MJPEG, COLOR:0.009LUX/F1.2, BW:0.0009LUX/F1.",
+    "description": "hikvision h.265+/h.265/h.264+/h.264/mjpeg, color:0.009lux/f1.2, bw:0.0009lux/f1.",
+    "lineIndex": 396938
+  },
+  {
+    "mfgpn": "ds-2dp3236zixs-d/440(f0)(p5)",
+    "sku": "7914593",
+    "brand": "hikvision",
+    "name": "HIKVISION PANORAMIC CAMERA:8 1/1.8IN 4MP CMOS, 2 5520 2400 RESOLUTION @30FPS, H.",
+    "description": "hikvision panoramic camera:8 1/1.8in 4mp cmos, 2 5520 2400 resolution @30fps, h.",
+    "lineIndex": 396939
+  },
+  {
+    "mfgpn": "ds-2td4538-25a4/w",
+    "sku": "7319603",
+    "brand": "hikvision",
+    "name": "HIKVISION BI-SPECTRUM MOBILE THERMAL PTZ CAMERA",
+    "description": "hikvision bi-spectrum mobile thermal ptz camera",
+    "lineIndex": 396940
+  },
+  {
+    "mfgpn": "ds-2cd6d44g1-izs 2.8-8mm",
+    "sku": "7361213",
+    "brand": "hikvision",
+    "name": "HIKVISION 16MP (4 X 4MP), 30 FPS, 2.8-8MM MOTORIZED LENS, ADJUSTABLE CAMERA POSI",
+    "description": "hikvision 16mp (4 x 4mp), 30 fps, 2.8-8mm motorized lens, adjustable camera posi",
+    "lineIndex": 396941
+  },
+  {
+    "mfgpn": "ds-2xm6756g1-im/nd(2mm)",
+    "sku": "7914753",
+    "brand": "hikvision",
+    "name": "HIKVISION IPC",
+    "description": "hikvision ipc",
+    "lineIndex": 396942
+  },
+  {
+    "mfgpn": "ds-2cd63c5g1-ivs 1.29mm",
+    "sku": "7319623",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP,OUT,FISH,HEATMAP",
+    "description": "hikvision 12mp,out,fish,heatmap",
+    "lineIndex": 396943
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lis 4mm",
+    "sku": "7319633",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 4MP 4MM SHL",
+    "description": "hikvision ob bl 4mp 4mm shl",
+    "lineIndex": 396944
+  },
+  {
+    "mfgpn": "ds-2cd2083g2-iu(2.8mm)",
+    "sku": "7914913",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 396945
+  },
+  {
+    "mfgpn": "ds-2cd51c5g0-izs(2.8-12mm)(b)",
+    "sku": "7914943",
+    "brand": "hikvision",
+    "name": "HIKVISION HIGH QUALITY IMAGING WITH 12 MP RESOLUTIONEFFICIENT H.265+ COMPRESSION",
+    "description": "hikvision high quality imaging with 12 mp resolutionefficient h.265+ compression",
+    "lineIndex": 396946
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izs(8-32mm)(d)",
+    "sku": "7914953",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, H.265+/H.265/H.264+/H.264/MJPE",
+    "description": "hikvision darkfighter ultra-low light technology, h.265+/h.265/h.264+/h.264/mjpe",
+    "lineIndex": 396947
+  },
+  {
+    "mfgpn": "ds-2cd2647g2t-lzs(2.8-12mm)(c)",
+    "sku": "7914963",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 396948
+  },
+  {
+    "mfgpn": "ds-2cd6825g0/c-is(2mm)(b)",
+    "sku": "7914973",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL LENS, 1/2.7IN PROGRESSIVE SCAN CMOS, PEOPLE COUNTING BY DEEP LEAR",
+    "description": "hikvision dual lens, 1/2.7in progressive scan cmos, people counting by deep lear",
+    "lineIndex": 396949
+  },
+  {
+    "mfgpn": "ds-2cd6d54g1-zs/rc(2.8-8mm)",
+    "sku": "7914983",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.7 PROGRESSIVE SCAN CMOS;2560 1920 @ 25FPS,NEW DESGIN FOR SMALLER S",
+    "description": "hikvision 1/2.7 progressive scan cmos;2560 1920 @ 25fps,new desgin for smaller s",
+    "lineIndex": 396950
+  },
+  {
+    "mfgpn": "ds-2cd2747g2t-lzs(2.8-12mm)(c)",
+    "sku": "7915003",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 396952
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lisu 4mm",
+    "sku": "7361413",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 8MP 4MM SHL",
+    "description": "hikvision ob bl 8mp 4mm shl",
+    "lineIndex": 396953
+  },
+  {
+    "mfgpn": "ds-2de5232w-ae(t5)",
+    "sku": "7915013",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 2 MP RESOLUTIO",
+    "description": "hikvision 1/2.8in progressive scan cmos high quality imaging with 2 mp resolutio",
+    "lineIndex": 396954
+  },
+  {
+    "mfgpn": "ds-2df8c448i5xs-aelw(t5)",
+    "sku": "7915023",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 4 MP RESOLUTIO",
+    "description": "hikvision 1/1.8in progressive scan cmos high quality imaging with 4 mp resolutio",
+    "lineIndex": 396955
+  },
+  {
+    "mfgpn": "ds-2xc6625g0-izhrs(8-32mm)(d)",
+    "sku": "7915063",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.264+/H.265/H.264/MJPEG;1920 1080 @ 30FPS; 2.8 12 MM,8 32 MM;",
+    "description": "hikvision h.265+/h.264+/h.265/h.264/mjpeg;1920 1080 @ 30fps; 2.8 12 mm,8 32 mm;",
+    "lineIndex": 396956
+  },
+  {
+    "mfgpn": "ds-2ce5ad3t-avpit3zf(2.7-13.5mm)",
+    "sku": "7915113",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 70M IR, AUTO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 70m ir, auto",
+    "lineIndex": 396957
+  },
+  {
+    "mfgpn": "ds-2ce17h0t-it3f(6mm)(c)",
+    "sku": "7915123",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR EXIR",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor exir",
+    "lineIndex": 396958
+  },
+  {
+    "mfgpn": "ds-2td6267-75c4l/wy",
+    "sku": "7915133",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE: 640X512 17  M VOX UFPA; 75MM (8.3 6.64 (H V)); OPTICAL",
+    "description": "hikvision thermal module: 640x512 17  m vox ufpa; 75mm (8.3 6.64 (h v)); optical",
+    "lineIndex": 396959
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd(2.8mm)(c)",
+    "sku": "7915143",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 3072 2048 @ 20FPS,",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 3072 2048 @ 20fps,",
+    "lineIndex": 396960
+  },
+  {
+    "mfgpn": "ds-2xm6522g0-im/nd(4mm)(c)",
+    "sku": "7915233",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS, ICR, 0LUX WITH IR, 2.8/4/6MM FIXED LENS,",
+    "description": "hikvision 1/3in progressive scan cmos, icr, 0lux with ir, 2.8/4/6mm fixed lens,",
+    "lineIndex": 396962
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lis(4mm)",
+    "sku": "7915263",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOSH.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0.0",
+    "description": "hikvision 1/3in progressive scan cmosh.265+/h.265/h.264+/h.264/mjpeg; color: 0.0",
+    "lineIndex": 396963
+  },
+  {
+    "mfgpn": "ds-2cd3346g2h-lisu/sl 4mm",
+    "sku": "7996793",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE SL 4MM TURRET IPC",
+    "description": "hikvision 4mp acusense sl 4mm turret ipc",
+    "lineIndex": 396964
+  },
+  {
+    "mfgpn": "ds-2cd6d55g2-izhs 2.8-8mm/2mm",
+    "sku": "7996813",
+    "brand": "hikvision",
+    "name": "HIKVISION 5-DIRECTIONAL MULTI SENSOR IPC 2.8-8MM/2MM",
+    "description": "hikvision 5-directional multi sensor ipc 2.8-8mm/2mm",
+    "lineIndex": 396965
+  },
+  {
+    "mfgpn": "ds-2cd2743g2-lizs2u",
+    "sku": "7996823",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS SHL 4MP VF DM 2.8-12MM",
+    "description": "hikvision acs shl 4mp vf dm 2.8-12mm",
+    "lineIndex": 396966
+  },
+  {
+    "mfgpn": "ds-2cd3386g2h-lisu/sl 2.8mm",
+    "sku": "8172613",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SMART HYBRID LIGHT FIXED TURRET, DARKFIGHTER S, ACUSENSE, 2.8MM, 1",
+    "description": "hikvision 8mp smart hybrid light fixed turret, darkfighter s, acusense, 2.8mm, 1",
+    "lineIndex": 396967
+  },
+  {
+    "mfgpn": "ds-2cd2783g2-lizs2u(2.8-12mm)(o-std)",
+    "sku": "8172633",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS SHL 8MP VF DM 2.8-12MM",
+    "description": "hikvision acs shl 8mp vf dm 2.8-12mm",
+    "lineIndex": 396968
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izs",
+    "sku": "6574053",
+    "brand": "hikvision",
+    "name": "People counting,Deep Learning Indoor Dome,DarkFighter,4MP,H265+,2 8-12mm,Motoriz",
+    "description": "people counting,deep learning indoor dome,darkfighter,4mp,h265+,2 8-12mm,motoriz",
+    "lineIndex": 396969
+  },
+  {
+    "mfgpn": "ds-2cd2t83g2-2li2u 2.8mm",
+    "sku": "8163943",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SHL ACS FIXED BULLET IP CAM",
+    "description": "hikvision 8mp shl acs fixed bullet ip cam",
+    "lineIndex": 396970
+  },
+  {
+    "mfgpn": "ids-2cd7ac5g0-izhsy",
+    "sku": "6821173",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 12M 2.8-12MZ IR NEMA4X",
+    "description": "hikvision blt 12m 2.8-12mz ir nema4x",
+    "lineIndex": 396971
+  },
+  {
+    "mfgpn": "ds-2td2628t-3/qa",
+    "sku": "6889863",
+    "brand": "hikvision",
+    "name": "HIKVISION BULLET 256 3.5MM  2 C",
+    "description": "hikvision bullet 256 3.5mm  2 c",
+    "lineIndex": 396975
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lis 2.8mm",
+    "sku": "7275923",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP SMART HYBRID LIGHT FIXED BULLET NETWORK CAMERA",
+    "description": "hikvision 4 mp smart hybrid light fixed bullet network camera",
+    "lineIndex": 396976
+  },
+  {
+    "mfgpn": "ds-tcp440-db",
+    "sku": "7911623",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP DUAL-SENSOR IBEACON GUIDANCE CAMERA",
+    "description": "hikvision 4mp dual-sensor ibeacon guidance camera",
+    "lineIndex": 396978
+  },
+  {
+    "mfgpn": "ids-2cd7546g0-izhsy(8-32mm)",
+    "sku": "7067273",
+    "brand": "hikvision",
+    "name": "HIKVISION DM 4M 8-32MZ WDR IR NEMA4X",
+    "description": "hikvision dm 4m 8-32mz wdr ir nema4x",
+    "lineIndex": 396980
+  },
+  {
+    "mfgpn": "ds-2ce17h0t-it3f 3.6mm",
+    "sku": "6586243",
+    "brand": "hikvision",
+    "name": "Outdoor EXIR Bullet, TurboHD 4.0, 5MP, 40m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart",
+    "description": "outdoor exir bullet, turbohd 4.0, 5mp, 40m ir, icr, 0.01 lux/f1.2, 12 vdc, smart",
+    "lineIndex": 396983
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(rj45)(12mm)",
+    "sku": "7092383",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 396984
+  },
+  {
+    "mfgpn": "ids-2cd7586g0-izhsy",
+    "sku": "8006603",
+    "brand": "hikvision",
+    "name": "HIKVISION INCH1/1.8INCHPROGRESSIVE SCAN CMOS, ICR, COLOR:0.009LUX/F1.2, B/W:0.00",
+    "description": "hikvision inch1/1.8inchprogressive scan cmos, icr, color:0.009lux/f1.2, b/w:0.00",
+    "lineIndex": 396985
+  },
+  {
+    "mfgpn": "ds-2xm6222g0-im/nd 6mm(ae)",
+    "sku": "7067403",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP BULLET IP CAM",
+    "description": "hikvision 2mp bullet ip cam",
+    "lineIndex": 396988
+  },
+  {
+    "mfgpn": "ds-2ce78k0t-lfs",
+    "sku": "8030433",
+    "brand": "hikvision",
+    "name": "HIKVISION 3K ANALOG SHL FIXED TURRET",
+    "description": "hikvision 3k analog shl fixed turret",
+    "lineIndex": 396989
+  },
+  {
+    "mfgpn": "ds-2ce79h0t-it3zf(2.7-13.5mm)(o-std)(c)",
+    "sku": "8195413",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP OT TURBOHD 2.7 13.5 MZ",
+    "description": "hikvision 5mp ot turbohd 2.7 13.5 mz",
+    "lineIndex": 396990
+  },
+  {
+    "mfgpn": "ids-2cd75c5g0-izhsy",
+    "sku": "6773133",
+    "brand": "hikvision",
+    "name": "DM 12M 2.8-12MZ IR NEMA4X",
+    "description": "dm 12m 2.8-12mz ir nema4x",
+    "lineIndex": 396991
+  },
+  {
+    "mfgpn": "ds-2xe6025g0-is(8mm)",
+    "sku": "6745443",
+    "brand": "hikvision",
+    "name": "CAMERA 2MP EXPLOSION-PROOF",
+    "description": "camera 2mp explosion-proof",
+    "lineIndex": 396992
+  },
+  {
+    "mfgpn": "ds-2cd2083g2-iu 2.8mm",
+    "sku": "6868743",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS BLT IP67 8MP28MM",
+    "description": "hikvision acs blt ip67 8mp28mm",
+    "lineIndex": 396993
+  },
+  {
+    "mfgpn": "ds-2cd2343g2-iu 4mm",
+    "sku": "6868753",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TUR IP67 4MP4MM",
+    "description": "hikvision acs tur ip67 4mp4mm",
+    "lineIndex": 396994
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is 2.8mm(black)",
+    "sku": "6868763",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DMBK IP67 8MP28MM",
+    "description": "hikvision acs dmbk ip67 8mp28mm",
+    "lineIndex": 396995
+  },
+  {
+    "mfgpn": "ds-2cd2543g0-isb(2.8mm)",
+    "sku": "7329423",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP66 4MP 28MM WDR POE/12",
+    "description": "hikvision dm ip66 4mp 28mm wdr poe/12",
+    "lineIndex": 396996
+  },
+  {
+    "mfgpn": "ds-2cd7a26g0/p-izhs 8-32mm",
+    "sku": "7329433",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 2M 8-32MZ WDR IR",
+    "description": "hikvision blt 2m 8-32mz wdr ir",
+    "lineIndex": 396997
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izs/retail",
+    "sku": "7329443",
+    "brand": "hikvision",
+    "name": "HIKVISION PPL IN 4MP 2.8-12 MZ140DB IR",
+    "description": "hikvision ppl in 4mp 2.8-12 mz140db ir",
+    "lineIndex": 396998
+  },
+  {
+    "mfgpn": "ds-2td2637-25/qy",
+    "sku": "7329483",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM NETWORK BULLET CAMERA",
+    "description": "hikvision thermal & optical bi-spectrum network bullet camera",
+    "lineIndex": 397000
+  },
+  {
+    "mfgpn": "ds-2cd2543g0-iws(4mm)",
+    "sku": "7329573",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP66 4MP 4MM-WIFI",
+    "description": "hikvision dm ip66 4mp 4mm-wifi",
+    "lineIndex": 397002
+  },
+  {
+    "mfgpn": "ds-2ce76d3t-itmfb 2.8mm",
+    "sku": "6395953",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR IR BLK TURRET/TURBOHD4/2MP/2.8MM",
+    "description": "hikvision outdoor ir blk turret/turbohd4/2mp/2.8mm",
+    "lineIndex": 397005
+  },
+  {
+    "mfgpn": "ds-2td2367-50/p",
+    "sku": "6709433",
+    "brand": "hikvision",
+    "name": "BULLET 640 P 50 MM",
+    "description": "bullet 640 p 50 mm",
+    "lineIndex": 397006
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0-izhs",
+    "sku": "6749503",
+    "brand": "hikvision",
+    "name": "BLT 4M 2.8-12MZ DN WDR IR",
+    "description": "blt 4m 2.8-12mz dn wdr ir",
+    "lineIndex": 397007
+  },
+  {
+    "mfgpn": "ds-2cd6984g0-ihs",
+    "sku": "6795773",
+    "brand": "hikvision",
+    "name": "Outdoor Dome, 32MP, 180 degree Multi-imager (4x8MP), 2.8mm, H.265/H.264, Day/Nig",
+    "description": "outdoor dome, 32mp, 180 degree multi-imager (4x8mp), 2.8mm, h.265/h.264, day/nig",
+    "lineIndex": 397008
+  },
+  {
+    "mfgpn": "ds-2dp3236zixs-d/440/t2 2.8mm",
+    "sku": "6749513",
+    "brand": "hikvision",
+    "name": "32MP 360 W/ 40X PTZ",
+    "description": "32mp 360 w/ 40x ptz",
+    "lineIndex": 397009
+  },
+  {
+    "mfgpn": "ds-2ce76h8t-itmf 3.6mm",
+    "sku": "6749683",
+    "brand": "hikvision",
+    "name": "OUT TUR 5MP TVI IR 3.6MM",
+    "description": "out tur 5mp tvi ir 3.6mm",
+    "lineIndex": 397011
+  },
+  {
+    "mfgpn": "ds-2td4237-10/v2",
+    "sku": "6749713",
+    "brand": "hikvision",
+    "name": "DUAL TI 384 10MM 24V",
+    "description": "dual ti 384 10mm 24v",
+    "lineIndex": 397012
+  },
+  {
+    "mfgpn": "ds-2df8242ix-aelw",
+    "sku": "6683563",
+    "brand": "hikvision",
+    "name": "UP TO 1920 X 1080 42 OPTICAL 16 DIGITAL",
+    "description": "up to 1920 x 1080 42 optical 16 digital",
+    "lineIndex": 397013
+  },
+  {
+    "mfgpn": "ds-2cv2141g2-idw",
+    "sku": "7293423",
+    "brand": "galaxy security",
+    "name": "SMARTEYES 4MP WI-FI DOME IP CAMERA, BUILT-IN MICROPHONE AND SPEAKER",
+    "description": "smarteyes 4mp wi-fi dome ip camera, built-in microphone and speaker",
+    "lineIndex": 400660
+  },
+  {
+    "mfgpn": "ect-t12f2",
+    "sku": "6327674",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR BULLET 2MP TVI IR 2.8MM",
+    "description": "outdoor ir bullet 2mp tvi ir 2.8mm",
+    "lineIndex": 405901
+  },
+  {
+    "mfgpn": "eci-d14f2",
+    "sku": "6243164",
+    "brand": "hikvision",
+    "name": "OUTDOOR DOME,4MP,H264+,2.8MM,DAY/NIGHT",
+    "description": "outdoor dome,4mp,h264+,2.8mm,day/night",
+    "lineIndex": 405902
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-base/4ch",
+    "sku": "7915174",
+    "brand": "hikvision",
+    "name": "HIKVISION VIDEO SURVEILLANCE BASE PACKAGE-INCLUDING PREREQUISITES FOR CHANNEL EX",
+    "description": "hikvision video surveillance base package-including prerequisites for channel ex",
+    "lineIndex": 405907
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-1ch/hpp",
+    "sku": "7915214",
+    "brand": "hikvision",
+    "name": "HIKVISION DESCRIPTION:VIDEO SURVEILLANCE EXPAND PACKAGE; PREREQUISITE: VIDEO SUR",
+    "description": "hikvision description:video surveillance expand package; prerequisite: video sur",
+    "lineIndex": 405908
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivs(2mm)",
+    "sku": "6749754",
+    "brand": "hikvision",
+    "name": "MOBILE PEOPLE COUNTING IPC",
+    "description": "mobile people counting ipc",
+    "lineIndex": 405922
+  },
+  {
+    "mfgpn": "ds-mp1742@",
+    "sku": "7914624",
+    "brand": "hikvision",
+    "name": "HIKVISION UPS UNIT FOR MOBILE VIDEO RECORDER, 14.4WH,1500MAH, 104.5MM 78MM 24MM,",
+    "description": "hikvision ups unit for mobile video recorder, 14.4wh,1500mah, 104.5mm 78mm 24mm,",
+    "lineIndex": 405924
+  },
+  {
+    "mfgpn": "tr-jb03-g-in",
+    "sku": "7609184",
+    "brand": "hikvision",
+    "name": "HIKVISION JUNCTION BACKBOX FOR CAMERAS",
+    "description": "hikvision junction backbox for cameras",
+    "lineIndex": 405935
+  },
+  {
+    "mfgpn": "ds-hilooki-dvr-208u-k1",
+    "sku": "7067354",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH DVR",
+    "description": "hikvision 8-ch dvr",
+    "lineIndex": 405951
+  },
+  {
+    "mfgpn": "ds-7616nxi-k2/16p-4tb",
+    "sku": "7092404",
+    "brand": "hikvision",
+    "name": "HIKVISION 16-CH POE K ACUSENSE 4K NVR 4TB",
+    "description": "hikvision 16-ch poe k acusense 4k nvr 4tb",
+    "lineIndex": 405953
+  },
+  {
+    "mfgpn": "ds-7608ni-m2/8p(4t)",
+    "sku": "7915044",
+    "brand": "hikvision",
+    "name": "HIKVISION 128MBPS BIT RATE INPUT MAX(UP TO 8-CH IP VIDEO),8X8MP DECODING CAPABIL",
+    "description": "hikvision 128mbps bit rate input max(up to 8-ch ip video),8x8mp decoding capabil",
+    "lineIndex": 405954
+  },
+  {
+    "mfgpn": "ids-7216huhi-m2/s(usa-std)(e)/4a+alm/4t",
+    "sku": "7915054",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 16 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE IN",
+    "description": "hikvision 4-ch false alarm filter, 16 turbo hd/cvi / ahd / cvbs self-adaptive in",
+    "lineIndex": 405955
+  },
+  {
+    "mfgpn": "dvr-204u-m1",
+    "sku": "7517694",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH 5 MP 1U H.265 DVR",
+    "description": "hikvision 4-ch 5 mp 1u h.265 dvr",
+    "lineIndex": 405957
+  },
+  {
+    "mfgpn": "ids-7208hqhi-m2/s-2tb",
+    "sku": "7915154",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 8 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 8 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 405958
+  },
+  {
+    "mfgpn": "ds-7732ni-m4",
+    "sku": "7171124",
+    "brand": "hikvision",
+    "name": "HIKVISION 32CH 8K NVR",
+    "description": "hikvision 32ch 8k nvr",
+    "lineIndex": 405959
+  },
+  {
+    "mfgpn": "ds-9632nxi-m8r/vpro(std)",
+    "sku": "8194074",
+    "brand": "hikvision",
+    "name": "HIKVISION 32-CH 2U 8K VPRO NVR",
+    "description": "hikvision 32-ch 2u 8k vpro nvr",
+    "lineIndex": 405960
+  },
+  {
+    "mfgpn": "ds-7608nxi-k2/8p-2tb",
+    "sku": "7915074",
+    "brand": "hikvision",
+    "name": "HIKVISION ALL-CH MOTION DETECTION 2.0UP TO 2-CH FALSE ALARM REDUCTION THROUGH HU",
+    "description": "hikvision all-ch motion detection 2.0up to 2-ch false alarm reduction through hu",
+    "lineIndex": 405961
+  },
+  {
+    "mfgpn": "ds-96064ni-i16",
+    "sku": "6029294",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-96064NI-I16 64-ch 3U 4K Super NVR - Up to 64 channel IP cameras can",
+    "description": "hikvision ds-96064ni-i16 64-ch 3u 4k super nvr - up to 64 channel ip cameras can",
+    "lineIndex": 405962
+  },
+  {
+    "mfgpn": "ds-9016huhi-k8",
+    "sku": "6889854",
+    "brand": "hikvision",
+    "name": "HIKVISION T4DVR 16CH 8MP H265PLUS NO HDD",
+    "description": "hikvision t4dvr 16ch 8mp h265plus no hdd",
+    "lineIndex": 405963
+  },
+  {
+    "mfgpn": "ds-9632ni-m16",
+    "sku": "7175694",
+    "brand": "hikvision",
+    "name": "HIKVISION 32-CH UP TO 8k HDMI 0HDD",
+    "description": "hikvision 32-ch up to 8k hdmi 0hdd",
+    "lineIndex": 405964
+  },
+  {
+    "mfgpn": "ids-7316hqhi-m4/s",
+    "sku": "7111224",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DVR 16CH 4MP H265PRO+",
+    "description": "hikvision acs dvr 16ch 4mp h265pro+",
+    "lineIndex": 405965
+  },
+  {
+    "mfgpn": "ds-2xs6a87g1-ls/4g 2.8mm",
+    "sku": "8284014",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP COLORVU FIXED BULLET 4G CAMERA",
+    "description": "hikvision 8mp colorvu fixed bullet 4g camera",
+    "lineIndex": 405966
+  },
+  {
+    "mfgpn": "ids-2cd7586g0-izhsy(2.8-12mm)",
+    "sku": "7067274",
+    "brand": "hikvision",
+    "name": "HIKVISION DM 8M 2.8-12MZ IR NEMA4X",
+    "description": "hikvision dm 8m 2.8-12mz ir nema4x",
+    "lineIndex": 405967
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0-ivs",
+    "sku": "7067284",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP OUT FISH HEATMAP IMMER",
+    "description": "hikvision 12mp out fish heatmap immer",
+    "lineIndex": 405968
+  },
+  {
+    "mfgpn": "ds-2cd2183g2-iu 2.8mm",
+    "sku": "8169644",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 405969
+  },
+  {
+    "mfgpn": "ds-2xe6825g0-izhs",
+    "sku": "7067304",
+    "brand": "hikvision",
+    "name": "HIKVISION XPRF SS BULLET 2MP 2.8-12",
+    "description": "hikvision xprf ss bullet 2mp 2.8-12",
+    "lineIndex": 405970
+  },
+  {
+    "mfgpn": "ds-2xm6726g0-im/nd",
+    "sku": "7067404",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP DOME IP CAM",
+    "description": "hikvision 2mp dome ip cam",
+    "lineIndex": 405972
+  },
+  {
+    "mfgpn": "ae-vc253t-it(2.1mm)(mirror)",
+    "sku": "7067414",
+    "brand": "hikvision",
+    "name": "HIKVISION REAR VIEW CAMERA 2MP",
+    "description": "hikvision rear view camera 2mp",
+    "lineIndex": 405973
+  },
+  {
+    "mfgpn": "ds-2xe6885g0-izhs",
+    "sku": "6749494",
+    "brand": "hikvision",
+    "name": "XPRF SS BULLET 8MP 2.8-12",
+    "description": "xprf ss bullet 8mp 2.8-12",
+    "lineIndex": 405976
+  },
+  {
+    "mfgpn": "ds-2ce76h8t-itmf 2.8mm",
+    "sku": "6749684",
+    "brand": "hikvision",
+    "name": "OUT TUR 5MP TVI IR 2.8MM",
+    "description": "out tur 5mp tvi ir 2.8mm",
+    "lineIndex": 405977
+  },
+  {
+    "mfgpn": "ds-2td8167-150ze2f/w",
+    "sku": "7262904",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM NETWORK STABLE PTZ CAMERA",
+    "description": "hikvision thermal & optical bi-spectrum network stable ptz camera",
+    "lineIndex": 405979
+  },
+  {
+    "mfgpn": "ds-2cd6365g0e-ivs(1.27mm)(b)",
+    "sku": "7914564",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE CMOS, ICR, 0LUX WITH IR, 3072 2048 @30FPS, 1.27MM/",
+    "description": "hikvision 1/1.8in progressive cmos, icr, 0lux with ir, 3072 2048 @30fps, 1.27mm/",
+    "lineIndex": 405980
+  },
+  {
+    "mfgpn": "ds-2cd2387g2h-lisu/sl(4mm)(ef)",
+    "sku": "7914574",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 405981
+  },
+  {
+    "mfgpn": "ids-2cd7547g0/p-xzhsy",
+    "sku": "7092394",
+    "brand": "hikvision",
+    "name": "HIKVISION LPR DOME 4MP 2.8-12 PTRZ",
+    "description": "hikvision lpr dome 4mp 2.8-12 ptrz",
+    "lineIndex": 405982
+  },
+  {
+    "mfgpn": "ids-2cd7547g0/p-xzhsy(2.8-12mm)",
+    "sku": "7914584",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTERS,ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS",
+    "description": "hikvision darkfighters,ultra-low light technology, 1/1.8in progressive scan cmos",
+    "lineIndex": 405983
+  },
+  {
+    "mfgpn": "ds-2ce19d0t-vfit3f(2.7-13.5mm)(c)",
+    "sku": "7914604",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 40M IR, OUTDOOR EXIR BULLET, ICR, 0.01 LUX/F1.2, 12 V",
+    "description": "hikvision 2mp cmos sensor, 40m ir, outdoor exir bullet, icr, 0.01 lux/f1.2, 12 v",
+    "lineIndex": 405984
+  },
+  {
+    "mfgpn": "ds-2td4568-35a4/w",
+    "sku": "7319604",
+    "brand": "hikvision",
+    "name": "HIKVISION BI-SPECTRUM MOBILE THERMAL PTZ CAMERA",
+    "description": "hikvision bi-spectrum mobile thermal ptz camera",
+    "lineIndex": 405986
+  },
+  {
+    "mfgpn": "ect-t12f2(2.8mm)(usa)",
+    "sku": "7067344",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR IR TURRET HD1080P HD-TVI CVI AHD CVBS 2.8MM",
+    "description": "hikvision outdoor ir turret hd1080p hd-tvi cvi ahd cvbs 2.8mm",
+    "lineIndex": 405987
+  },
+  {
+    "mfgpn": "hm-tp52-3aqf/w-b20",
+    "sku": "7067424",
+    "brand": "hikvision",
+    "name": "HIKVISION 256X192 THERMOGRAPHIC HANDHELD CAMERA",
+    "description": "hikvision 256x192 thermographic handheld camera",
+    "lineIndex": 405988
+  },
+  {
+    "mfgpn": "ds-2cd2083g2-iu(4mm)",
+    "sku": "7914914",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 405989
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-lsu 4mm",
+    "sku": "6857584",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP OT DM 4MM 24HRX7 COLOUR",
+    "description": "hikvision 4mp ot dm 4mm 24hrx7 colour",
+    "lineIndex": 405990
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is 2.8mm(black)",
+    "sku": "7914964",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 405991
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lu(2.8mm)(c)(black)",
+    "sku": "7914994",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 405992
+  },
+  {
+    "mfgpn": "ds-2cd2t47g2-lsu/sl(2.8mm)(c)",
+    "sku": "7915004",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 405993
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf(2.8mm)(c)",
+    "sku": "7915034",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR VANDA",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor vanda",
+    "lineIndex": 405994
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izs(2.8-12mm)/retail",
+    "sku": "7915084",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, H.265+/H.265/H.264+/H.264/MJPE",
+    "description": "hikvision darkfighter ultra-low light technology, h.265+/h.265/h.264+/h.264/mjpe",
+    "lineIndex": 405995
+  },
+  {
+    "mfgpn": "ds-2ce76d3t-itmf(2.8mm)",
+    "sku": "7915114",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 30M IR, OUTDO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 30m ir, outdo",
+    "lineIndex": 405996
+  },
+  {
+    "mfgpn": "ids-2cd7586g2/p-xzhsy 2.8-12mm",
+    "sku": "8310884",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP DEEPINVIEW PTRZ ANPR VF DOME 2.8-12MM",
+    "description": "hikvision 8mp deepinview ptrz anpr vf dome 2.8-12mm",
+    "lineIndex": 405999
+  },
+  {
+    "mfgpn": "ds-2xm6522g0-im/nd(2.8mm)(c)",
+    "sku": "7915234",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS, ICR, 0LUX WITH IR, 2.8/4/6MM FIXED LENS,",
+    "description": "hikvision 1/3in progressive scan cmos, icr, 0lux with ir, 2.8/4/6mm fixed lens,",
+    "lineIndex": 406001
+  },
+  {
+    "mfgpn": "ds-2cd2143g2-lis2u 2.8mm",
+    "sku": "7996814",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM SHL 4MP 2.8MM",
+    "description": "hikvision acs dm shl 4mp 2.8mm",
+    "lineIndex": 406002
+  },
+  {
+    "mfgpn": "ds-2cd2t47g2-l 2.8mm",
+    "sku": "6821164",
+    "brand": "hikvision",
+    "name": "HIKVISION OTBL 4MP 2.8MM 24HRX7 COLOR",
+    "description": "hikvision otbl 4mp 2.8mm 24hrx7 color",
+    "lineIndex": 406004
+  },
+  {
+    "mfgpn": "ds-2cd5a46g0-izhs8",
+    "sku": "6352544",
+    "brand": "hikvision",
+    "name": "OTDR BULLET/DARKFIGHTER/4MP/H265+/8-32MM",
+    "description": "otdr bullet/darkfighter/4mp/h265+/8-32mm",
+    "lineIndex": 406006
+  },
+  {
+    "mfgpn": "ds-2cd7a26g0/p-izhs",
+    "sku": "6438384",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD7A26G0/P-IZHS 2 MP DeepinView ANPR Moto Varifocal Bullet Camera",
+    "description": "hikvision ds-2cd7a26g0/p-izhs 2 mp deepinview anpr moto varifocal bullet camera",
+    "lineIndex": 406007
+  },
+  {
+    "mfgpn": "ds-2ce78u7t-it3f(2.8mm)",
+    "sku": "6889834",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K TURRET 2.8MM,60 METERS IR",
+    "description": "hikvision 4k turret 2.8mm,60 meters ir",
+    "lineIndex": 406009
+  },
+  {
+    "mfgpn": "pci-b14z8hs(8-32mm)",
+    "sku": "6889844",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE BULLET HEATER 8-32",
+    "description": "hikvision 4mp acusense bullet heater 8-32",
+    "lineIndex": 406010
+  },
+  {
+    "mfgpn": "327001023",
+    "sku": "8175934",
+    "brand": "hikvision",
+    "name": "HIKVISION 8C 4MP 42X DARKFIGHTER IR PTZ",
+    "description": "hikvision 8c 4mp 42x darkfighter ir ptz",
+    "lineIndex": 406011
+  },
+  {
+    "mfgpn": "ds-2ce72hft-f 3.6mm",
+    "sku": "6523334",
+    "brand": "hikvision",
+    "name": "ColorVu outdoor Turret, 5MP,0.0005Lux/F1.0, 0 Lux with Friendly Lighting,20m,3D",
+    "description": "colorvu outdoor turret, 5mp,0.0005lux/f1.0, 0 lux with friendly lighting,20m,3d",
+    "lineIndex": 406012
+  },
+  {
+    "mfgpn": "ds-2cd6d54g1-izs",
+    "sku": "6523344",
+    "brand": "hikvision",
+    "name": "Mini PanoVu, 20MP (4 x 5MP), 30 FPS, 2.8-12mm Motorized Lens, Adjustable Camera",
+    "description": "mini panovu, 20mp (4 x 5mp), 30 fps, 2.8-12mm motorized lens, adjustable camera",
+    "lineIndex": 406013
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lis 2.8mm",
+    "sku": "7319634",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 8MP 2.8MM SHL",
+    "description": "hikvision ob bl 8mp 2.8mm shl",
+    "lineIndex": 406015
+  },
+  {
+    "mfgpn": "ds-2cd2543g0-isb(4mm)",
+    "sku": "7329424",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP66 4MP 4MM WDR POE/12",
+    "description": "hikvision dm ip66 4mp 4mm wdr poe/12",
+    "lineIndex": 406016
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf 2.8mm",
+    "sku": "6580384",
+    "brand": "hikvision",
+    "name": "Outdoor Vandal Proof Dome, 5MP, EXIR, 40m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart",
+    "description": "outdoor vandal proof dome, 5mp, exir, 40m ir, icr, 0.01 lux/f1.2, 12 vdc, smart",
+    "lineIndex": 406018
+  },
+  {
+    "mfgpn": "ds-2cd5a46g0-iz/uh",
+    "sku": "6526604",
+    "brand": "hikvision",
+    "name": "Outdoor Bullet,Ultr-low temperature,DarkFighter,4MP,H265+,2.8-12mm,Motorized Zoo",
+    "description": "outdoor bullet,ultr-low temperature,darkfighter,4mp,h265+,2.8-12mm,motorized zoo",
+    "lineIndex": 406019
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-20(3.7mm)8m/e",
+    "sku": "6919744",
+    "brand": "hikvision",
+    "name": "HIKVISION CV HS 2MP 3.7MM IO POE",
+    "description": "hikvision cv hs 2mp 3.7mm io poe",
+    "lineIndex": 406020
+  },
+  {
+    "mfgpn": "ds-2cd6365g0e-ivs 1.27mm",
+    "sku": "6491524",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD6365G0E-IVS Fisheye 180/360 degree, Outdoor, 1.27mm/f2.6, 6MP, D",
+    "description": "hikvision ds-2cd6365g0e-ivs fisheye 180/360 degree, outdoor, 1.27mm/f2.6, 6mp, d",
+    "lineIndex": 406021
+  },
+  {
+    "mfgpn": "ds-2cd2787g2ht-lizs(2.8-12mm)(ef)",
+    "sku": "7914554",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 406022
+  },
+  {
+    "mfgpn": "ds-2ae5232t-a(e)",
+    "sku": "7914594",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN CMOS, 1920X1080:30FPS, TVI/AHD/CVI/CVBS OUTPUT, 3D DNR, TRUE W",
+    "description": "hikvision 1/2.8in cmos, 1920x1080:30fps, tvi/ahd/cvi/cvbs output, 3d dnr, true w",
+    "lineIndex": 406023
+  },
+  {
+    "mfgpn": "ae-vc154t-it(6mm)(3.0)",
+    "sku": "7914754",
+    "brand": "hikvision",
+    "name": "HIKVISION ANALOG CAMERA",
+    "description": "hikvision analog camera",
+    "lineIndex": 406024
+  },
+  {
+    "mfgpn": "ds-2cd5546g0-izhs(8-32mm)",
+    "sku": "7914944",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 406025
+  },
+  {
+    "mfgpn": "ds-2cd6825g0/c-ivs(2mm)(b)",
+    "sku": "7914974",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL LENS, 1/2.7IN PROGRESSIVE SCAN CMOS, PEOPLE COUNTING BY DEEP LEAR",
+    "description": "hikvision dual lens, 1/2.7in progressive scan cmos, people counting by deep lear",
+    "lineIndex": 406026
+  },
+  {
+    "mfgpn": "ds-2df6223-cx(w)",
+    "sku": "7915064",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264, DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY(COLO",
+    "description": "hikvision h.265+/h.265/h.264+/h.264, darkfighter ultra-low light technology(colo",
+    "lineIndex": 406027
+  },
+  {
+    "mfgpn": "ds-2ce72dft-f(3.6mm)",
+    "sku": "7915124",
+    "brand": "hikvision",
+    "name": "HIKVISION 2M SMART FSI CMOS SENSOR,OUTDOOR TURRET,0.0005LUX/F1.0, 0 LUX WITH FRI",
+    "description": "hikvision 2m smart fsi cmos sensor,outdoor turret,0.0005lux/f1.0, 0 lux with fri",
+    "lineIndex": 406028
+  },
+  {
+    "mfgpn": "ds-2df6c431-cx",
+    "sku": "8006604",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8INCH PROGRESSIVE SCAN CMOS; COLOR: 0.005 LUX (F1.5, AGC ON) B/W:",
+    "description": "hikvision 1/1.8inch progressive scan cmos; color: 0.005 lux (f1.5, agc on) b/w:",
+    "lineIndex": 406029
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-lsu(2.8mm)(c)(o-std)",
+    "sku": "8177624",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 406030
+  },
+  {
+    "mfgpn": "ae-mn5043",
+    "sku": "7295424",
+    "brand": "hikvision",
+    "name": "HIKVISION 4CH MOBILE NVR",
+    "description": "hikvision 4ch mobile nvr",
+    "lineIndex": 406031
+  },
+  {
+    "mfgpn": "ds-2780zj-xos/316l",
+    "sku": "8006614",
+    "brand": "hikvision",
+    "name": "HIKVISION STAINLESS STEEL 316L WITH ANTI-CORROSION SURFACE SPRAY TREATMENT",
+    "description": "hikvision stainless steel 316l with anti-corrosion surface spray treatment",
+    "lineIndex": 406032
+  },
+  {
+    "mfgpn": "ds-uc2",
+    "sku": "6807544",
+    "brand": "hikvision",
+    "name": "HIKVISION CAMERA 2MP WEB CAM AUTO FOCUS",
+    "description": "hikvision camera 2mp web cam auto focus",
+    "lineIndex": 406034
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is 4mm",
+    "sku": "6868764",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 8MP4MM",
+    "description": "hikvision acs dm ip67 8mp4mm",
+    "lineIndex": 406036
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is(2.8mm)(black)",
+    "sku": "7914924",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3 PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0.0",
+    "description": "hikvision 1/3 progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0.0",
+    "lineIndex": 406037
+  },
+  {
+    "mfgpn": "ids-2cd8a46g0-iz/uh 2.8-12mm",
+    "sku": "7955794",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP, 30FPS, H.265, DEEPINVIEW, DARKFIGHTER, ULTRA LOW TEMPERATURE, 1/1",
+    "description": "hikvision 4mp, 30fps, h.265, deepinview, darkfighter, ultra low temperature, 1/1",
+    "lineIndex": 406038
+  },
+  {
+    "mfgpn": "ds-2cd2345g0p-i(1.68mm)",
+    "sku": "6936304",
+    "brand": "hikvision",
+    "name": "HIKVISION TUR IP 180 DEGREE WIDE ANGLE",
+    "description": "hikvision tur ip 180 degree wide angle",
+    "lineIndex": 406039
+  },
+  {
+    "mfgpn": "ds-2cd2083g2-iu 4mm",
+    "sku": "6868744",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS BLT IP67 8MP4MM",
+    "description": "hikvision acs blt ip67 8mp4mm",
+    "lineIndex": 406040
+  },
+  {
+    "mfgpn": "ds-2cd6d82g0-ihs(6mm)",
+    "sku": "7914984",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.5IN PROGRESSIVE SCAN CMOS;DUAL LENS;FLEXIBLE LENS: P: -90 TO 90 ;",
+    "description": "hikvision 1/2.5in progressive scan cmos;dual lens;flexible lens: p: -90 to 90 ;",
+    "lineIndex": 406041
+  },
+  {
+    "mfgpn": "ids-2cd7186g0-izs/retail",
+    "sku": "7329444",
+    "brand": "hikvision",
+    "name": "HIKVISION PPL IN 4MP 2.8-12 MZ140DB IR",
+    "description": "hikvision ppl in 4mp 2.8-12 mz140db ir",
+    "lineIndex": 406042
+  },
+  {
+    "mfgpn": "ds-2cd3386g2h-lisu/sl 4mm",
+    "sku": "7996794",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE SL 4MM TURRET IPC",
+    "description": "hikvision 8mp acusense sl 4mm turret ipc",
+    "lineIndex": 406043
+  },
+  {
+    "mfgpn": "ds-2td2667-35/py",
+    "sku": "7329484",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL P BULLET 640 35MM",
+    "description": "hikvision dual p bullet 640 35mm",
+    "lineIndex": 406045
+  },
+  {
+    "mfgpn": "ds-2td2637-10/qy",
+    "sku": "7329584",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM NETWORK BULLET CAMERA",
+    "description": "hikvision thermal & optical bi-spectrum network bullet camera",
+    "lineIndex": 406047
+  },
+  {
+    "mfgpn": "ds-2781zj-x/316l",
+    "sku": "6362924",
+    "brand": "hikvision",
+    "name": "EXPLOSION-PROOF TERM BX",
+    "description": "explosion-proof term bx",
+    "lineIndex": 406049
+  },
+  {
+    "mfgpn": "ids-2cd7ac5g0-izhs",
+    "sku": "6749504",
+    "brand": "hikvision",
+    "name": "BLT 12M 2.8-12MZ DN IR",
+    "description": "blt 12m 2.8-12mz dn ir",
+    "lineIndex": 406051
+  },
+  {
+    "mfgpn": "ds-2td2367-75/p",
+    "sku": "6709434",
+    "brand": "hikvision",
+    "name": "BULLET 640 P 75 MM",
+    "description": "bullet 640 p 75 mm",
+    "lineIndex": 406052
+  },
+  {
+    "mfgpn": "ds-2td2667-15/p",
+    "sku": "6749784",
+    "brand": "hikvision",
+    "name": "DUAL P BULLET 640 15MM",
+    "description": "dual p bullet 640 15mm",
+    "lineIndex": 406054
+  },
+  {
+    "mfgpn": "ds-2ce72kf3t-l",
+    "sku": "8030435",
+    "brand": "hikvision",
+    "name": "HIKVISION 3K ANALOG COLORVU SHL FIXED TURRET",
+    "description": "hikvision 3k analog colorvu shl fixed turret",
+    "lineIndex": 414985
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-1ch/facial&body",
+    "sku": "7915175",
+    "brand": "hikvision",
+    "name": "HIKVISION FACIAL RECOGNITION CAMERA EXPANSION PACKAGE; PREREQUISITE:VIDEO SURVEI",
+    "description": "hikvision facial recognition camera expansion package; prerequisite:video survei",
+    "lineIndex": 414993
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-1ch/thermal&report",
+    "sku": "7915215",
+    "brand": "hikvision",
+    "name": "HIKVISION DESCRIPTION:THERMOGRAPHY THERMAL CAMERAS WITH REPORT; PREREQUISITE:VID",
+    "description": "hikvision description:thermography thermal cameras with report; prerequisite:vid",
+    "lineIndex": 414996
+  },
+  {
+    "mfgpn": "hikcentral-p-uvss/module",
+    "sku": "7915255",
+    "brand": "hikvision",
+    "name": "HIKVISION UNDER VEHICLE SURVEILLANCE SYSTEM MODULE EXPANSION PACKAGE - INCLUDING",
+    "description": "hikvision under vehicle surveillance system module expansion package - including",
+    "lineIndex": 414997
+  },
+  {
+    "mfgpn": "ds-mp7608(1t)",
+    "sku": "6749775",
+    "brand": "hikvision",
+    "name": "8CH MDVR WITH 1TB HDD",
+    "description": "8ch mdvr with 1tb hdd",
+    "lineIndex": 415039
+  },
+  {
+    "mfgpn": "ds-96256ni-i24/h(std)",
+    "sku": "7067305",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 256-CHANNEL H.265 UP TO 12MP 8-HDMI 4K OUTPUT RESOLUTION",
+    "description": "hikvision nvr 256-channel h.265 up to 12mp 8-hdmi 4k output resolution",
+    "lineIndex": 415040
+  },
+  {
+    "mfgpn": "ds-mp7608hn(m12)(b)",
+    "sku": "7067385",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH 1080P 2 X HDD NVR",
+    "description": "hikvision 8-ch 1080p 2 x hdd nvr",
+    "lineIndex": 415041
+  },
+  {
+    "mfgpn": "ae-mn7083(m12)",
+    "sku": "7319605",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH 1080P, 2 X HDD NVR",
+    "description": "hikvision 8-ch 1080p, 2 x hdd nvr",
+    "lineIndex": 415042
+  },
+  {
+    "mfgpn": "ids-7208huhi-m2/s(usa-std)(c)us/4a+alm",
+    "sku": "7915155",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 8 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 8 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 415045
+  },
+  {
+    "mfgpn": "ds-7608ni-m2/8p",
+    "sku": "8173165",
+    "brand": "hikvision",
+    "name": "HIKVISION 8CH 8K NVR",
+    "description": "hikvision 8ch 8k nvr",
+    "lineIndex": 415047
+  },
+  {
+    "mfgpn": "ds-7616ni-q2/16p-4tb",
+    "sku": "6299525",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR,16CHANNEL,H264+/H264/H265/H.265+,4T",
+    "description": "hikvision nvr,16channel,h264+/h264/h265/h.265+,4t",
+    "lineIndex": 415048
+  },
+  {
+    "mfgpn": "ds-7608ni-m2/8p-4t",
+    "sku": "7143085",
+    "brand": "hikvision",
+    "name": "HIKVISION 8CH 8K NVR,4TB",
+    "description": "hikvision 8ch 8k nvr,4tb",
+    "lineIndex": 415049
+  },
+  {
+    "mfgpn": "ids-7216huhi-m2/s/2t",
+    "sku": "6928635",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DVR 16CH 5MP H265 2TB",
+    "description": "hikvision acs dvr 16ch 5mp h265 2tb",
+    "lineIndex": 415050
+  },
+  {
+    "mfgpn": "ds-9664nxi-m8r/vpro",
+    "sku": "8194075",
+    "brand": "hikvision",
+    "name": "HIKVISION 64-CH 2U 8K VPRO NVR",
+    "description": "hikvision 64-ch 2u 8k vpro nvr",
+    "lineIndex": 415051
+  },
+  {
+    "mfgpn": "ds-9632ni-i16",
+    "sku": "6029295",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-9632NI-I16 32-ch 3U 4K NVR - Up to 32 channel IP cameras can be con",
+    "description": "hikvision ds-9632ni-i16 32-ch 3u 4k nvr - up to 32 channel ip cameras can be con",
+    "lineIndex": 415053
+  },
+  {
+    "mfgpn": "ids-7332huhi-m4/s",
+    "sku": "7111225",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS 73DVR 32CH 5MP H265PRO+",
+    "description": "hikvision acs 73dvr 32ch 5mp h265pro+",
+    "lineIndex": 415054
+  },
+  {
+    "mfgpn": "ds-7216hqhi-k2-2tb",
+    "sku": "6749765",
+    "brand": "hikvision",
+    "name": "TRI DVR 16CH 2MP H.265 2TB",
+    "description": "tri dvr 16ch 2mp h.265 2tb",
+    "lineIndex": 415055
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-su",
+    "sku": "7067265",
+    "brand": "hikvision",
+    "name": "HIKVISION OT DM 2.8MM 4MP 24HRX7 COLOR",
+    "description": "hikvision ot dm 2.8mm 4mp 24hrx7 color",
+    "lineIndex": 415056
+  },
+  {
+    "mfgpn": "ids-2cd7a26g0/p-izhsy(8-32mm)",
+    "sku": "7067275",
+    "brand": "hikvision",
+    "name": "HIKVISION LPR BLT IP67 3M 8-32 WDR",
+    "description": "hikvision lpr blt ip67 3m 8-32 wdr",
+    "lineIndex": 415057
+  },
+  {
+    "mfgpn": "ds-2dp1618zixs-de/440",
+    "sku": "7067295",
+    "brand": "hikvision",
+    "name": "HIKVISION 16MP 180 W/ 40X PTZ",
+    "description": "hikvision 16mp 180 w/ 40x ptz",
+    "lineIndex": 415058
+  },
+  {
+    "mfgpn": "ds-2td4137t-9/w",
+    "sku": "7067395",
+    "brand": "hikvision",
+    "name": "HIKVISION BI-SPEC THERMAL PTZ 9MM",
+    "description": "hikvision bi-spec thermal ptz 9mm",
+    "lineIndex": 415060
+  },
+  {
+    "mfgpn": "ds-2df8c842ixg-elw",
+    "sku": "7497435",
+    "brand": "hikvision",
+    "name": "HIKVISION 42X 8MP OUTDR PTZ",
+    "description": "hikvision 42x 8mp outdr ptz",
+    "lineIndex": 415062
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(h)(m12)(8mm)",
+    "sku": "7067415",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 415063
+  },
+  {
+    "mfgpn": "hm-tp42-3aqf/w-pocket2",
+    "sku": "7067425",
+    "brand": "hikvision",
+    "name": "HIKVISION 256X192 POCKET THERMOGRAPHY CAMERA",
+    "description": "hikvision 256x192 pocket thermography camera",
+    "lineIndex": 415064
+  },
+  {
+    "mfgpn": "ds-2cd6365g1-s/rc(1.16mm)",
+    "sku": "7914565",
+    "brand": "hikvision",
+    "name": "HIKVISION HEATMAP: BASED ON DEEP LEARNING ALGORITHMS, THE CAMERA COUNTS PEOPLE A",
+    "description": "hikvision heatmap: based on deep learning algorithms, the camera counts people a",
+    "lineIndex": 415066
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf(3.6mm)(c)",
+    "sku": "7915035",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR VANDA",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor vanda",
+    "lineIndex": 415067
+  },
+  {
+    "mfgpn": "ds-2td4137t-9/w(b)",
+    "sku": "7915135",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE:384X288 17  M VOX UFPA; 9MM (37.9 X 28.7 );OPTICAL MODU",
+    "description": "hikvision thermal module:384x288 17  m vox ufpa; 9mm (37.9 x 28.7 );optical modu",
+    "lineIndex": 415068
+  },
+  {
+    "mfgpn": "ds-2cd2143g2-lis2u 2.8mm(black)",
+    "sku": "7996815",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM SHL 4MP 2.8MM BLK",
+    "description": "hikvision acs dm shl 4mp 2.8mm blk",
+    "lineIndex": 415069
+  },
+  {
+    "mfgpn": "ds-2cd5185g0-izs(2.8-12mm)(b)",
+    "sku": "7914545",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264/MJPEG, COLOR:0.007LUX/F1.2, BW:0.0007LUX/F1.",
+    "description": "hikvision h.265+/h.265/h.264+/h.264/mjpeg, color:0.007lux/f1.2, bw:0.0007lux/f1.",
+    "lineIndex": 415070
+  },
+  {
+    "mfgpn": "ds-2cd2787g2t-lzs(2.8-12mm)(c)",
+    "sku": "7914555",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 415071
+  },
+  {
+    "mfgpn": "ae-mp1460/glf/wi58/s",
+    "sku": "7955795",
+    "brand": "hikvision",
+    "name": "HIKVISION MNVR WIRELESS COMMUNICATION MODULE COMPONENTS",
+    "description": "hikvision mnvr wireless communication module components",
+    "lineIndex": 415072
+  },
+  {
+    "mfgpn": "ds-2cd2387g2h-lisu/sl(2.8)/ef/blk",
+    "sku": "7914575",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 415073
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0-izhsy8",
+    "sku": "7092395",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 4M 8-32MZ WDR IR NEMA4X",
+    "description": "hikvision blt 4m 8-32mz wdr ir nema4x",
+    "lineIndex": 415074
+  },
+  {
+    "mfgpn": "ids-2cd7a26g0/p-izhsy(8-32mm)(c)",
+    "sku": "7914585",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 415075
+  },
+  {
+    "mfgpn": "ds-2ae7232ti-a(d)",
+    "sku": "7914595",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN CMOS, 1920X1080:30FPS, TVI/AHD/CVI/CVBS OUTPUT, 3D DNR, TRUE W",
+    "description": "hikvision 1/2.8in cmos, 1920x1080:30fps, tvi/ahd/cvi/cvbs output, 3d dnr, true w",
+    "lineIndex": 415076
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lisu/sl 2.8mm",
+    "sku": "7955835",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SMART HYBRID LIGHT FIXED BULLET, DARKFIGHTER S, ACUSENSE, 2.8MM, 1",
+    "description": "hikvision 8mp smart hybrid light fixed bullet, darkfighter s, acusense, 2.8mm, 1",
+    "lineIndex": 415077
+  },
+  {
+    "mfgpn": "ect-t12f2(2.8mm)(hik usa)",
+    "sku": "7914605",
+    "brand": "hikvision",
+    "name": "HIKVISION 1080P TURRET CAMERASMART IR: UP TO 20 M IR DISTANCEWATER AND DUST RESI",
+    "description": "hikvision 1080p turret camerasmart ir: up to 20 m ir distancewater and dust resi",
+    "lineIndex": 415078
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lis 4mm",
+    "sku": "7319635",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 8MP 4MM SHL",
+    "description": "hikvision ob bl 8mp 4mm shl",
+    "lineIndex": 415081
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is(2.8mm)",
+    "sku": "7914925",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 415082
+  },
+  {
+    "mfgpn": "ds-2cd5585g0-izhs(2.8-12mm)(b)",
+    "sku": "7914945",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS,ICR, COLOR:0.007LUX/F1.2, B/W:0.0007LUX/",
+    "description": "hikvision 1/1.8in progressive scan cmos,icr, color:0.007lux/f1.2, b/w:0.0007lux/",
+    "lineIndex": 415083
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-lsu(4mm)(c)",
+    "sku": "7914955",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 415084
+  },
+  {
+    "mfgpn": "ds-2cd2643g2-izs(2.8-12mm)",
+    "sku": "7914965",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 415085
+  },
+  {
+    "mfgpn": "ds-2cd6d82g0-ihs(4mm)",
+    "sku": "7914985",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.5IN PROGRESSIVE SCAN CMOS;DUAL LENS;FLEXIBLE LENS: P: -90 TO 90 ;",
+    "description": "hikvision 1/2.5in progressive scan cmos;dual lens;flexible lens: p: -90 to 90 ;",
+    "lineIndex": 415087
+  },
+  {
+    "mfgpn": "ds-2de7a432iw-aeb(t5)",
+    "sku": "7915015",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 4 MP RESOLUTIO",
+    "description": "hikvision 1/1.8in progressive scan cmos high quality imaging with 4 mp resolutio",
+    "lineIndex": 415088
+  },
+  {
+    "mfgpn": "ds-2db4236i-cwx(t5/316l)",
+    "sku": "7915065",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS;UP TO 1920 1080 @30FPS RESOLUTION ;MIN.",
+    "description": "hikvision 1/1.8in progressive scan cmos;up to 1920 1080 @30fps resolution ;min.",
+    "lineIndex": 415089
+  },
+  {
+    "mfgpn": "ds-2ce76d3t-itmf(3.6mm)",
+    "sku": "7915115",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 30M IR, OUTDO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 30m ir, outdo",
+    "lineIndex": 415091
+  },
+  {
+    "mfgpn": "ds-2ce12df3t-fs(2.8mm)",
+    "sku": "7915125",
+    "brand": "hikvision",
+    "name": "HIKVISION 2M BSI CMOS SENSOR,OUTDOOR BULLET,0.0005LUX/F1.0, 0 LUX WITH FRIENDLY",
+    "description": "hikvision 2m bsi cmos sensor,outdoor bullet,0.0005lux/f1.0, 0 lux with friendly",
+    "lineIndex": 415092
+  },
+  {
+    "mfgpn": "hm-td2638-15/g0/t1y",
+    "sku": "8310885",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM BULLET 15/G0/T1Y",
+    "description": "hikvision thermal & optical bi-spectrum bullet 15/g0/t1y",
+    "lineIndex": 415094
+  },
+  {
+    "mfgpn": "ds-2cd51c5g0-izs",
+    "sku": "6295125",
+    "brand": "hikvision",
+    "name": "INDOOR DOME,12MP,H265+,2.8-12MM",
+    "description": "indoor dome,12mp,h265+,2.8-12mm",
+    "lineIndex": 415096
+  },
+  {
+    "mfgpn": "ds-2xm6726g0-im/nd(6mm)(ae)",
+    "sku": "7915235",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 1920 1080 @ 30FPS;",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 1920 1080 @ 30fps;",
+    "lineIndex": 415097
+  },
+  {
+    "mfgpn": "ds-2cd3b46g2t-izhsy 2.8-12mm",
+    "sku": "7996795",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE VF BULLET IPC HEATER",
+    "description": "hikvision 4mp acusense vf bullet ipc heater",
+    "lineIndex": 415098
+  },
+  {
+    "mfgpn": "ds-2td2836-50/v1",
+    "sku": "6749715",
+    "brand": "hikvision",
+    "name": "DUAL TI 384 50MM2MP25MM",
+    "description": "dual ti 384 50mm2mp25mm",
+    "lineIndex": 415099
+  },
+  {
+    "mfgpn": "ds-2td2667-35/p",
+    "sku": "6749785",
+    "brand": "hikvision",
+    "name": "DUAL P BULLET 640 35MM",
+    "description": "dual p bullet 640 35mm",
+    "lineIndex": 415100
+  },
+  {
+    "mfgpn": "ds-2cd2647g2t-lzs",
+    "sku": "7071745",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP CLRVU MNTRZD VARIFOCAL BULLET NTWK CAM",
+    "description": "hikvision 4 mp clrvu mntrzd varifocal bullet ntwk cam",
+    "lineIndex": 415103
+  },
+  {
+    "mfgpn": "ids-2cd7a86g0-izhsy 2.8-12mm",
+    "sku": "7329435",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 8M 2.8-12MZ IR NEMA4X",
+    "description": "hikvision blt 8m 2.8-12mz ir nema4x",
+    "lineIndex": 415105
+  },
+  {
+    "mfgpn": "ds-2cd6d44g1h-izs 2.8-12mm",
+    "sku": "7376165",
+    "brand": "hikvision",
+    "name": "HIKVISION PANOVU O 16MP MS IR G1",
+    "description": "hikvision panovu o 16mp ms ir g1",
+    "lineIndex": 415106
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lu 2.8mm",
+    "sku": "7914995",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 415108
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lu 2.8mm (black)",
+    "sku": "7040085",
+    "brand": "hikvision",
+    "name": "HIKVISION OTTR 2.8MM 8MP 24HR X 7 COLOR BLK",
+    "description": "hikvision ottr 2.8mm 8mp 24hr x 7 color blk",
+    "lineIndex": 415109
+  },
+  {
+    "mfgpn": "ds-2ce79u7t-ait3zf(2.7-13.5mm)",
+    "sku": "6889835",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K VFTURRET 2.8-12MM",
+    "description": "hikvision 4k vfturret 2.8-12mm",
+    "lineIndex": 415110
+  },
+  {
+    "mfgpn": "pci-b18z2hs(2.8-12mm)",
+    "sku": "6889845",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE  BULLET HEATER 2.8-12",
+    "description": "hikvision 8mp acusense  bullet heater 2.8-12",
+    "lineIndex": 415111
+  },
+  {
+    "mfgpn": "ds-2td4228t-10/w",
+    "sku": "6889865",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL PTZ 10MM  2  C",
+    "description": "hikvision dual ptz 10mm  2  c",
+    "lineIndex": 415112
+  },
+  {
+    "mfgpn": "ds-2cd2t52-i5 4mm",
+    "sku": "5718735",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD2T52-I5 4MM 5 MP EXIR Bullet Outdoor Network Camera 4 mm - Up to",
+    "description": "hikvision ds-2cd2t52-i5 4mm 5 mp exir bullet outdoor network camera 4 mm - up to",
+    "lineIndex": 415115
+  },
+  {
+    "mfgpn": "ds-kv8113-wme1",
+    "sku": "6580375",
+    "brand": "hikvision",
+    "name": "CMOS 2MP HD Colorful Camera,, Aluminum alloy, 1-ch Indoor station access, Wi-Fi",
+    "description": "cmos 2mp hd colorful camera,, aluminum alloy, 1-ch indoor station access, wi-fi",
+    "lineIndex": 415117
+  },
+  {
+    "mfgpn": "ds-2dy9240ix-a",
+    "sku": "6919735",
+    "brand": "hikvision",
+    "name": "HIKVISION UPTZ 2MP DF 40X 400MIR 24V",
+    "description": "hikvision uptz 2mp df 40x 400mir 24v",
+    "lineIndex": 415118
+  },
+  {
+    "mfgpn": "ids-2cd7a86g0-izhsy 8-32mm",
+    "sku": "7173395",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP H265+ 8-32mm POE/12VDC DEEP LEARNING OTD BULLET MOTORIZED ZOOM/FOC",
+    "description": "hikvision 8mp h265+ 8-32mm poe/12vdc deep learning otd bullet motorized zoom/foc",
+    "lineIndex": 415119
+  },
+  {
+    "mfgpn": "ds-2td4228t-10/s2",
+    "sku": "7952425",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMOGRAPHIC NETWORK SPEED DOME",
+    "description": "hikvision thermographic network speed dome",
+    "lineIndex": 415120
+  },
+  {
+    "mfgpn": "ds-2ce76k0t-lmfs",
+    "sku": "8194695",
+    "brand": "hikvision",
+    "name": "HIKVISION ANALOG 3K SHL FIXED TURRET",
+    "description": "hikvision analog 3k shl fixed turret",
+    "lineIndex": 415122
+  },
+  {
+    "mfgpn": "ds-2td8167-190ze2f/wy",
+    "sku": "8006615",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE: 640X512 17 VOX UFPA; 36-190MM (17.19 13.79 (H V) TO 3.",
+    "description": "hikvision thermal module: 640x512 17 vox ufpa; 36-190mm (17.19 13.79 (h v) to 3.",
+    "lineIndex": 415123
+  },
+  {
+    "mfgpn": "ds-uc4",
+    "sku": "6807545",
+    "brand": "hikvision",
+    "name": "HIKVISION CAMERA 4MP WEB CAM AUTO FOCUS",
+    "description": "hikvision camera 4mp web cam auto focus",
+    "lineIndex": 415124
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0e-s/rc",
+    "sku": "7067285",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP FISH H265+ IN-CEIL",
+    "description": "hikvision 12mp fish h265+ in-ceil",
+    "lineIndex": 415125
+  },
+  {
+    "mfgpn": "ds-2cd2147g3-lis2uy 2.8mm",
+    "sku": "8295425",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SHL WITH COLORVU 3.0 FIXED IP DOME",
+    "description": "hikvision 4mp shl with colorvu 3.0 fixed ip dome",
+    "lineIndex": 415126
+  },
+  {
+    "mfgpn": "ds-2ce19d3t-ait3zf",
+    "sku": "6315775",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR BULLET,2MP,2.7-13.5MM",
+    "description": "outdoor ir bullet,2mp,2.7-13.5mm",
+    "lineIndex": 415127
+  },
+  {
+    "mfgpn": "ds-2cd2t45g0p-i(1.68mm)",
+    "sku": "6936305",
+    "brand": "hikvision",
+    "name": "HIKVISION BL IP 180 DEGREE WIDE ANGLE",
+    "description": "hikvision bl ip 180 degree wide angle",
+    "lineIndex": 415128
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf 3.6mm",
+    "sku": "6586245",
+    "brand": "hikvision",
+    "name": "Outdoor Vandal Proof Dome, 5MP, EXIR, 40m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart",
+    "description": "outdoor vandal proof dome, 5mp, exir, 40m ir, icr, 0.01 lux/f1.2, 12 vdc, smart",
+    "lineIndex": 415129
+  },
+  {
+    "mfgpn": "ds-2cd2143g2-iu 2.8mm",
+    "sku": "6868745",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 4MP28MM",
+    "description": "hikvision acs dm ip67 4mp28mm",
+    "lineIndex": 415130
+  },
+  {
+    "mfgpn": "ds-2cd2643g2-izs",
+    "sku": "6868765",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS BLT IP67 4MP 2.8-12MZ",
+    "description": "hikvision acs blt ip67 4mp 2.8-12mz",
+    "lineIndex": 415131
+  },
+  {
+    "mfgpn": "hm-p201- macro",
+    "sku": "7329495",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMOGRAPHY CAMERA MACRO LENS",
+    "description": "hikvision thermography camera macro lens",
+    "lineIndex": 415135
+  },
+  {
+    "mfgpn": "ds-2cd2387g2h-lisu/sl 2.8mmblk",
+    "sku": "7329575",
+    "brand": "hikvision",
+    "name": "HIKVISION OT TR 2.8MM 8MP SHL BLK",
+    "description": "hikvision ot tr 2.8mm 8mp shl blk",
+    "lineIndex": 415136
+  },
+  {
+    "mfgpn": "ds-2td2637-15/py",
+    "sku": "7329585",
+    "brand": "hikvision",
+    "name": "HIKVISION BI-SPECTRUM CAM",
+    "description": "hikvision bi-spectrum cam",
+    "lineIndex": 415137
+  },
+  {
+    "mfgpn": "ds-2xe6885g0-izhs8",
+    "sku": "6749495",
+    "brand": "hikvision",
+    "name": "XPRF SS BULLET 8MP 8-32",
+    "description": "xprf ss bullet 8mp 8-32",
+    "lineIndex": 415139
+  },
+  {
+    "mfgpn": "ids-2cd7ac5g0-izhs8",
+    "sku": "6749505",
+    "brand": "hikvision",
+    "name": "BLT 12M 8-32MZ DN IR",
+    "description": "blt 12m 8-32mz dn ir",
+    "lineIndex": 415140
+  },
+  {
+    "mfgpn": "ds-2cd6984g0-ihs 2.8mm",
+    "sku": "6795765",
+    "brand": "hikvision",
+    "name": "Outdoor Dome, 32MP, 180 degree Multi-imager (4x8MP), 2.8mm, H.265/H.264, Day/Nig",
+    "description": "outdoor dome, 32mp, 180 degree multi-imager (4x8mp), 2.8mm, h.265/h.264, day/nig",
+    "lineIndex": 415141
+  },
+  {
+    "mfgpn": "ds-2pt3122iz-de3",
+    "sku": "6749625",
+    "brand": "hikvision",
+    "name": "PANOVU MINI INDOOR 4MP MULTI",
+    "description": "panovu mini indoor 4mp multi",
+    "lineIndex": 415142
+  },
+  {
+    "mfgpn": "ds-2ce16h0t-ait3zf",
+    "sku": "6219846",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR BULLET,40M EXIR 2.0,DAY/NIGHT",
+    "description": "outdoor ir bullet,40m exir 2.0,day/night",
+    "lineIndex": 424012
+  },
+  {
+    "mfgpn": "hikcentral-p-ms-10unit/base/promo",
+    "sku": "7915256",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE SURVEILLANCE BASE PACKAGE-INCLUDING PREREQUISITES FOR DEVICE UN",
+    "description": "hikvision mobile surveillance base package-including prerequisites for device un",
+    "lineIndex": 424019
+  },
+  {
+    "mfgpn": "hikcentral-rsm-base/2site",
+    "sku": "6073246",
+    "brand": "hikvision",
+    "name": "Remote Site Manager(RSM) of HikCentral Software to go beyond 3000 cameras per CM",
+    "description": "remote site manager(rsm) of hikcentral software to go beyond 3000 cameras per cm",
+    "lineIndex": 424024
+  },
+  {
+    "mfgpn": "ds-2fp4021-b",
+    "sku": "6322376",
+    "brand": "hikvision",
+    "name": "EXTERNAL MICROPHONE/60M2/360DEGREE",
+    "description": "external microphone/60m2/360degree",
+    "lineIndex": 424032
+  },
+  {
+    "mfgpn": "ds-2td1217b-6/pa(b)",
+    "sku": "7067396",
+    "brand": "hikvision",
+    "name": "HIKVISION HIACU THERMAL 0.5 C 6MM",
+    "description": "hikvision hiacu thermal 0.5 c 6mm",
+    "lineIndex": 424033
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf 6mm",
+    "sku": "6586246",
+    "brand": "hikvision",
+    "name": "Outdoor Vandal Proof Dome, 5MP, EXIR, 40m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart",
+    "description": "outdoor vandal proof dome, 5mp, exir, 40m ir, icr, 0.01 lux/f1.2, 12 vdc, smart",
+    "lineIndex": 424061
+  },
+  {
+    "mfgpn": "ids-9664nxi-i8/x",
+    "sku": "7067306",
+    "brand": "hikvision",
+    "name": "HIKVISION 2ND GEN DEEPINMIND NVR",
+    "description": "hikvision 2nd gen deepinmind nvr",
+    "lineIndex": 424067
+  },
+  {
+    "mfgpn": "ds-7716ni-m4/16p(4t)",
+    "sku": "7915046",
+    "brand": "hikvision",
+    "name": "HIKVISION 256MBPS BIT RATE INPUT MAX(UP TO 16-CH IP VIDEO),16X4MP DECODING CAPAB",
+    "description": "hikvision 256mbps bit rate input max(up to 16-ch ip video),16x4mp decoding capab",
+    "lineIndex": 424068
+  },
+  {
+    "mfgpn": "ds-7616nxi-k2/16p(4t)",
+    "sku": "7915076",
+    "brand": "hikvision",
+    "name": "HIKVISION ALL-CH MOTION DETECTION 2.0UP TO 2-CH FALSE ALARM REDUCTION THROUGH HU",
+    "description": "hikvision all-ch motion detection 2.0up to 2-ch false alarm reduction through hu",
+    "lineIndex": 424069
+  },
+  {
+    "mfgpn": "ds-hilooki-dvr-216u-k2",
+    "sku": "7067356",
+    "brand": "hikvision",
+    "name": "HIKVISION 16-CH DVR",
+    "description": "hikvision 16-ch dvr",
+    "lineIndex": 424071
+  },
+  {
+    "mfgpn": "ids-7208huhi-m2/s-2tb",
+    "sku": "7915156",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 8 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 8 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 424076
+  },
+  {
+    "mfgpn": "ds-9616ni-m8",
+    "sku": "7376166",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 16CH UPTO 8K HDMI 0HDD",
+    "description": "hikvision nvr 16ch upto 8k hdmi 0hdd",
+    "lineIndex": 424077
+  },
+  {
+    "mfgpn": "ids-7216huhi-m2/s/4t",
+    "sku": "6928636",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DVR 16CH 5MP H265 4TB",
+    "description": "hikvision acs dvr 16ch 5mp h265 4tb",
+    "lineIndex": 424078
+  },
+  {
+    "mfgpn": "ds-7216hqhi-k2",
+    "sku": "6749766",
+    "brand": "hikvision",
+    "name": "TRI DVR 16-CH 2MP H.265 4K",
+    "description": "tri dvr 16-ch 2mp h.265 4k",
+    "lineIndex": 424080
+  },
+  {
+    "mfgpn": "ds-2cd3a46g2t-izhs 6-60mm",
+    "sku": "8284016",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE VF BULLET 6-60MM",
+    "description": "hikvision 4mp acusense vf bullet 6-60mm",
+    "lineIndex": 424081
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lsu/sl 2.8mm",
+    "sku": "7067266",
+    "brand": "hikvision",
+    "name": "HIKVISION OTTR2.8MM8MP 24HRX7COLORSL",
+    "description": "hikvision ottr2.8mm8mp 24hrx7colorsl",
+    "lineIndex": 424082
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0e-is",
+    "sku": "7067286",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP INDOOR FISHEYE CAMERA",
+    "description": "hikvision 12mp indoor fisheye camera",
+    "lineIndex": 424083
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lsu/sl 2.8mm",
+    "sku": "8169666",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 424084
+  },
+  {
+    "mfgpn": "hm-tp76-25svf/w-g60",
+    "sku": "7067426",
+    "brand": "hikvision",
+    "name": "HIKVISION 640X480 THERMOGRAPHIC HANDHELD CAMERA",
+    "description": "hikvision 640x480 thermographic handheld camera",
+    "lineIndex": 424085
+  },
+  {
+    "mfgpn": "ds-2cd2143g2-iu 2.8mm(black)",
+    "sku": "8170126",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 424087
+  },
+  {
+    "mfgpn": "ds-2cd2t87g2-lsu/sl(2.8mm)(c)",
+    "sku": "7914556",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 424089
+  },
+  {
+    "mfgpn": "ds-2cd63c5g1-ivs(1.29mm)",
+    "sku": "7914566",
+    "brand": "hikvision",
+    "name": "HIKVISION HEATMAP: BASED ON DEEP LEARNING ALGORITHMS, THE CAMERA COUNTS PEOPLE A",
+    "description": "hikvision heatmap: based on deep learning algorithms, the camera counts people a",
+    "lineIndex": 424091
+  },
+  {
+    "mfgpn": "ids-2cd7547g0-xzhsy 2.8-12mm",
+    "sku": "7955826",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING OUTDOOR DOME, COLORVU, SMART HYBRID LIGHT, 4MP, H265+, 2",
+    "description": "hikvision deep learning outdoor dome, colorvu, smart hybrid light, 4mp, h265+, 2",
+    "lineIndex": 424092
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0-izhsy",
+    "sku": "7092396",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 4M 2.8-12MZ WDR IR NEMA4X",
+    "description": "hikvision blt 4m 2.8-12mz wdr ir nema4x",
+    "lineIndex": 424093
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0-izhsy(8-32mm)(c)",
+    "sku": "7914586",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 424094
+  },
+  {
+    "mfgpn": "ds-2cd2047g2h-liu/sl 4mm",
+    "sku": "7319606",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 4MM 4MP SHL",
+    "description": "hikvision ob bl 4mm 4mp shl",
+    "lineIndex": 424096
+  },
+  {
+    "mfgpn": "ds-2xs6k02-c36s80",
+    "sku": "7319626",
+    "brand": "hikvision",
+    "name": "HIKVISION SOLAR POWER MODULES",
+    "description": "hikvision solar power modules",
+    "lineIndex": 424097
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is(4mm)",
+    "sku": "7914926",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 424098
+  },
+  {
+    "mfgpn": "ds-2cd2383g2-iu 2.8mm(black)",
+    "sku": "7914936",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 424099
+  },
+  {
+    "mfgpn": "ds-2cd2743g2-izs(2.8-12mm)(black)",
+    "sku": "7914966",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 424100
+  },
+  {
+    "mfgpn": "ds-2cd6d82g0-ihs(2.8mm)",
+    "sku": "7914986",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.5IN PROGRESSIVE SCAN CMOS;DUAL LENS;FLEXIBLE LENS: P: -90 TO 90 ;",
+    "description": "hikvision 1/2.5in progressive scan cmos;dual lens;flexible lens: p: -90 to 90 ;",
+    "lineIndex": 424102
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lsu/sl/2.8mm/c/black",
+    "sku": "7914996",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 424103
+  },
+  {
+    "mfgpn": "ds-2de7a825iw-aeb",
+    "sku": "7915016",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 8 MP RESOLUTIO",
+    "description": "hikvision 1/1.8in progressive scan cmos high quality imaging with 8 mp resolutio",
+    "lineIndex": 424104
+  },
+  {
+    "mfgpn": "ds-2dy3220iw-de(s6)",
+    "sku": "7915026",
+    "brand": "hikvision",
+    "name": "HIKVISION HIGH QUALITY IMAGING WITH 2 MP RESOLUTION CLEAR IMAGING AGAINST STRONG",
+    "description": "hikvision high quality imaging with 2 mp resolution clear imaging against strong",
+    "lineIndex": 424105
+  },
+  {
+    "mfgpn": "ds-2ce72df3t-fs(2.8mm)",
+    "sku": "7915126",
+    "brand": "hikvision",
+    "name": "HIKVISION 2M BSI CMOS SENSOR,OUTDOOR TURRET,0.0005LUX/F1.0, 0 LUX WITH FRIENDLY",
+    "description": "hikvision 2m bsi cmos sensor,outdoor turret,0.0005lux/f1.0, 0 lux with friendly",
+    "lineIndex": 424108
+  },
+  {
+    "mfgpn": "ds-2xm6122g0-im/nd(4mm)(ae)",
+    "sku": "7915136",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.8IN PROGRESSIVE SCAN CMOS, ICR, 0LUX WITH IR,H",
+    "description": "hikvision new hardware design 1/2.8in progressive scan cmos, icr, 0lux with ir,h",
+    "lineIndex": 424109
+  },
+  {
+    "mfgpn": "ds-2td4167-50/wy",
+    "sku": "8310886",
+    "brand": "hikvision",
+    "name": "HIKVISION ANTI-CORROSION THERMAL & OPTICAL BI-SPECTRUM NETWORK PTZ",
+    "description": "hikvision anti-corrosion thermal & optical bi-spectrum network ptz",
+    "lineIndex": 424110
+  },
+  {
+    "mfgpn": "ds-2cd2183g2-lis2u 2.8mm(black)",
+    "sku": "7996816",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM SHL 8MP 2.8MM",
+    "description": "hikvision acs dm shl 8mp 2.8mm",
+    "lineIndex": 424113
+  },
+  {
+    "mfgpn": "ids-2cd7046g0-ap",
+    "sku": "6749496",
+    "brand": "hikvision",
+    "name": "BX 4MP DN 140DB WDR POE/12DC AP",
+    "description": "bx 4mp dn 140db wdr poe/12dc ap",
+    "lineIndex": 424114
+  },
+  {
+    "mfgpn": "ds-2td2137-4/py",
+    "sku": "6821186",
+    "brand": "hikvision",
+    "name": "HIKVISION BULLET 384 4.4 MM",
+    "description": "hikvision bullet 384 4.4 mm",
+    "lineIndex": 424116
+  },
+  {
+    "mfgpn": "ds-2dp3236zixs-d/440",
+    "sku": "7067296",
+    "brand": "hikvision",
+    "name": "HIKVISION 32MP 360 W/ 40X PTZ",
+    "description": "hikvision 32mp 360 w/ 40x ptz",
+    "lineIndex": 424117
+  },
+  {
+    "mfgpn": "ds-2ce72hft-f28",
+    "sku": "7067336",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORVU 5MP 2.8MM 130DB IP67",
+    "description": "hikvision colorvu 5mp 2.8mm 130db ip67",
+    "lineIndex": 424118
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(m12)(8mm)",
+    "sku": "7067416",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 424119
+  },
+  {
+    "mfgpn": "ds-2cd5ac5g0-izhs",
+    "sku": "6260096",
+    "brand": "hikvision",
+    "name": "OUTDOOR BULLET,12MP,H265+,2.8-12MM",
+    "description": "outdoor bullet,12mp,h265+,2.8-12mm",
+    "lineIndex": 424120
+  },
+  {
+    "mfgpn": "ds-mp1742(ae)",
+    "sku": "7092386",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE VIDEO RECORDER UPS",
+    "description": "hikvision mobile video recorder ups",
+    "lineIndex": 424121
+  },
+  {
+    "mfgpn": "ds-2cd2747g2t-lzs",
+    "sku": "7071736",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP CLRVU MNTRZD VARIFOCAL DOME NTWK CAM",
+    "description": "hikvision 4 mp clrvu mntrzd varifocal dome ntwk cam",
+    "lineIndex": 424122
+  },
+  {
+    "mfgpn": "ds-2xm6222g1-im/nd 2.8mm",
+    "sku": "7911626",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP MOBILE BULLET CAMERA",
+    "description": "hikvision 2mp mobile bullet camera",
+    "lineIndex": 424126
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-l(4mm)(c)",
+    "sku": "7914546",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 424127
+  },
+  {
+    "mfgpn": "ds-2cd5585g0-izhs(8-32mm)",
+    "sku": "7914946",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS,ICR, COLOR:0.007LUX/F1.2, B/W:0.0007LUX/",
+    "description": "hikvision 1/1.8in progressive scan cmos,icr, color:0.007lux/f1.2, b/w:0.0007lux/",
+    "lineIndex": 424128
+  },
+  {
+    "mfgpn": "ds-2ce76h0t-itmf(3.6mm)(c)",
+    "sku": "7915036",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 30M IR, OUTDOOR EXIR",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 30m ir, outdoor exir",
+    "lineIndex": 424131
+  },
+  {
+    "mfgpn": "ds-2xe6422fwd-izhrs(2.8-12mm)(d)",
+    "sku": "7915066",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; 1920 1",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; 1920 1",
+    "lineIndex": 424132
+  },
+  {
+    "mfgpn": "ds-2ce79d3t-it3zf(2.7-13.5mm)",
+    "sku": "7915116",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 70M IR, AUTO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 70m ir, auto",
+    "lineIndex": 424133
+  },
+  {
+    "mfgpn": "ds-2td2637-25/py",
+    "sku": "7915196",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL: 384 288 17 M, OPTICAL: 4MP 2688 1520THERMAL: 10MM/15MM/25MM/3",
+    "description": "hikvision thermal: 384 288 17 m, optical: 4mp 2688 1520thermal: 10mm/15mm/25mm/3",
+    "lineIndex": 424135
+  },
+  {
+    "mfgpn": "ds-2xm6726g0-im/nd(2mm)(ae)",
+    "sku": "7915236",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 1920 1080 @ 30FPS;",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 1920 1080 @ 30fps;",
+    "lineIndex": 424136
+  },
+  {
+    "mfgpn": "ds-2cd3b86g2t-izhsy 2.8-12mm",
+    "sku": "7996796",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE VF BULLET IPC HEATER",
+    "description": "hikvision 8mp acusense vf bullet ipc heater",
+    "lineIndex": 424137
+  },
+  {
+    "mfgpn": "ds-2ce16u7t-it3f(2.8mm)",
+    "sku": "6889846",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K BULLET 2.8MM 60 METERS IR",
+    "description": "hikvision 4k bullet 2.8mm 60 meters ir",
+    "lineIndex": 424139
+  },
+  {
+    "mfgpn": "ds-2sf8c442mxg-elw/26(f0)",
+    "sku": "7240136",
+    "brand": "hikvision",
+    "name": "HIKVISION TANDEMVU ADC12 PANORAMIC PTZ",
+    "description": "hikvision tandemvu adc12 panoramic ptz",
+    "lineIndex": 424141
+  },
+  {
+    "mfgpn": "nks424w02h",
+    "sku": "8313746",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH CAMERA INPUT, UP TO 512 GB MICRO SD CARD STORAGE CAPACITY;H.265+/",
+    "description": "hikvision 4-ch camera input, up to 512 gb micro sd card storage capacity;h.265+/",
+    "lineIndex": 424142
+  },
+  {
+    "mfgpn": "ds-2cd2t52-i5 6mm",
+    "sku": "5718736",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD2T52-I5 5 MP EXIR Bullet Outdoor Network Camera 6 mm - Up to 5 M",
+    "description": "hikvision ds-2cd2t52-i5 5 mp exir bullet outdoor network camera 6 mm - up to 5 m",
+    "lineIndex": 424143
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lu 4mm",
+    "sku": "6782336",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8 PROGRESSIVE SCAN CMOS H.265+/H.265/H.264+/H.264/MJPEG",
+    "description": "hikvision 1/1.8 progressive scan cmos h.265+/h.265/h.264+/h.264/mjpeg",
+    "lineIndex": 424144
+  },
+  {
+    "mfgpn": "ds-2se7c432mw-aeb",
+    "sku": "6919746",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 32X BULLET/PTZ",
+    "description": "hikvision 4mp 32x bullet/ptz",
+    "lineIndex": 424145
+  },
+  {
+    "mfgpn": "ds-2cd2347g1-lu 2.8mm",
+    "sku": "6491536",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD2347G1-L(U) 4 MP ColorVu Fixed Turret Network Camera 2.8mm- High",
+    "description": "hikvision ds-2cd2347g1-l(u) 4 mp colorvu fixed turret network camera 2.8mm- high",
+    "lineIndex": 424146
+  },
+  {
+    "mfgpn": "ds-2xm6756g1-im/nd 2mm",
+    "sku": "8006616",
+    "brand": "hikvision",
+    "name": "HIKVISION IPC",
+    "description": "hikvision ipc",
+    "lineIndex": 424147
+  },
+  {
+    "mfgpn": "ds-ul4",
+    "sku": "6807546",
+    "brand": "hikvision",
+    "name": "HIKVISION CAMERA 4MP WEB LIVECAM",
+    "description": "hikvision camera 4mp web livecam",
+    "lineIndex": 424148
+  },
+  {
+    "mfgpn": "ds-2cd2147g3-lis2uy 2.8mm(black)",
+    "sku": "8295426",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SHL WITH COLORVU 3.0 FIXED IP DOME BLACK",
+    "description": "hikvision 4mp shl with colorvu 3.0 fixed ip dome black",
+    "lineIndex": 424150
+  },
+  {
+    "mfgpn": "ds-2ce79d3t-it3zf",
+    "sku": "6315786",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR IR TURRET,2MP,2.7-13.5MM",
+    "description": "hikvision outdoor ir turret,2mp,2.7-13.5mm",
+    "lineIndex": 424151
+  },
+  {
+    "mfgpn": "ds-2dy3220iw-de",
+    "sku": "5911006",
+    "brand": "hikvision",
+    "name": "DS-2DY3220IW-DE - PTZ Camera - CMOS - Effective Sensor Resolution: 2 - 4.7-94 mm",
+    "description": "ds-2dy3220iw-de - ptz camera - cmos - effective sensor resolution: 2 - 4.7-94 mm",
+    "lineIndex": 424152
+  },
+  {
+    "mfgpn": "ds-2cd2383g2-iu 4mm",
+    "sku": "6868756",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TUR IP67 8MP4MM",
+    "description": "hikvision acs tur ip67 8mp4mm",
+    "lineIndex": 424153
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lsu/sl 2.8mm(black)",
+    "sku": "7329426",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP COLORVU IP WITH LIVE GUARD",
+    "description": "hikvision 4mp colorvu ip with live guard",
+    "lineIndex": 424154
+  },
+  {
+    "mfgpn": "ids-2cd7a86g0-izhsy(2.8-12mm)",
+    "sku": "7329436",
+    "brand": "hikvision",
+    "name": "HIKVISION BLT 8M 2.8-12MZ IR NEMA4X",
+    "description": "hikvision blt 8m 2.8-12mz ir nema4x",
+    "lineIndex": 424155
+  },
+  {
+    "mfgpn": "ds-2df8c842ixs-aelw",
+    "sku": "6668646",
+    "brand": "hikvision",
+    "name": "42X 8MP OUTDR PTZ",
+    "description": "42x 8mp outdr ptz",
+    "lineIndex": 424160
+  },
+  {
+    "mfgpn": "ept-4215i-d",
+    "sku": "6327677",
+    "brand": "hikvision",
+    "name": "OUTDOOR PTZ TVI 2MP IR 15X",
+    "description": "outdoor ptz tvi 2mp ir 15x",
+    "lineIndex": 433031
+  },
+  {
+    "mfgpn": "ds-2td2617b-3/pa(b)",
+    "sku": "7067397",
+    "brand": "hikvision",
+    "name": "HIKVISION HIACU THERMAL 0.5 C 3MM",
+    "description": "hikvision hiacu thermal 0.5 c 3mm",
+    "lineIndex": 433047
+  },
+  {
+    "mfgpn": "ds-1253zj-m",
+    "sku": "7996827",
+    "brand": "hikvision",
+    "name": "HIKVISION RAIN SHADE FOR DOME",
+    "description": "hikvision rain shade for dome",
+    "lineIndex": 433059
+  },
+  {
+    "mfgpn": "pci-d18f2s 2.8mm (black)",
+    "sku": "6800317",
+    "brand": "hikvision",
+    "name": "Outdoor Dome, 8MP, Powered by Darkfighter, AcuSense technology, 2.8mm, 120dB WDR",
+    "description": "outdoor dome, 8mp, powered by darkfighter, acusense technology, 2.8mm, 120db wdr",
+    "lineIndex": 433064
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-su 2.8mm",
+    "sku": "6668647",
+    "brand": "hikvision",
+    "name": "OT DM 2.8MM 4MP 24HRX7 COLOR",
+    "description": "ot dm 2.8mm 4mp 24hrx7 color",
+    "lineIndex": 433077
+  },
+  {
+    "mfgpn": "ds-2xm6222fwd-im(4mm)",
+    "sku": "6749627",
+    "brand": "hikvision",
+    "name": "MOBILE NETWORK CAMERA",
+    "description": "mobile network camera",
+    "lineIndex": 433080
+  },
+  {
+    "mfgpn": "ds-mp5604n(1t)",
+    "sku": "6749777",
+    "brand": "hikvision",
+    "name": "4CH MNVR WITH 1TB HDD",
+    "description": "4ch mnvr with 1tb hdd",
+    "lineIndex": 433083
+  },
+  {
+    "mfgpn": "ds-7716ni-m4/16p(8t)",
+    "sku": "7915047",
+    "brand": "hikvision",
+    "name": "HIKVISION 256MBPS BIT RATE INPUT MAX(UP TO 16-CH IP VIDEO),16X4MP DECODING CAPAB",
+    "description": "hikvision 256mbps bit rate input max(up to 16-ch ip video),16x4mp decoding capab",
+    "lineIndex": 433088
+  },
+  {
+    "mfgpn": "ids-7208huhi-m2/sus/4a+8/4alm/2t",
+    "sku": "7915157",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 8 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 4-ch false alarm filter, 8 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 433090
+  },
+  {
+    "mfgpn": "ds-7316hqi-k4",
+    "sku": "6087507",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-7316HQI-K 16 CH 1080P 1.5U H.265 DVR - 16 channels and 4 HDDs 1.5U",
+    "description": "hikvision ds-7316hqi-k 16 ch 1080p 1.5u h.265 dvr - 16 channels and 4 hdds 1.5u",
+    "lineIndex": 433091
+  },
+  {
+    "mfgpn": "ds-9016hui-k8-50te",
+    "sku": "6749737",
+    "brand": "hikvision",
+    "name": "TRI DVR 16-CH 5MP H.265 50TE",
+    "description": "tri dvr 16-ch 5mp h.265 50te",
+    "lineIndex": 433092
+  },
+  {
+    "mfgpn": "ds-7204hqhi-k1-1tb",
+    "sku": "6727077",
+    "brand": "hikvision",
+    "name": "Tribrid DVR, 4 Channel TurboHD/Analog, Auto-Detect, H.265+/H.265,  720p Real-tim",
+    "description": "tribrid dvr, 4 channel turbohd/analog, auto-detect, h.265+/h.265,  720p real-tim",
+    "lineIndex": 433093
+  },
+  {
+    "mfgpn": "ids-7208hthi-m2/s",
+    "sku": "6889837",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH 4K H.265 ACUSENSE DVR",
+    "description": "hikvision 8-ch 4k h.265 acusense dvr",
+    "lineIndex": 433094
+  },
+  {
+    "mfgpn": "ds-7716ni-m4/16p(std)(4t)",
+    "sku": "8215757",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 16CH 16POE UPTO 32MP4TB",
+    "description": "hikvision nvr 16ch 16poe upto 32mp4tb",
+    "lineIndex": 433095
+  },
+  {
+    "mfgpn": "ds-7716ni-i4/16p-8tb",
+    "sku": "5718717",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 16-CHANNEL H264+/H264/H265 12MP 8TB",
+    "description": "hikvision nvr 16-channel h264+/h264/h265 12mp 8tb",
+    "lineIndex": 433096
+  },
+  {
+    "mfgpn": "ds-7732ni-m4/16p",
+    "sku": "7241307",
+    "brand": "hikvision",
+    "name": "HIKVISION 16-CH POE INTERFACES, 8-CH 8 MP OR 16-CH 4MP DECODING CAPACITY, UP TO",
+    "description": "hikvision 16-ch poe interfaces, 8-ch 8 mp or 16-ch 4mp decoding capacity, up to",
+    "lineIndex": 433097
+  },
+  {
+    "mfgpn": "ds-9664ni-m8",
+    "sku": "7241817",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 64CH H.265+ UP TO 32MP / 8K HDMI (DUAL 4K) 8-SATA NO HDD",
+    "description": "hikvision nvr 64ch h.265+ up to 32mp / 8k hdmi (dual 4k) 8-sata no hdd",
+    "lineIndex": 433098
+  },
+  {
+    "mfgpn": "nvr-104mh-c/4p",
+    "sku": "6964927",
+    "brand": "hikvision",
+    "name": "HIKVISION HILOOK NVR 4-CH 4K NVR",
+    "description": "hikvision hilook nvr 4-ch 4k nvr",
+    "lineIndex": 433099
+  },
+  {
+    "mfgpn": "ds-2cd2687g2t-lzs 2.8-12mm",
+    "sku": "7246437",
+    "brand": "hikvision",
+    "name": "HIKVISION BL 8MP IP67 2.8-12MZ WDR",
+    "description": "hikvision bl 8mp ip67 2.8-12mz wdr",
+    "lineIndex": 433101
+  },
+  {
+    "mfgpn": "ds-2cd2543g0-iws(2.8mm)",
+    "sku": "7067257",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP66 4MP 2.8MM-WIFI",
+    "description": "hikvision dm ip66 4mp 2.8mm-wifi",
+    "lineIndex": 433103
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lsu/sl 4mm",
+    "sku": "7067267",
+    "brand": "hikvision",
+    "name": "HIKVISION OTTR4MM8MP 24HRX7COLORSL",
+    "description": "hikvision ottr4mm8mp 24hrx7colorsl",
+    "lineIndex": 433104
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0/p-izhsy",
+    "sku": "7067277",
+    "brand": "hikvision",
+    "name": "HIKVISION LPR BLT IP67 4M 2.8-12 WDR",
+    "description": "hikvision lpr blt ip67 4m 2.8-12 wdr",
+    "lineIndex": 433106
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0e-ivs",
+    "sku": "7067287",
+    "brand": "hikvision",
+    "name": "HIKVISION 12MP OUTDOOR FISHEYE HEATER",
+    "description": "hikvision 12mp outdoor fisheye heater",
+    "lineIndex": 433107
+  },
+  {
+    "mfgpn": "ds-2sf8c442mxs-dlw(14f1)",
+    "sku": "7067297",
+    "brand": "hikvision",
+    "name": "HIKVISION TANDEMVU ADC12 1BULLET+PTZ",
+    "description": "hikvision tandemvu adc12 1bullet+ptz",
+    "lineIndex": 433108
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lsu/sl(2.8mm)(c)(o-std)",
+    "sku": "8169667",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 433109
+  },
+  {
+    "mfgpn": "ds-2ce5ah0t-avpit3zf 2.7-13.5mm",
+    "sku": "7067327",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOM 5MPTVI IR2.7-13.5MV",
+    "description": "hikvision outdom 5mptvi ir2.7-13.5mv",
+    "lineIndex": 433110
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(m12)(12mm)",
+    "sku": "7067417",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 433114
+  },
+  {
+    "mfgpn": "hm-tp31-3auf-e1l",
+    "sku": "7067457",
+    "brand": "hikvision",
+    "name": "HIKVISION 160X120 THERMOGRAPHIC HANDHELD CAMERA",
+    "description": "hikvision 160x120 thermographic handheld camera",
+    "lineIndex": 433117
+  },
+  {
+    "mfgpn": "ds-2cd2183g2-i(2.8mm)",
+    "sku": "7914537",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8 PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/2.8 progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 433118
+  },
+  {
+    "mfgpn": "ds-2cd2087g2h-liu/sl(2.8mm)(ef)",
+    "sku": "7914547",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 433119
+  },
+  {
+    "mfgpn": "ds-2cd2t87g2-lsu/sl(4mm)(c)",
+    "sku": "7914557",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 433120
+  },
+  {
+    "mfgpn": "ds-2cd6w45g0-ivs(2mm)",
+    "sku": "7914567",
+    "brand": "hikvision",
+    "name": "HIKVISION IK10+,NEMA 4X,WDR",
+    "description": "hikvision ik10+,nema 4x,wdr",
+    "lineIndex": 433121
+  },
+  {
+    "mfgpn": "ds-2cd2t87g2p-lsu/sl(4mm)(c)",
+    "sku": "7914577",
+    "brand": "hikvision",
+    "name": "HIKVISION 2 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLO",
+    "description": "hikvision 2 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; colo",
+    "lineIndex": 433122
+  },
+  {
+    "mfgpn": "ids-2cd7587g0-xzhsy 2.8-12mm",
+    "sku": "7955827",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING OUTDOOR DOME, COLORVU, SMART HYBRID LIGHT, 8MP, H265+, 2",
+    "description": "hikvision deep learning outdoor dome, colorvu, smart hybrid light, 8mp, h265+, 2",
+    "lineIndex": 433123
+  },
+  {
+    "mfgpn": "ds-2xs6a87g1-ls/c36s80(2.8mm)",
+    "sku": "7092397",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 2.8MM COLORVU SOLAR CAM",
+    "description": "hikvision 4mp 2.8mm colorvu solar cam",
+    "lineIndex": 433124
+  },
+  {
+    "mfgpn": "ids-2cd7a46g0-izhsy(2.8-12mm)(c)",
+    "sku": "7914587",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 433125
+  },
+  {
+    "mfgpn": "ds-2cd3d46g2t-izmsu",
+    "sku": "7092407",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP HDMI VARIFOCAL DOME",
+    "description": "hikvision 4 mp hdmi varifocal dome",
+    "lineIndex": 433127
+  },
+  {
+    "mfgpn": "ds-2fsc09-l",
+    "sku": "7319627",
+    "brand": "hikvision",
+    "name": "HIKVISION 90WH BATTERY PACK",
+    "description": "hikvision 90wh battery pack",
+    "lineIndex": 433129
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is(2.8mm)",
+    "sku": "7914927",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 433131
+  },
+  {
+    "mfgpn": "ds-2cd5a26g0-izhs(2.8-12mm)(b)",
+    "sku": "7914947",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 433132
+  },
+  {
+    "mfgpn": "ds-2cd2147g2h-lisu(4mm)(ef)",
+    "sku": "7914957",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 433133
+  },
+  {
+    "mfgpn": "ds-2cd2783g2-izs",
+    "sku": "7914967",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 433134
+  },
+  {
+    "mfgpn": "ds-2cd6984g0-ihs(2.8mm)(hik usa)",
+    "sku": "7914987",
+    "brand": "hikvision",
+    "name": "HIKVISION 180 SPLICING IMAGE: THE IMAGE PRESENTED INCLUDES THE FULL PANORAMIC VI",
+    "description": "hikvision 180 splicing image: the image presented includes the full panoramic vi",
+    "lineIndex": 433136
+  },
+  {
+    "mfgpn": "ds-2df5232x-ae3(t5)",
+    "sku": "7915017",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 2 MP RESOLUTIO",
+    "description": "hikvision 1/2.8in progressive scan cmos high quality imaging with 2 mp resolutio",
+    "lineIndex": 433138
+  },
+  {
+    "mfgpn": "ds-2dy3220iw-de4(s6)",
+    "sku": "7915027",
+    "brand": "hikvision",
+    "name": "HIKVISION HIGH QUALITY IMAGING WITH 2 MP RESOLUTION CLEAR IMAGING AGAINST STRONG",
+    "description": "hikvision high quality imaging with 2 mp resolution clear imaging against strong",
+    "lineIndex": 433139
+  },
+  {
+    "mfgpn": "ds-2ce78h0t-it3f(2.8mm)(c)",
+    "sku": "7915037",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR EXIR",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor exir",
+    "lineIndex": 433140
+  },
+  {
+    "mfgpn": "ds-2xe6422fwd-izhrs(8-32mm)(d)",
+    "sku": "7915067",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; 1920 1",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; 1920 1",
+    "lineIndex": 433141
+  },
+  {
+    "mfgpn": "ds-2ce12hft-f(3.6mm)",
+    "sku": "7915127",
+    "brand": "hikvision",
+    "name": "HIKVISION 5M BSI CMOS SENSOR,5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT),OUTDOOR B",
+    "description": "hikvision 5m bsi cmos sensor,5mp@20fps, 4mp@25fps(p)/30fps(n)(default),outdoor b",
+    "lineIndex": 433144
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivm/nd(2mm)(c)",
+    "sku": "7915147",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL LENS, 1/2.7IN PROGRESSIVE SCAN CMOS, PEOPLE COUNTING BY DEEP LEAR",
+    "description": "hikvision dual lens, 1/2.7in progressive scan cmos, people counting by deep lear",
+    "lineIndex": 433145
+  },
+  {
+    "mfgpn": "ds-2cd5585g0-izhs8",
+    "sku": "6376227",
+    "brand": "hikvision",
+    "name": "OTDR DOME/DARKFIGHTER/8MP/H265+/8-32MM",
+    "description": "otdr dome/darkfighter/8mp/h265+/8-32mm",
+    "lineIndex": 433146
+  },
+  {
+    "mfgpn": "ds-2td8167-150ze2f/w(b)",
+    "sku": "7915197",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE:640X512 17  M VOX UFPA; 30-150MM (20.56 16.51 (H V) TO",
+    "description": "hikvision thermal module:640x512 17  m vox ufpa; 30-150mm (20.56 16.51 (h v) to",
+    "lineIndex": 433147
+  },
+  {
+    "mfgpn": "ds-2xm6726g0-im/nd(2.8mm)(ae)",
+    "sku": "7915237",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 1920 1080 @ 30FPS;",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 1920 1080 @ 30fps;",
+    "lineIndex": 433149
+  },
+  {
+    "mfgpn": "ds-2cd3146g2h-lisu 2.8mm",
+    "sku": "7915247",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOSH.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0.0",
+    "description": "hikvision 1/3in progressive scan cmosh.265+/h.265/h.264+/h.264/mjpeg; color: 0.0",
+    "lineIndex": 433150
+  },
+  {
+    "mfgpn": "ds-2cd3646g2ht-lizs(2.7-13.5mm)",
+    "sku": "7915257",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS;DC IRISH.265+/H.265/H.264+/H.264/MJPEG;",
+    "description": "hikvision 1/1.8in progressive scan cmos;dc irish.265+/h.265/h.264+/h.264/mjpeg;",
+    "lineIndex": 433151
+  },
+  {
+    "mfgpn": "eci-d24f2",
+    "sku": "6538637",
+    "brand": "hikvision",
+    "name": "IP DOME 4MP H265+30M IP67 POE/12VDC",
+    "description": "ip dome 4mp h265+30m ip67 poe/12vdc",
+    "lineIndex": 433152
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lisu/sl(2.8mm)",
+    "sku": "7957307",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE SL FIXED BULLET IPC",
+    "description": "hikvision 4mp acusense sl fixed bullet ipc",
+    "lineIndex": 433153
+  },
+  {
+    "mfgpn": "ds-2cd6d24fwd-izhs",
+    "sku": "6084667",
+    "brand": "hikvision",
+    "name": "TRUE WDR 8MP (4 X 1080P) 30 FPS 2.8-12MM",
+    "description": "true wdr 8mp (4 x 1080p) 30 fps 2.8-12mm",
+    "lineIndex": 433154
+  },
+  {
+    "mfgpn": "ds-2cd3d46g2t-izhsuy 2.8-12mm",
+    "sku": "7996797",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE VF DOME IPC HEATER",
+    "description": "hikvision 4mp acusense vf dome ipc heater",
+    "lineIndex": 433155
+  },
+  {
+    "mfgpn": "hikcentral-uvss-base",
+    "sku": "6188297",
+    "brand": "hikvision",
+    "name": "UNDER SURVEILLANCE SYSTEM BASE PACKAGE",
+    "description": "under surveillance system base package",
+    "lineIndex": 433156
+  },
+  {
+    "mfgpn": "ds-2xc6625g0-izhrs 2.8-12mm",
+    "sku": "6821167",
+    "brand": "hikvision",
+    "name": "HIKVISION 316L SS BL 2MP 2.8-12MM",
+    "description": "hikvision 316l ss bl 2mp 2.8-12mm",
+    "lineIndex": 433157
+  },
+  {
+    "mfgpn": "ds-2td6267-100c4l/w",
+    "sku": "6821187",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL TI 640W 100MM 4MPX 56X",
+    "description": "hikvision dual ti 640w 100mm 4mpx 56x",
+    "lineIndex": 433158
+  },
+  {
+    "mfgpn": "ds-2df6a436x-ael",
+    "sku": "6260097",
+    "brand": "hikvision",
+    "name": "OUTDOOR PTZ DOME,4MP,DARKFIGHTER,H.265+",
+    "description": "outdoor ptz dome,4mp,darkfighter,h.265+",
+    "lineIndex": 433159
+  },
+  {
+    "mfgpn": "ds-2cd2047g2h-liu/sl 2.8mm",
+    "sku": "7319607",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 2.8MM 4MP SHL",
+    "description": "hikvision ob bl 2.8mm 4mp shl",
+    "lineIndex": 433161
+  },
+  {
+    "mfgpn": "ds-2cd3346g2h-lisu/sl(2.8mm)(o-std)",
+    "sku": "8173957",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SMART HYBRID LIGHT FIXED TURRET, DARKFIGHTER S, ACUSENSE, 2.8MM, 1",
+    "description": "hikvision 4mp smart hybrid light fixed turret, darkfighter s, acusense, 2.8mm, 1",
+    "lineIndex": 433163
+  },
+  {
+    "mfgpn": "ds-2cd6825g0/c-ivs",
+    "sku": "6520697",
+    "brand": "hikvision",
+    "name": "DeepinView, Dual Lens People Counting by deep learning, outdoor, 2.0mm fixed, 3D",
+    "description": "deepinview, dual lens people counting by deep learning, outdoor, 2.0mm fixed, 3d",
+    "lineIndex": 433164
+  },
+  {
+    "mfgpn": "ds-2ce19u7t-ait3zf(2.7-13.5mm)",
+    "sku": "6889847",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K VFBULLET 2.8-12MM 60 METERS IR",
+    "description": "hikvision 4k vfbullet 2.8-12mm 60 meters ir",
+    "lineIndex": 433165
+  },
+  {
+    "mfgpn": "ds-2td1228-3/qa",
+    "sku": "6889857",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL TURRET 256 3.5MM",
+    "description": "hikvision thermal turret 256 3.5mm",
+    "lineIndex": 433166
+  },
+  {
+    "mfgpn": "ds-2cd2787g2t-lzs 2.8-12mm",
+    "sku": "7226787",
+    "brand": "hikvision",
+    "name": "ColorVu&AcuSense Outdoor VF Dome, 8MP, H265+, 2.8mm-12mm, Colorful day and night",
+    "description": "colorvu&acusense outdoor vf dome, 8mp, h265+, 2.8mm-12mm, colorful day and night",
+    "lineIndex": 433168
+  },
+  {
+    "mfgpn": "ds-2dp8a440ixg-lf/832(f0)(o-std)(b)",
+    "sku": "8193137",
+    "brand": "hikvision",
+    "name": "HIKVISION 32MP 360 W/ 40X PTZ",
+    "description": "hikvision 32mp 360 w/ 40x ptz",
+    "lineIndex": 433169
+  },
+  {
+    "mfgpn": "ds-2cd2647g2-lzs",
+    "sku": "6782337",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8 PROGRESSIVE SCAN CMOS H.265+/H.265/H.264+/H.264/MJPEG",
+    "description": "hikvision 1/1.8 progressive scan cmos h.265+/h.265/h.264+/h.264/mjpeg",
+    "lineIndex": 433170
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0e-s/rc 2mm",
+    "sku": "6491527",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD63C5G0E-S/RC 2MM 12MP indoor Fisheye camera, 2mm/F2.6 lens, 360",
+    "description": "hikvision ds-2cd63c5g0e-s/rc 2mm 12mp indoor fisheye camera, 2mm/f2.6 lens, 360",
+    "lineIndex": 433171
+  },
+  {
+    "mfgpn": "ds-2de2c400mwg-e 2.8mm",
+    "sku": "8194077",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP FIXED OUTDOOR SHL PT",
+    "description": "hikvision 4mp fixed outdoor shl pt",
+    "lineIndex": 433172
+  },
+  {
+    "mfgpn": "ids-2cd7546g0-izhsy",
+    "sku": "8006627",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8INCH PROGRESSIVE SCAN CMO",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8inch progressive scan cmo",
+    "lineIndex": 433174
+  },
+  {
+    "mfgpn": "ds-2cd2187g3-lis2uy 2.8mm",
+    "sku": "8295427",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SHL WITH COLORVU 3.0 FIXED IP DOME",
+    "description": "hikvision 8mp shl with colorvu 3.0 fixed ip dome",
+    "lineIndex": 433175
+  },
+  {
+    "mfgpn": "ds-2ce57d3t-vpitf 3.6mm",
+    "sku": "6315777",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR DOME,TURBOHD 4.0,2MP,3.6MM",
+    "description": "outdoor ir dome,turbohd 4.0,2mp,3.6mm",
+    "lineIndex": 433176
+  },
+  {
+    "mfgpn": "ds-2dy3220iw-de4",
+    "sku": "5911007",
+    "brand": "hikvision",
+    "name": "DS-2DY3220IW-DE4 - PTZ Camera - CMOS - 2MP - 4.7-94 mm - 20 x - 16x - High quali",
+    "description": "ds-2dy3220iw-de4 - ptz camera - cmos - 2mp - 4.7-94 mm - 20 x - 16x - high quali",
+    "lineIndex": 433177
+  },
+  {
+    "mfgpn": "ds-2df9c245ihs-dlw",
+    "sku": "6586237",
+    "brand": "hikvision",
+    "name": "Dual-sensor, 1/1.8 progressive scan CMOS;1080 resolution; Min. illumination: Col",
+    "description": "dual-sensor, 1/1.8 progressive scan cmos;1080 resolution; min. illumination: col",
+    "lineIndex": 433179
+  },
+  {
+    "mfgpn": "ipc-d149ha 2.8mm",
+    "sku": "7296467",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORU LITE 3-AXIS DOME IP67 4MP 2.8MM",
+    "description": "hikvision coloru lite 3-axis dome ip67 4mp 2.8mm",
+    "lineIndex": 433180
+  },
+  {
+    "mfgpn": "ds-2td2608-1/qa",
+    "sku": "7244507",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM NETWORK BULLET CAMERA",
+    "description": "hikvision thermal & optical bi-spectrum network bullet camera",
+    "lineIndex": 433181
+  },
+  {
+    "mfgpn": "ds-2cd2143g2-iu 4mm",
+    "sku": "6868747",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 4MP4MM",
+    "description": "hikvision acs dm ip67 4mp4mm",
+    "lineIndex": 433182
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is 2.8mm",
+    "sku": "6868757",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 IK08 4MP28MM",
+    "description": "hikvision acs dm ip67 ik08 4mp28mm",
+    "lineIndex": 433183
+  },
+  {
+    "mfgpn": "ds-2cd2743g2-izs",
+    "sku": "6868767",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 4MP 2.8-12MZ",
+    "description": "hikvision acs dm ip67 4mp 2.8-12mz",
+    "lineIndex": 433184
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lsu/sl 2.8mm(black)",
+    "sku": "7329427",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP COLORVU IP WITH LIVE GUARD",
+    "description": "hikvision 8mp colorvu ip with live guard",
+    "lineIndex": 433185
+  },
+  {
+    "mfgpn": "ds-2xs6a46g1-izs/c36s802.8-12",
+    "sku": "7329437",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 2.8-12MF SOLAR CAM",
+    "description": "hikvision 4mp 2.8-12mf solar cam",
+    "lineIndex": 433186
+  },
+  {
+    "mfgpn": "ds-2td4137-25/w",
+    "sku": "6709427",
+    "brand": "hikvision",
+    "name": "PTZ 384 W 25 MM 4MP 40X",
+    "description": "ptz 384 w 25 mm 4mp 40x",
+    "lineIndex": 433191
+  },
+  {
+    "mfgpn": "ids-2cd71c5g0-izs",
+    "sku": "6749497",
+    "brand": "hikvision",
+    "name": "DM IN 12MP 2.8-12 MZ IR",
+    "description": "dm in 12mp 2.8-12 mz ir",
+    "lineIndex": 433192
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-lu 2.8mm",
+    "sku": "6749507",
+    "brand": "hikvision",
+    "name": "OT BL 2.8MM 8MP 24HRX7 COLOR",
+    "description": "ot bl 2.8mm 8mp 24hrx7 color",
+    "lineIndex": 433193
+  },
+  {
+    "mfgpn": "ds-2ce16d3t-i3f 2.8mm",
+    "sku": "6315768",
+    "brand": "hikvision",
+    "name": "OUTDOOR MINI IR BULLET,TURBOHD 4.0",
+    "description": "outdoor mini ir bullet,turbohd 4.0",
+    "lineIndex": 442132
+  },
+  {
+    "mfgpn": "hikcentral-anpr-1ch",
+    "sku": "6595228",
+    "brand": "hikvision",
+    "name": "Support all functions of ANPR module and 1 ANPR camera manageble. Prerequisite:A",
+    "description": "support all functions of anpr module and 1 anpr camera manageble. prerequisite:a",
+    "lineIndex": 442145
+  },
+  {
+    "mfgpn": "hikcentral-p-vss-1ch/thrml&rpt",
+    "sku": "8006608",
+    "brand": "hikvision",
+    "name": "HIKVISION DESCRIPTION:THERMOGRAPHY THERMAL CAMERAS WITH REPORT",
+    "description": "hikvision description:thermography thermal cameras with report",
+    "lineIndex": 442147
+  },
+  {
+    "mfgpn": "hikcentral-l-vss-1ch/3rd-party",
+    "sku": "8253488",
+    "brand": "hikvision",
+    "name": "HIKVISION HCL VSS 3RD PTY CAMERA 1CH",
+    "description": "hikvision hcl vss 3rd pty camera 1ch",
+    "lineIndex": 442151
+  },
+  {
+    "mfgpn": "srs(us branch)",
+    "sku": "7914728",
+    "brand": "hikvision",
+    "name": "HIKVISION RAIN SHADE FOR OUTDOOR DOME CAMERAPLASTICHIKVISION WHITE",
+    "description": "hikvision rain shade for outdoor dome cameraplastichikvision white",
+    "lineIndex": 442164
+  },
+  {
+    "mfgpn": "ds-2272zj-kl(white)",
+    "sku": "7914748",
+    "brand": "hikvision",
+    "name": "HIKVISION 285.8 G (0.63 LB.)ALUMINUM ALLOYWHITE/BLACK157.4 MM 99 MM 62 MM (6.20I",
+    "description": "hikvision 285.8 g (0.63 lb.)aluminum alloywhite/black157.4 mm 99 mm 62 mm (6.20i",
+    "lineIndex": 442165
+  },
+  {
+    "mfgpn": "ds-2de2c400iwg-k/4g/c09s20(2.8mm)o-stdus",
+    "sku": "8193138",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SOLAR-POWERED SECURITY PT SETUP",
+    "description": "hikvision 4mp solar-powered security pt setup",
+    "lineIndex": 442184
+  },
+  {
+    "mfgpn": "ds-2cd2147g2-su 4mm",
+    "sku": "6668648",
+    "brand": "hikvision",
+    "name": "OT DM 4MM 4MP 24HRX7 COLOR",
+    "description": "ot dm 4mm 4mp 24hrx7 color",
+    "lineIndex": 442192
+  },
+  {
+    "mfgpn": "ds-2xm6222fwd-i 6mm",
+    "sku": "6749708",
+    "brand": "hikvision",
+    "name": "MOBILE 6MM 2MP H.265",
+    "description": "mobile 6mm 2mp h.265",
+    "lineIndex": 442194
+  },
+  {
+    "mfgpn": "ds-mp5604(1t)",
+    "sku": "6749778",
+    "brand": "hikvision",
+    "name": "4CH MDVR WIHT 1T HDD",
+    "description": "4ch mdvr wiht 1t hdd",
+    "lineIndex": 442195
+  },
+  {
+    "mfgpn": "ids-7608nxi-i2/x(c)",
+    "sku": "7915048",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING FEATURES FACIAL RECOGNITION FOR UP TO 16 CHANNELS PICTUR",
+    "description": "hikvision deep learning features facial recognition for up to 16 channels pictur",
+    "lineIndex": 442199
+  },
+  {
+    "mfgpn": "ids-7216hqhi-m2/s",
+    "sku": "7915158",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 16 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE IN",
+    "description": "hikvision 4-ch false alarm filter, 16 turbo hd/cvi / ahd / cvbs self-adaptive in",
+    "lineIndex": 442202
+  },
+  {
+    "mfgpn": "ds-7332hui-k4",
+    "sku": "6084668",
+    "brand": "hikvision",
+    "name": "TRIBRID DVR 32 TURBOHD/ANALOG NO HDD",
+    "description": "tribrid dvr 32 turbohd/analog no hdd",
+    "lineIndex": 442203
+  },
+  {
+    "mfgpn": "ds-7316hui-k4-2tb",
+    "sku": "6087548",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-7316HUI-K4-2TB TRIBRID DVR 16 UP TO 18-CH 8MP IP 2TB HDD - Support",
+    "description": "hikvision ds-7316hui-k4-2tb tribrid dvr 16 up to 18-ch 8mp ip 2tb hdd - support",
+    "lineIndex": 442204
+  },
+  {
+    "mfgpn": "ds-9632ni-i16",
+    "sku": "6034598",
+    "brand": "hikvision",
+    "name": "NVR 32CHANNEL H265 UP TO 12MP",
+    "description": "nvr 32channel h265 up to 12mp",
+    "lineIndex": 442205
+  },
+  {
+    "mfgpn": "nvr-208mh-c/8p",
+    "sku": "6964928",
+    "brand": "hikvision",
+    "name": "HIKVISION HILOOK NVR 8-CH 4K NVR",
+    "description": "hikvision hilook nvr 8-ch 4k nvr",
+    "lineIndex": 442206
+  },
+  {
+    "mfgpn": "ids-7316huhi-m4/s",
+    "sku": "7111228",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS 73DVR 16CH 5MP H265PRO+",
+    "description": "hikvision acs 73dvr 16ch 5mp h265pro+",
+    "lineIndex": 442207
+  },
+  {
+    "mfgpn": "ds-2ce76h0t-itmf 3.6mm",
+    "sku": "6586248",
+    "brand": "hikvision",
+    "name": "Outdoor EXIR Turret, 5MP, 30m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart IR, DNR, OSD",
+    "description": "outdoor exir turret, 5mp, 30m ir, icr, 0.01 lux/f1.2, 12 vdc, smart ir, dnr, osd",
+    "lineIndex": 442209
+  },
+  {
+    "mfgpn": "ds-2td4167-50/w",
+    "sku": "6709428",
+    "brand": "hikvision",
+    "name": "PTZ 640 W 50 MM 4MP 40X",
+    "description": "ptz 640 w 50 mm 4mp 40x",
+    "lineIndex": 442210
+  },
+  {
+    "mfgpn": "ds-2cd2743g2-izsb",
+    "sku": "6868768",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DMBK IP67 4MP 2.8-12MZ",
+    "description": "hikvision acs dmbk ip67 4mp 2.8-12mz",
+    "lineIndex": 442211
+  },
+  {
+    "mfgpn": "ds-2cd2d25g1-d/nf(3.7mm)",
+    "sku": "6889848",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP H265 MINI 2.8MM 12VDC",
+    "description": "hikvision 2mp h265 mini 2.8mm 12vdc",
+    "lineIndex": 442212
+  },
+  {
+    "mfgpn": "ds-2cd2783g2-izs black",
+    "sku": "7067258",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DMBK IP67 8MP 2.8-12MZ",
+    "description": "hikvision acs dmbk ip67 8mp 2.8-12mz",
+    "lineIndex": 442213
+  },
+  {
+    "mfgpn": "ds-2cd6924g0-ihs",
+    "sku": "7067288",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP67 8MP 180 DN POE",
+    "description": "hikvision dm ip67 8mp 180 dn poe",
+    "lineIndex": 442214
+  },
+  {
+    "mfgpn": "ds-2td2636b-15/p(b)",
+    "sku": "7067398",
+    "brand": "hikvision",
+    "name": "HIKVISION HIACCUBT THERMAL 0.5 C 15MM",
+    "description": "hikvision hiaccubt thermal 0.5 c 15mm",
+    "lineIndex": 442217
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(m12)(16mm)",
+    "sku": "7067418",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 442219
+  },
+  {
+    "mfgpn": "hm-tp23-10vf/w-m30",
+    "sku": "7067458",
+    "brand": "hikvision",
+    "name": "HIKVISION 384X288 THERMOGRAPHIC HANDHELD CAMERA",
+    "description": "hikvision 384x288 thermographic handheld camera",
+    "lineIndex": 442221
+  },
+  {
+    "mfgpn": "ds-2ce12hft-f28(2.8mm)(o-std)",
+    "sku": "8171308",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORVU 5MP 2.8MM 130DB 40M",
+    "description": "hikvision colorvu 5mp 2.8mm 130db 40m",
+    "lineIndex": 442222
+  },
+  {
+    "mfgpn": "ds-2cd2187g3-lis2uy 2.8mm(black)",
+    "sku": "8295428",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP SHL WITH COLORVU 3.0 FIXED IP DOME BLACK",
+    "description": "hikvision 8mp shl with colorvu 3.0 fixed ip dome black",
+    "lineIndex": 442223
+  },
+  {
+    "mfgpn": "ds-2cd2087g2h-liu/sl(4mm)(ef)",
+    "sku": "7914548",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 442224
+  },
+  {
+    "mfgpn": "ds-2cd2783g2-izs(2.8-12mm)(hik usa)black",
+    "sku": "7914558",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 442225
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lu(2.8mm)(c)",
+    "sku": "7914568",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 442226
+  },
+  {
+    "mfgpn": "ids-2cd7a47g0-xzhsy 2.8-12mm",
+    "sku": "7955828",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING OUTDOOR BULLET, COLORVU, SMART HYBRID LIGHT, 4MP, H265+,",
+    "description": "hikvision deep learning outdoor bullet, colorvu, smart hybrid light, 4mp, h265+,",
+    "lineIndex": 442227
+  },
+  {
+    "mfgpn": "ds-2de4a425iwg-e",
+    "sku": "7092398",
+    "brand": "hikvision",
+    "name": "HIKVISION PTZ 4MP25X 50MIR HIPOE/12VDC",
+    "description": "hikvision ptz 4mp25x 50mir hipoe/12vdc",
+    "lineIndex": 442228
+  },
+  {
+    "mfgpn": "ids-2cd7a86g0-izhsy(2.8-12mm)(c)",
+    "sku": "7914588",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS,ICR, COLOR:0.009LUX/F1.2, B/W:0.0009LUX/",
+    "description": "hikvision 1/1.8in progressive scan cmos,icr, color:0.009lux/f1.2, b/w:0.0009lux/",
+    "lineIndex": 442229
+  },
+  {
+    "mfgpn": "ds-2dy5225ix-ae",
+    "sku": "7092408",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP,25X, PAN-TILT SYSTEM",
+    "description": "hikvision 2mp,25x, pan-tilt system",
+    "lineIndex": 442230
+  },
+  {
+    "mfgpn": "ds-2ce57h0t-vpitf(2.8mm)(usa)(c)/black",
+    "sku": "7914628",
+    "brand": "hikvision",
+    "name": "HIKVISION 5 MP DOME CAMERAEXIR 2.0: ADVANCED INFRARED TECHNOLOGY WITH 20 M IR DI",
+    "description": "hikvision 5 mp dome cameraexir 2.0: advanced infrared technology with 20 m ir di",
+    "lineIndex": 442231
+  },
+  {
+    "mfgpn": "ds-2cd2647g2ht-lizs 2.8-12mm",
+    "sku": "7319618",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 2.8-12MZ 4MP SHL",
+    "description": "hikvision ob bl 2.8-12mz 4mp shl",
+    "lineIndex": 442234
+  },
+  {
+    "mfgpn": "ae-vc222t-its(2.1mm)(new)",
+    "sku": "7914778",
+    "brand": "hikvision",
+    "name": "HIKVISION ANALOG CAMERA",
+    "description": "hikvision analog camera",
+    "lineIndex": 442235
+  },
+  {
+    "mfgpn": "ds-2cd6924g0-ihsy(2.8mm)(c)",
+    "sku": "7914918",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW ILLUMINATION TECHNOLOGY, 180 HORIZONTAL PANORAMI",
+    "description": "hikvision darkfighter ultra-low illumination technology, 180 horizontal panorami",
+    "lineIndex": 442236
+  },
+  {
+    "mfgpn": "ds-2cd2583g2-is(4mm)",
+    "sku": "7914928",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 442237
+  },
+  {
+    "mfgpn": "ds-2cd5a85g0-izhs",
+    "sku": "6254798",
+    "brand": "hikvision",
+    "name": "OUTDOOR BULLET,8MP,H265+,2.8-12MM",
+    "description": "outdoor bullet,8mp,h265+,2.8-12mm",
+    "lineIndex": 442239
+  },
+  {
+    "mfgpn": "ds-2cd5a46g0-izhs(8-32mm)",
+    "sku": "7914948",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 442240
+  },
+  {
+    "mfgpn": "ids-2cd7146g0-izhsy(2.8-12mm)(d)",
+    "sku": "7914958",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, H.265+/H.265/H.264+/H.264/MJPE",
+    "description": "hikvision darkfighter ultra-low light technology, h.265+/h.265/h.264+/h.264/mjpe",
+    "lineIndex": 442241
+  },
+  {
+    "mfgpn": "ds-2cd2683g2-izs",
+    "sku": "7914968",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 442242
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lsu/sl(4mm)(c)",
+    "sku": "7914998",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 442245
+  },
+  {
+    "mfgpn": "ds-2xs2t47g1-ldh/4g/c18s40 4mm",
+    "sku": "7915008",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE CMOS; COLOR: 0.001 LUX @(F1.0, AGC ON), 0 LUX WITH L",
+    "description": "hikvision 1/3in progressive cmos; color: 0.001 lux @(f1.0, agc on), 0 lux with l",
+    "lineIndex": 442246
+  },
+  {
+    "mfgpn": "ds-2df5232x-ael(t5)",
+    "sku": "7915018",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 2 MP RESOLUTIO",
+    "description": "hikvision 1/2.8in progressive scan cmos high quality imaging with 2 mp resolutio",
+    "lineIndex": 442247
+  },
+  {
+    "mfgpn": "ds-2dy9240ix-a(t5)",
+    "sku": "7915028",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS UP TO 1920 1080 RESOLUTION MIN. ILLUMINA",
+    "description": "hikvision 1/1.8in progressive scan cmos up to 1920 1080 resolution min. illumina",
+    "lineIndex": 442248
+  },
+  {
+    "mfgpn": "ds-2ce78h0t-it3f(3.6mm)(c)",
+    "sku": "7915038",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR EXIR",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor exir",
+    "lineIndex": 442249
+  },
+  {
+    "mfgpn": "ds-2cd5185g0-izs",
+    "sku": "6255438",
+    "brand": "hikvision",
+    "name": "INDOOR DOME,DARKFIGHTER,8MP,H265+",
+    "description": "indoor dome,darkfighter,8mp,h265+",
+    "lineIndex": 442251
+  },
+  {
+    "mfgpn": "ds-2ce5ad3t-avpit3zfb(2.7-13.5mm)hikusa",
+    "sku": "7915118",
+    "brand": "hikvision",
+    "name": "HIKVISION 2 MP DOME CAMERASTRONG NIGHT PERFORMANCE, CAPTURING IMAGES IN ULTRA-LO",
+    "description": "hikvision 2 mp dome camerastrong night performance, capturing images in ultra-lo",
+    "lineIndex": 442252
+  },
+  {
+    "mfgpn": "ds-2ce12hft-f28(2.8mm)",
+    "sku": "7915128",
+    "brand": "hikvision",
+    "name": "HIKVISION 5M BSI CMOS SENSOR,5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT),OUTDOOR B",
+    "description": "hikvision 5m bsi cmos sensor,5mp@20fps, 4mp@25fps(p)/30fps(n)(default),outdoor b",
+    "lineIndex": 442253
+  },
+  {
+    "mfgpn": "ds-2xm6222g0-im/nd(2.8mm)(ae)",
+    "sku": "7915138",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.7IN PROGRESSIVE SCAN CMOS, ICR, UP TO 30M IR,",
+    "description": "hikvision new hardware design 1/2.7in progressive scan cmos, icr, up to 30m ir,",
+    "lineIndex": 442254
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivsm(2mm)(c)",
+    "sku": "7915148",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL LENS, 1/2.7IN PROGRESSIVE SCAN CMOS, PEOPLE COUNTING BY DEEP LEAR",
+    "description": "hikvision dual lens, 1/2.7in progressive scan cmos, people counting by deep lear",
+    "lineIndex": 442255
+  },
+  {
+    "mfgpn": "ds-2cd2545fwd-is 2.8mm",
+    "sku": "6327508",
+    "brand": "hikvision",
+    "name": "COMPACT DOME IP66 4MP 4MM WDR IR POE/12",
+    "description": "compact dome ip66 4mp 4mm wdr ir poe/12",
+    "lineIndex": 442256
+  },
+  {
+    "mfgpn": "ds-2td8167-190ze2f/wy(b)",
+    "sku": "7915198",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE:640X512 17  M VOX UFPA; 36-190MM (17.19 13.79 (H V) TO",
+    "description": "hikvision thermal module:640x512 17  m vox ufpa; 36-190mm (17.19 13.79 (h v) to",
+    "lineIndex": 442257
+  },
+  {
+    "mfgpn": "ds-2xm6726g0-im/nd(4mm)(ae)",
+    "sku": "7915238",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 1920 1080 @ 30FPS;",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 1920 1080 @ 30fps;",
+    "lineIndex": 442259
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lisu/sl(4mm)",
+    "sku": "7957308",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE SL FIXED BULLET IPC",
+    "description": "hikvision 4mp acusense sl fixed bullet ipc",
+    "lineIndex": 442260
+  },
+  {
+    "mfgpn": "ds-2cd3d86g2t-izhsuy 2.8-12mm",
+    "sku": "7996798",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE VF DOME IPC HEATER",
+    "description": "hikvision 8mp acusense vf dome ipc heater",
+    "lineIndex": 442261
+  },
+  {
+    "mfgpn": "ds-2cd2343g2-li2u 2.8mm(black)",
+    "sku": "7996818",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TR SHL 4MP 2.8MM BLK",
+    "description": "hikvision acs tr shl 4mp 2.8mm blk",
+    "lineIndex": 442262
+  },
+  {
+    "mfgpn": "ds-2cd2347g1-lu 4mm",
+    "sku": "6352558",
+    "brand": "hikvision",
+    "name": "1/1.8IN PROGRESSIVE SCAN CMOS/30FPS",
+    "description": "1/1.8in progressive scan cmos/30fps",
+    "lineIndex": 442265
+  },
+  {
+    "mfgpn": "ds-2cd6d54g1-izs",
+    "sku": "6520698",
+    "brand": "hikvision",
+    "name": "Mini PanoVu, 20MP (4 x 5MP), 30 FPS, 2.8-12mm Motorized Lens, Adjustable Camera",
+    "description": "mini panovu, 20mp (4 x 5mp), 30 fps, 2.8-12mm motorized lens, adjustable camera",
+    "lineIndex": 442267
+  },
+  {
+    "mfgpn": "ds-2de4a225iw-de",
+    "sku": "6219578",
+    "brand": "hikvision",
+    "name": "INDOOR/OUTDOOR PTZ DOME,2MP,25X LENS,23W",
+    "description": "indoor/outdoor ptz dome,2mp,25x lens,23w",
+    "lineIndex": 442268
+  },
+  {
+    "mfgpn": "ds-2de2a404iw-de3",
+    "sku": "6219848",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR PTZ,4MP,4X LENS,20M IR,265+",
+    "description": "hikvision outdoor ptz,4mp,4x lens,20m ir,265+",
+    "lineIndex": 442269
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-30(2.8mm)",
+    "sku": "6889828",
+    "brand": "hikvision",
+    "name": "HIKVISION CV 2MP 2.8MM IO POE/12DC",
+    "description": "hikvision cv 2mp 2.8mm io poe/12dc",
+    "lineIndex": 442271
+  },
+  {
+    "mfgpn": "ds-2td1228t-2/qa",
+    "sku": "6889858",
+    "brand": "hikvision",
+    "name": "HIKVISION TURRET 256 2.1MM  2 C",
+    "description": "hikvision turret 256 2.1mm  2 c",
+    "lineIndex": 442272
+  },
+  {
+    "mfgpn": "ds-2cd3346g2h-lisu 2.8mm",
+    "sku": "7275918",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP SMART HYBRID LIGHT FIXED TURRET NETWORK CAMERA",
+    "description": "hikvision 4 mp smart hybrid light fixed turret network camera",
+    "lineIndex": 442273
+  },
+  {
+    "mfgpn": "ds-2cd6d52g0-ihs 4mm",
+    "sku": "6526608",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD6D52G0-IHS 4MM 1/2.7IN PROGRESSIVE SCAN CMOS; DUAL LENS;FLEXIBLE",
+    "description": "hikvision ds-2cd6d52g0-ihs 4mm 1/2.7in progressive scan cmos; dual lens;flexible",
+    "lineIndex": 442275
+  },
+  {
+    "mfgpn": "ds-2xc6625g0-izhrs(8-32mm)",
+    "sku": "6919738",
+    "brand": "hikvision",
+    "name": "HIKVISION 316L SS BL 2MP 8 32MM",
+    "description": "hikvision 316l ss bl 2mp 8 32mm",
+    "lineIndex": 442276
+  },
+  {
+    "mfgpn": "ds-2cd6365g0e-s/rc 1.27mm",
+    "sku": "6491528",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD6365G0E-S/RC(1.27mm) 6MP indoor Fisheye camera, 1.27mm/F2.6 lens",
+    "description": "hikvision ds-2cd6365g0e-s/rc(1.27mm) 6mp indoor fisheye camera, 1.27mm/f2.6 lens",
+    "lineIndex": 442277
+  },
+  {
+    "mfgpn": "ds-2df8c442ixg-elw(o-std)",
+    "sku": "8194078",
+    "brand": "hikvision",
+    "name": "HIKVISION 8C 4MP 42X DARKFIGHTER IR PTZ",
+    "description": "hikvision 8c 4mp 42x darkfighter ir ptz",
+    "lineIndex": 442278
+  },
+  {
+    "mfgpn": "ds-2cd3786g2ht-lizsu(2.7-13.5mm)(o-std)",
+    "sku": "8174058",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS;DC IRISH.265+/H.265/H.264+/H.264/MJPEG;",
+    "description": "hikvision 1/1.8in progressive scan cmos;dc irish.265+/h.265/h.264+/h.264/mjpeg;",
+    "lineIndex": 442281
+  },
+  {
+    "mfgpn": "ds-2cc52d9t-avpit3zeb",
+    "sku": "6034568",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CC52D9T-AVPIT3ZEB - 2 MP PoC Vandal Motorized Varifocal Dome Camer",
+    "description": "hikvision ds-2cc52d9t-avpit3zeb - 2 mp poc vandal motorized varifocal dome camer",
+    "lineIndex": 442283
+  },
+  {
+    "mfgpn": "ds-2td2608-2/qa",
+    "sku": "7244508",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL & OPTICAL BI-SPECTRUM NETWORK BULLET CAMERA",
+    "description": "hikvision thermal & optical bi-spectrum network bullet camera",
+    "lineIndex": 442284
+  },
+  {
+    "mfgpn": "ds-2cd2143g0-ib(4mm)",
+    "sku": "7329418",
+    "brand": "hikvision",
+    "name": "HIKVISION DM IP67 4MP 4MM WDR POE/12",
+    "description": "hikvision dm ip67 4mp 4mm wdr poe/12",
+    "lineIndex": 442285
+  },
+  {
+    "mfgpn": "ds-2xs6a46g1-izs/c36s80 8-32",
+    "sku": "7329438",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 8-32MF SOLAR CAM",
+    "description": "hikvision 4mp 8-32mf solar cam",
+    "lineIndex": 442286
+  },
+  {
+    "mfgpn": "ds-2ce19d0t-vfit3f",
+    "sku": "7329458",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP MANUAL VARIFOCAL BULLET CAMERA",
+    "description": "hikvision 2mp manual varifocal bullet camera",
+    "lineIndex": 442288
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd 6.0mm",
+    "sku": "7329488",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP DOME M12",
+    "description": "hikvision 5mp dome m12",
+    "lineIndex": 442290
+  },
+  {
+    "mfgpn": "ids-2cd71c5g0-izs8",
+    "sku": "6749498",
+    "brand": "hikvision",
+    "name": "DM IN 12MP 8-32 MZ IR",
+    "description": "dm in 12mp 8-32 mz ir",
+    "lineIndex": 442294
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-lu 4mm",
+    "sku": "6749508",
+    "brand": "hikvision",
+    "name": "OT BL 2.8MM 8MP 24HRX7 COLOR",
+    "description": "ot bl 2.8mm 8mp 24hrx7 color",
+    "lineIndex": 442295
+  },
+  {
+    "mfgpn": "ds-2ce16h8t-it3f 3.6mm",
+    "sku": "6749688",
+    "brand": "hikvision",
+    "name": "OUT BUL 5MP 3.6MM F1.2 IP67",
+    "description": "out bul 5mp 3.6mm f1.2 ip67",
+    "lineIndex": 442297
+  },
+  {
+    "mfgpn": "ds-2ce16d9t-airazh",
+    "sku": "7293518",
+    "brand": "galaxy security",
+    "name": "SMARTEYES 2MP LPR BULLET TVI CAMERA",
+    "description": "smarteyes 2mp lpr bullet tvi camera",
+    "lineIndex": 445917
+  },
+  {
+    "mfgpn": "ipc-d149ha 4mm",
+    "sku": "7296468",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORU LITE 3-AXIS DOME IP67 4MP 4MM",
+    "description": "hikvision coloru lite 3-axis dome ip67 4mp 4mm",
+    "lineIndex": 449082
+  },
+  {
+    "mfgpn": "ds-2ce16d3t-i3f 3.6mm",
+    "sku": "6315769",
+    "brand": "hikvision",
+    "name": "OUTDOOR MINI IR BULLET,2MP,3.6MM",
+    "description": "outdoor mini ir bullet,2mp,3.6mm",
+    "lineIndex": 451196
+  },
+  {
+    "mfgpn": "eri-k108-p8",
+    "sku": "6740449",
+    "brand": "hikvision",
+    "name": "NVR 8-CH H264 INT 8PRT POE HDMI 1-SATA",
+    "description": "nvr 8-ch h264 int 8prt poe hdmi 1-sata",
+    "lineIndex": 451199
+  },
+  {
+    "mfgpn": "hikcentral-p-maintenance-1ch",
+    "sku": "7915219",
+    "brand": "hikvision",
+    "name": "HIKVISION VIDEO SURVEILLANCE EXPANSION PACKAGE; PREREQUISITE:VIDEO SURVEILLANCE",
+    "description": "hikvision video surveillance expansion package; prerequisite:video surveillance",
+    "lineIndex": 451208
+  },
+  {
+    "mfgpn": "ds-2tp-hf13-auf",
+    "sku": "7067399",
+    "brand": "hikvision",
+    "name": "HIKVISION HANDHELD 160X120 2.4INLCD",
+    "description": "hikvision handheld 160x120 2.4inlcd",
+    "lineIndex": 451217
+  },
+  {
+    "mfgpn": "ds-2907zj",
+    "sku": "6555549",
+    "brand": "hikvision",
+    "name": "TRIPOD W/1/4IN-20 UNC INTERFACE",
+    "description": "tripod w/1/4in-20 unc interface",
+    "lineIndex": 451236
+  },
+  {
+    "mfgpn": "srsb(us branch)",
+    "sku": "7914729",
+    "brand": "hikvision",
+    "name": "HIKVISION RAIN SHADE FOR OUTDOOR DOME CAMERAPLASTICHIKVISION WHITE",
+    "description": "hikvision rain shade for outdoor dome cameraplastichikvision white",
+    "lineIndex": 451240
+  },
+  {
+    "mfgpn": "ds-2te127-g4a",
+    "sku": "6559879",
+    "brand": "hikvision",
+    "name": "Black Body Calibrator, Accuracy 0.1 C (0.18 F), up to 50 C (122 F), Power Consum",
+    "description": "black body calibrator, accuracy 0.1 c (0.18 f), up to 50 c (122 f), power consum",
+    "lineIndex": 451245
+  },
+  {
+    "mfgpn": "eki-k164t412c",
+    "sku": "7914599",
+    "brand": "hikvision",
+    "name": "HIKVISION 12 X 4 MP COLORVU TURRET IPC1 X 16-CH 4K POE NVR",
+    "description": "hikvision 12 x 4 mp colorvu turret ipc1 x 16-ch 4k poe nvr",
+    "lineIndex": 451257
+  },
+  {
+    "mfgpn": "ids-9632nxi-m8/x",
+    "sku": "7319639",
+    "brand": "hikvision",
+    "name": "HIKVISION 32-CH 2U 8K DEEPINMIND NVR",
+    "description": "hikvision 32-ch 2u 8k deepinmind nvr",
+    "lineIndex": 451259
+  },
+  {
+    "mfgpn": "ids-7716nxi-i4/16p/x(c)",
+    "sku": "7915049",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING FEATURES FACIAL RECOGNITION FOR UP TO 16 CHANNELS PICTUR",
+    "description": "hikvision deep learning features facial recognition for up to 16 channels pictur",
+    "lineIndex": 451261
+  },
+  {
+    "mfgpn": "ds-7604nxi-k1/4p/usa-std/alarm/usa/2t",
+    "sku": "7915079",
+    "brand": "hikvision",
+    "name": "HIKVISION ALL-CH MOTION DETECTION 2.0UP TO 1-CH FALSE ALARM REDUCTION THROUGH HU",
+    "description": "hikvision all-ch motion detection 2.0up to 1-ch false alarm reduction through hu",
+    "lineIndex": 451263
+  },
+  {
+    "mfgpn": "ids-7216hqhi-m2/sus/16a+16/4alm/2t",
+    "sku": "7915159",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH FALSE ALARM FILTER, 16 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE IN",
+    "description": "hikvision 4-ch false alarm filter, 16 turbo hd/cvi / ahd / cvbs self-adaptive in",
+    "lineIndex": 451265
+  },
+  {
+    "mfgpn": "ds-7716ni-m4/16p-8tb",
+    "sku": "7158029",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 16CH 16POE UPTO 32MP8TB",
+    "description": "hikvision nvr 16ch 16poe upto 32mp8tb",
+    "lineIndex": 451266
+  },
+  {
+    "mfgpn": "ds-7316hqi-k4-2tb",
+    "sku": "6087509",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-7316HQI-K4-2TB 16 CH 1080P 1.5U H.265 DVR 2TB - 16 channels and 4 H",
+    "description": "hikvision ds-7316hqi-k4-2tb 16 ch 1080p 1.5u h.265 dvr 2tb - 16 channels and 4 h",
+    "lineIndex": 451267
+  },
+  {
+    "mfgpn": "ds-9032hui-k8",
+    "sku": "6087599",
+    "brand": "hikvision",
+    "name": "Tribrid DVR, 32 Channel TurboHD/Analog, Auto-Detect, H.265+,  1080p/3MP/4MP/5MP/",
+    "description": "tribrid dvr, 32 channel turbohd/analog, auto-detect, h.265+,  1080p/3mp/4mp/5mp/",
+    "lineIndex": 451268
+  },
+  {
+    "mfgpn": "ds-9632ni-m8",
+    "sku": "7258469",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 32CH UPTO 8K HDMI 0HDD",
+    "description": "hikvision nvr 32ch upto 8k hdmi 0hdd",
+    "lineIndex": 451269
+  },
+  {
+    "mfgpn": "ds-7608nxi-k2/8p",
+    "sku": "7092399",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH POE K SERIES ACUSENSE NVR",
+    "description": "hikvision 8-ch poe k series acusense nvr",
+    "lineIndex": 451270
+  },
+  {
+    "mfgpn": "dvr-208u-m1",
+    "sku": "7296469",
+    "brand": "hikvision",
+    "name": "HIKVISION 8-CH 5MP DVR",
+    "description": "hikvision 8-ch 5mp dvr",
+    "lineIndex": 451271
+  },
+  {
+    "mfgpn": "nvr-216mh-c/16p",
+    "sku": "6964929",
+    "brand": "hikvision",
+    "name": "HIKVISION HILOOK NVR 16-CH 4K NVR",
+    "description": "hikvision hilook nvr 16-ch 4k nvr",
+    "lineIndex": 451272
+  },
+  {
+    "mfgpn": "ids-9016huhi-m8/s",
+    "sku": "7111229",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS 90DVR 16CH 5MP H265PRO+",
+    "description": "hikvision acs 90dvr 16ch 5mp h265pro+",
+    "lineIndex": 451273
+  },
+  {
+    "mfgpn": "ds-2cd6d52g0-ihs",
+    "sku": "7067289",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL PANOVU O 2X5MP IR WDR",
+    "description": "hikvision dual panovu o 2x5mp ir wdr",
+    "lineIndex": 451275
+  },
+  {
+    "mfgpn": "ae-vc222t-its(2.1mm)",
+    "sku": "7067409",
+    "brand": "hikvision",
+    "name": "HIKVISION TURRET TVI 2MP OUTDOOR",
+    "description": "hikvision turret tvi 2mp outdoor",
+    "lineIndex": 451277
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(h)(m12)(12mm)",
+    "sku": "7067419",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 451278
+  },
+  {
+    "mfgpn": "ds-2cd2187g2-lsu(2.8mm)(c)(black)",
+    "sku": "7914549",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 451280
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-l(2.8mm)(c)",
+    "sku": "7914559",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 451281
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lu(4mm)(c)",
+    "sku": "7914569",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 451282
+  },
+  {
+    "mfgpn": "ids-2cd7a87g0-xzhsy 2.8-12mm",
+    "sku": "7955829",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEP LEARNING OUTDOOR BULLET, COLORVU, SMART HYBRID LIGHT, 4MP, H265+,",
+    "description": "hikvision deep learning outdoor bullet, colorvu, smart hybrid light, 4mp, h265+,",
+    "lineIndex": 451284
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-10(3.7mm)8m",
+    "sku": "7914589",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN PROGRESSIVE SCAN CMOS; 1920 1080 @ 30FPS; H.265/H.264/MJPEG; T",
+    "description": "hikvision 1/2.8in progressive scan cmos; 1920 1080 @ 30fps; h.265/h.264/mjpeg; t",
+    "lineIndex": 451286
+  },
+  {
+    "mfgpn": "ds-2cd3386g2h-lisu(2.8mm)",
+    "sku": "7914759",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOSH.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0",
+    "description": "hikvision 1/1.8in progressive scan cmosh.265+/h.265/h.264+/h.264/mjpeg; color: 0",
+    "lineIndex": 451288
+  },
+  {
+    "mfgpn": "ds-2cd2087g2h-liu/sl 2.8mm",
+    "sku": "7319609",
+    "brand": "hikvision",
+    "name": "HIKVISION BL 2.8MM 8MP SML",
+    "description": "hikvision bl 2.8mm 8mp sml",
+    "lineIndex": 451289
+  },
+  {
+    "mfgpn": "ds-2cd2687g2ht-lizs 2.8-12mm",
+    "sku": "7319619",
+    "brand": "hikvision",
+    "name": "HIKVISION OB BL 2.8-12MF 8MP SHL",
+    "description": "hikvision ob bl 2.8-12mf 8mp shl",
+    "lineIndex": 451290
+  },
+  {
+    "mfgpn": "ds-2cd5a46g0-iz/uh(2.8-12mm)",
+    "sku": "7914949",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, 1/1.8IN PROGRESSIVE SCAN CMOS,",
+    "description": "hikvision darkfighter ultra-low light technology, 1/1.8in progressive scan cmos,",
+    "lineIndex": 451291
+  },
+  {
+    "mfgpn": "ds-2cd2955fwd-is(1.05mm)",
+    "sku": "7914969",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.9IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/2.9in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 451292
+  },
+  {
+    "mfgpn": "ds-2td2367-50/py",
+    "sku": "7361409",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL NETWORK BULLET CAMERA",
+    "description": "hikvision thermal network bullet camera",
+    "lineIndex": 451295
+  },
+  {
+    "mfgpn": "ds-2df6a436x-ael(t5)",
+    "sku": "7915019",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS HIGH QUALITY IMAGING WITH 4 MP RESOLUTIO",
+    "description": "hikvision 1/1.8in progressive scan cmos high quality imaging with 4 mp resolutio",
+    "lineIndex": 451296
+  },
+  {
+    "mfgpn": "ds-2dy9250iax-a(t5)",
+    "sku": "7915029",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS UP TO 1920 1080 RESOLUTION MIN. ILLUMINA",
+    "description": "hikvision 1/1.8in progressive scan cmos up to 1920 1080 resolution min. illumina",
+    "lineIndex": 451297
+  },
+  {
+    "mfgpn": "ds-2ce79h0t-it3zf(2.7-13.5mm)(c)",
+    "sku": "7915039",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP@20FPS, 4MP@25FPS(P)/30FPS(N)(DEFAULT), EXIR, 40M IR, OUTDOOR EXIR,",
+    "description": "hikvision 5mp@20fps, 4mp@25fps(p)/30fps(n)(default), exir, 40m ir, outdoor exir,",
+    "lineIndex": 451298
+  },
+  {
+    "mfgpn": "ds-2xe6825g0-izhs(8-32mm)(b)",
+    "sku": "7915069",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264; 1920 1080@30FPS RESOLUTION;120DB WDR; IR RA",
+    "description": "hikvision h.265+/h.265/h.264+/h.264; 1920 1080@30fps resolution;120db wdr; ir ra",
+    "lineIndex": 451299
+  },
+  {
+    "mfgpn": "ds-2cd5a26g0-izhs",
+    "sku": "6255439",
+    "brand": "hikvision",
+    "name": "OUTDOOR BULLET,DARKFIGHTER,2MP,H265+",
+    "description": "outdoor bullet,darkfighter,2mp,h265+",
+    "lineIndex": 451300
+  },
+  {
+    "mfgpn": "ds-2ce76d3t-itmfb(2.8mm)(hik usa)",
+    "sku": "7915119",
+    "brand": "hikvision",
+    "name": "HIKVISION 2 MP TURRET CAMERASTRONG NIGHT PERFORMANCE, CAPTURING IMAGES IN ULTRA-",
+    "description": "hikvision 2 mp turret camerastrong night performance, capturing images in ultra-",
+    "lineIndex": 451301
+  },
+  {
+    "mfgpn": "ds-2ae4225t-d(e)",
+    "sku": "7915129",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/2.8IN CMOS, 1920X1080:30FPS, TVI & CVBS OUTPUT, 3D DNR, TRUE WDR, UL",
+    "description": "hikvision 1/2.8in cmos, 1920x1080:30fps, tvi & cvbs output, 3d dnr, true wdr, ul",
+    "lineIndex": 451302
+  },
+  {
+    "mfgpn": "ds-2xm6222g0-im/nd(4mm)(ae)",
+    "sku": "7915139",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.7IN PROGRESSIVE SCAN CMOS, ICR, UP TO 30M IR,",
+    "description": "hikvision new hardware design 1/2.7in progressive scan cmos, icr, up to 30m ir,",
+    "lineIndex": 451303
+  },
+  {
+    "mfgpn": "ds-2xm6825g0/c-ivs(2mm)(c)",
+    "sku": "7915149",
+    "brand": "hikvision",
+    "name": "HIKVISION DUAL LENS, 1/2.7IN PROGRESSIVE SCAN CMOS, PEOPLE COUNTING BY DEEP LEAR",
+    "description": "hikvision dual lens, 1/2.7in progressive scan cmos, people counting by deep lear",
+    "lineIndex": 451304
+  },
+  {
+    "mfgpn": "ds-2cd3686g2ht-lizs 2.7-13.5mm",
+    "sku": "8172129",
+    "brand": "hikvision",
+    "name": "HIKVISION 8 MP SMART HYBRID LIGHT MOTORIZED VARIFOCAL BULLET NETWORK",
+    "description": "hikvision 8 mp smart hybrid light motorized varifocal bullet network",
+    "lineIndex": 451306
+  },
+  {
+    "mfgpn": "ds-2td8167-230zg2f/wy",
+    "sku": "7915199",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE:640X512 17  M VOX UFPA; 23-2300MM (26.61 21.43 (H V) TO",
+    "description": "hikvision thermal module:640x512 17  m vox ufpa; 23-2300mm (26.61 21.43 (h v) to",
+    "lineIndex": 451307
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd(6mm)(c)",
+    "sku": "7915239",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.9IN PROGRESSIVE SCAN CMOS, 3072 2048 @ 20FPS,",
+    "description": "hikvision new hardware design 1/2.9in progressive scan cmos, 3072 2048 @ 20fps,",
+    "lineIndex": 451308
+  },
+  {
+    "mfgpn": "ds-2cd3346g2h-lisu(2.8mm)",
+    "sku": "7915249",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOSH.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0.0",
+    "description": "hikvision 1/3in progressive scan cmosh.265+/h.265/h.264+/h.264/mjpeg; color: 0.0",
+    "lineIndex": 451309
+  },
+  {
+    "mfgpn": "ds-2cd3746g2ht-lizsu 2.7-13.5mm",
+    "sku": "7915259",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS;DC IRISH.265+/H.265/H.264+/H.264/MJPEG;",
+    "description": "hikvision 1/1.8in progressive scan cmos;dc irish.265+/h.265/h.264+/h.264/mjpeg;",
+    "lineIndex": 451310
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lisu/sl 4mm",
+    "sku": "7996799",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE SL 4MM BULLET IPC",
+    "description": "hikvision 4mp acusense sl 4mm bullet ipc",
+    "lineIndex": 451311
+  },
+  {
+    "mfgpn": "ae-md5043-sd",
+    "sku": "7996809",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE DVR 4-CH HD TVI",
+    "description": "hikvision mobile dvr 4-ch hd tvi",
+    "lineIndex": 451312
+  },
+  {
+    "mfgpn": "ds-2cd2383g2-li2u 2.8mm(black)",
+    "sku": "7996819",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TR SHL 8MP 2.8MM BLK",
+    "description": "hikvision acs tr shl 8mp 2.8mm blk",
+    "lineIndex": 451313
+  },
+  {
+    "mfgpn": "ds-2xc6047g0-ls 2.8mm",
+    "sku": "8163939",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP POLYMER ANTI-CORROSION BULLET 2.8MM",
+    "description": "hikvision 4mp polymer anti-corrosion bullet 2.8mm",
+    "lineIndex": 451314
+  },
+  {
+    "mfgpn": "ds-2cd6w32fwd-ivs",
+    "sku": "5747629",
+    "brand": "hikvision",
+    "name": "INDOOR/OUTDOOR ULTRA WIDE ANGLE 23MP 15M",
+    "description": "indoor/outdoor ultra wide angle 23mp 15m",
+    "lineIndex": 451316
+  },
+  {
+    "mfgpn": "ds-2ce12df3t-fs 2.8mm",
+    "sku": "6889869",
+    "brand": "hikvision",
+    "name": "HIKVISION COLORVU 2MP 2.8M 130DB 40M",
+    "description": "hikvision colorvu 2mp 2.8m 130db 40m",
+    "lineIndex": 451319
+  },
+  {
+    "mfgpn": "ds-2td1228t-3/qa",
+    "sku": "6889859",
+    "brand": "hikvision",
+    "name": "HIKVISION TURRET 256 3.5MM  2 C",
+    "description": "hikvision turret 256 3.5mm  2 c",
+    "lineIndex": 451320
+  },
+  {
+    "mfgpn": "ds-2cd3646g2ht-lizs 2.7-13.5mm",
+    "sku": "7275919",
+    "brand": "hikvision",
+    "name": "HIKVISION 4 MP SMART HYBRID LIGHT MOTORIZED VARIFOCAL BULLET NETWORK",
+    "description": "hikvision 4 mp smart hybrid light motorized varifocal bullet network",
+    "lineIndex": 451321
+  },
+  {
+    "mfgpn": "ds-2td2667t-15/p",
+    "sku": "7259739",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMOGRAPHIC THERMAL & OPTICAL BI-SPECTRUM NETWORK BULLET CAMERA",
+    "description": "hikvision thermographic thermal & optical bi-spectrum network bullet camera",
+    "lineIndex": 451324
+  },
+  {
+    "mfgpn": "ae-vc222t-its(2.8mm)(new)",
+    "sku": "7914779",
+    "brand": "hikvision",
+    "name": "HIKVISION ANALOG CAMERA",
+    "description": "hikvision analog camera",
+    "lineIndex": 451325
+  },
+  {
+    "mfgpn": "ds-2cd6984g0-ihs(2.8mm)(d)",
+    "sku": "7914919",
+    "brand": "hikvision",
+    "name": "HIKVISION 180 HORIZONTAL PANORAMIC MONITORING;2.8MM LENS; H.265/H.264; 0-90 TILT",
+    "description": "hikvision 180 horizontal panoramic monitoring;2.8mm lens; h.265/h.264; 0-90 tilt",
+    "lineIndex": 451326
+  },
+  {
+    "mfgpn": "ds-2cd6d52g0-ihs 6mm",
+    "sku": "6526609",
+    "brand": "hikvision",
+    "name": "Dual-directional PanoVu,10MP (2 x 5MP),30 FPS,6mm Lens,3 gimbals Adjustable Came",
+    "description": "dual-directional panovu,10mp (2 x 5mp),30 fps,6mm lens,3 gimbals adjustable came",
+    "lineIndex": 451327
+  },
+  {
+    "mfgpn": "ds-2cd63c5g0e-is 2mm",
+    "sku": "6491529",
+    "brand": "hikvision",
+    "name": "HIKVISION DS-2CD63C5G0E-IS 2MM 12MP indoor Fisheye camera, 2mm/F2.8 lens, 360 Pa",
+    "description": "hikvision ds-2cd63c5g0e-is 2mm 12mp indoor fisheye camera, 2mm/f2.8 lens, 360 pa",
+    "lineIndex": 451329
+  },
+  {
+    "mfgpn": "ds-2de5425iwg-k/4g",
+    "sku": "8177619",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 25X SOLAR PTZ 360WH",
+    "description": "hikvision 4mp 25x solar ptz 360wh",
+    "lineIndex": 451330
+  },
+  {
+    "mfgpn": "ds-2df5232x-ae3",
+    "sku": "6029189",
+    "brand": "hikvision",
+    "name": "Model DS-2DF5232X-AE3 - Dome Camera - CMOS - 2MP - 4.8 - 153 mm - 32 x - 16x - D",
+    "description": "model ds-2df5232x-ae3 - dome camera - cmos - 2mp - 4.8 - 153 mm - 32 x - 16x - d",
+    "lineIndex": 451332
+  },
+  {
+    "mfgpn": "ds-2dy9250iax-a",
+    "sku": "6029199",
+    "brand": "hikvision",
+    "name": "DS-2DY9250IAX-A - PTZ Camera - CMOS - Effective Sensor Resolution: 2 - 6.6 mm -",
+    "description": "ds-2dy9250iax-a - ptz camera - cmos - effective sensor resolution: 2 - 6.6 mm -",
+    "lineIndex": 451333
+  },
+  {
+    "mfgpn": "ds-2cd3146g2-ims 2.8mm",
+    "sku": "8195129",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP ACUSENSE HDMI DOME 2.8MM",
+    "description": "hikvision 4mp acusense hdmi dome 2.8mm",
+    "lineIndex": 451334
+  },
+  {
+    "mfgpn": "ds-2cd2347g2h-lisu/sl(2.8)/ef/o-std/blk",
+    "sku": "8195139",
+    "brand": "hikvision",
+    "name": "HIKVISION OT TR 2.8MM 4MP SHL BLK",
+    "description": "hikvision ot tr 2.8mm 4mp shl blk",
+    "lineIndex": 451335
+  },
+  {
+    "mfgpn": "ds-2ce5ad3t-avpit3zf",
+    "sku": "6315779",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR DOME,2MP,2.7-13.5MM",
+    "description": "outdoor ir dome,2mp,2.7-13.5mm",
+    "lineIndex": 451336
+  },
+  {
+    "mfgpn": "ds-2dt6232x-aely",
+    "sku": "6936309",
+    "brand": "hikvision",
+    "name": "HIKVISION PTZ OUT SS 2MP 32X WDR HIPOE",
+    "description": "hikvision ptz out ss 2mp 32x wdr hipoe",
+    "lineIndex": 451337
+  },
+  {
+    "mfgpn": "ds-2ae5232t-a",
+    "sku": "6243179",
+    "brand": "hikvision",
+    "name": "OUTDOOR PTZ,5-INCH,TURBOHD,2MP,DAY/NIGHT",
+    "description": "outdoor ptz,5-inch,turbohd,2mp,day/night",
+    "lineIndex": 451339
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-is 4mm",
+    "sku": "6868759",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 IK08 4MP4MM",
+    "description": "hikvision acs dm ip67 ik08 4mp4mm",
+    "lineIndex": 451340
+  },
+  {
+    "mfgpn": "ds-2xc6244g0-l",
+    "sku": "7329439",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP 8-32MF SOLAR CAM",
+    "description": "hikvision 4mp 8-32mf solar cam",
+    "lineIndex": 451341
+  },
+  {
+    "mfgpn": "ds-2ce59u7t-avpit3zf(2.7-13.5)",
+    "sku": "7329459",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K VFDOME, 2.8-12MM",
+    "description": "hikvision 4k vfdome, 2.8-12mm",
+    "lineIndex": 451343
+  },
+  {
+    "mfgpn": "ds-2xm6756g0-im/nd 8.0mm",
+    "sku": "7329489",
+    "brand": "hikvision",
+    "name": "HIKVISION 5MP DOME M12",
+    "description": "hikvision 5mp dome m12",
+    "lineIndex": 451344
+  },
+  {
+    "mfgpn": "ds-2tx3742-35a/p",
+    "sku": "6709429",
+    "brand": "hikvision",
+    "name": "LINKAGE 384 35 MM 4MP 42X",
+    "description": "linkage 384 35 mm 4mp 42x",
+    "lineIndex": 451347
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-l 2.8mm",
+    "sku": "6668649",
+    "brand": "hikvision",
+    "name": "OT BL 2.8MM 8MP 24HRX7 COLOR",
+    "description": "ot bl 2.8mm 8mp 24hrx7 color",
+    "lineIndex": 451348
+  },
+  {
+    "mfgpn": "ids-2cd7546g0-izhs",
+    "sku": "6749499",
+    "brand": "hikvision",
+    "name": "DM 4M 2.8-12MZ DN WDR IR",
+    "description": "dm 4m 2.8-12mz dn wdr ir",
+    "lineIndex": 451349
+  },
+  {
+    "mfgpn": "ds-2td2866-50/v1",
+    "sku": "6749729",
+    "brand": "hikvision",
+    "name": "DUAL TI 640 50MM 2MP 13MM",
+    "description": "dual ti 640 50mm 2mp 13mm",
+    "lineIndex": 451353
+  },
+  {
+    "mfgpn": "ds-2fp2020",
+    "sku": "7293969",
+    "brand": "galaxy security",
+    "name": "SMARTEYES MICROPHONE",
+    "description": "smarteyes microphone",
+    "lineIndex": 455018
+  },
+  {
+    "mfgpn": "ids-7204huhi-m1/s",
+    "sku": "7158030",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DVR 4-CH 5MP H.265",
+    "description": "hikvision acs dvr 4-ch 5mp h.265",
+    "lineIndex": 459822
+  },
+  {
+    "mfgpn": "ds-2cd2743g2-izs(2.8-12mm)",
+    "sku": "7067260",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS DM IP67 4MP 2.8-12MZ",
+    "description": "hikvision acs dm ip67 4mp 2.8-12mz",
+    "lineIndex": 459823
+  },
+  {
+    "mfgpn": "ds-2xm6726g1-im/nd(2.8mm)",
+    "sku": "7914700",
+    "brand": "hikvision",
+    "name": "HIKVISION IPC",
+    "description": "hikvision ipc",
+    "lineIndex": 459824
+  },
+  {
+    "mfgpn": "ds-2td5537t-15/w",
+    "sku": "7361410",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL AND OPTICAL BI-SPECTRUM NETWORK POSITIONING SYSTEM",
+    "description": "hikvision thermal and optical bi-spectrum network positioning system",
+    "lineIndex": 459825
+  },
+  {
+    "mfgpn": "ds-2cd3t86g2h-lisu/sl 4mm",
+    "sku": "7996800",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE SL 4MM BULLET IPC",
+    "description": "hikvision 8mp acusense sl 4mm bullet ipc",
+    "lineIndex": 459826
+  },
+  {
+    "mfgpn": "ds-2dy9250x-a",
+    "sku": "6029200",
+    "brand": "hikvision",
+    "name": "DS-2DY9250X-A - PTZ Camera - CMOS - Effective Sensor Resolution: 2 - 6.6 mm - 50",
+    "description": "ds-2dy9250x-a - ptz camera - cmos - effective sensor resolution: 2 - 6.6 mm - 50",
+    "lineIndex": 459827
+  },
+  {
+    "mfgpn": "ds-2cd2t87g2-l 4mm",
+    "sku": "6749510",
+    "brand": "hikvision",
+    "name": "OTLBL 4MM 8MP 24HRX7 COLOR",
+    "description": "otlbl 4mm 8mp 24hrx7 color",
+    "lineIndex": 459828
+  },
+  {
+    "mfgpn": "ids-2cd8a46g0/sc-xzy(2.8-12mm)(o-std)",
+    "sku": "8193141",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP DEEPINVIEW SELF-CLEANING BULLET",
+    "description": "hikvision 4mp deepinview self-cleaning bullet",
+    "lineIndex": 461470
+  },
+  {
+    "mfgpn": "ids-7204hqhi-m1/s/usa-std/c/us/4a+alm/1t",
+    "sku": "7915151",
+    "brand": "hikvision",
+    "name": "HIKVISION 2-CH FALSE ALARM FILTER, 4 TURBO HD/CVI / AHD / CVBS SELF-ADAPTIVE INT",
+    "description": "hikvision 2-ch false alarm filter, 4 turbo hd/cvi / ahd / cvbs self-adaptive int",
+    "lineIndex": 461471
+  },
+  {
+    "mfgpn": "ds-7608ni-i2/8p-2tb",
+    "sku": "5718721",
+    "brand": "hikvision",
+    "name": "HIKVISION NVR 8-CHANNEL H264+/H264/H265 2-SATA 2TB",
+    "description": "hikvision nvr 8-channel h264+/h264/h265 2-sata 2tb",
+    "lineIndex": 461472
+  },
+  {
+    "mfgpn": "ids-2cd7a86g0-izhsy",
+    "sku": "6950581",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP H265+ 2.8-12MM POE/12VDC DEEP LEARNING OTD BULLET MOTORIZED ZOOM/F",
+    "description": "hikvision 8mp h265+ 2.8-12mm poe/12vdc deep learning otd bullet motorized zoom/f",
+    "lineIndex": 461474
+  },
+  {
+    "mfgpn": "ds-2ce5ad8t-vpit3ze(2.7-13.5mm)",
+    "sku": "7067331",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR IR DOME TURBOHD 4.0 HD-TVI/AHD/HD-CVI/CVBS 2MP 2.7-13.5MM",
+    "description": "hikvision outdoor ir dome turbohd 4.0 hd-tvi/ahd/hd-cvi/cvbs 2mp 2.7-13.5mm",
+    "lineIndex": 461475
+  },
+  {
+    "mfgpn": "ds-2cd2023g0-i 4mm",
+    "sku": "6255411",
+    "brand": "hikvision",
+    "name": "HIKVISION OUTDOOR BULLET,2MP/1080P,H265+,4MM",
+    "description": "hikvision outdoor bullet,2mp/1080p,h265+,4mm",
+    "lineIndex": 461477
+  },
+  {
+    "mfgpn": "ds-2xe6025g0-is(4mm)",
+    "sku": "6745441",
+    "brand": "hikvision",
+    "name": "CAMERA 2MP EXPLOSION-PROOF",
+    "description": "camera 2mp explosion-proof",
+    "lineIndex": 461478
+  },
+  {
+    "mfgpn": "ds-2ce5ad3t-avpit3zfb",
+    "sku": "6395952",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR BLK DOME/2MP/2.7-13.5MM",
+    "description": "outdoor ir blk dome/2mp/2.7-13.5mm",
+    "lineIndex": 463788
+  },
+  {
+    "mfgpn": "ds-2cd2387g2-lsu/sl(4mm)(c)",
+    "sku": "7914572",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.2IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG; COLOR:",
+    "description": "hikvision 1/1.2in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg; color:",
+    "lineIndex": 463794
+  },
+  {
+    "mfgpn": "ds-2cd2647g2ht-lizs(2.8-12mm)(ef)",
+    "sku": "7914962",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 463795
+  },
+  {
+    "mfgpn": "ds-2cd3t46g2h-lis(2.8mm)",
+    "sku": "7915262",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOSH.265+/H.265/H.264+/H.264/MJPEG; COLOR: 0.0",
+    "description": "hikvision 1/3in progressive scan cmosh.265+/h.265/h.264+/h.264/mjpeg; color: 0.0",
+    "lineIndex": 463796
+  },
+  {
+    "mfgpn": "ds-2xm6726g1-im/nd 2.8mm",
+    "sku": "7911652",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP MOBILE DOME CAMERA",
+    "description": "hikvision 2mp mobile dome camera",
+    "lineIndex": 463797
+  },
+  {
+    "mfgpn": "pci-d18z8hs 8-32mm",
+    "sku": "7329432",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP ACUSENSE DOME HEATER 8-32",
+    "description": "hikvision 8mp acusense dome heater 8-32",
+    "lineIndex": 463798
+  },
+  {
+    "mfgpn": "ds-2ce59u7t-avpit3zf(2.7-13.5mm)",
+    "sku": "6889833",
+    "brand": "hikvision",
+    "name": "HIKVISION 4K VFDOME 2.8-12MM",
+    "description": "hikvision 4k vfdome 2.8-12mm",
+    "lineIndex": 464846
+  },
+  {
+    "mfgpn": "ds-7608ni-m2/8p-2t",
+    "sku": "7915043",
+    "brand": "hikvision",
+    "name": "HIKVISION 128MBPS BIT RATE INPUT MAX(UP TO 8-CH IP VIDEO),8X8MP DECODING CAPABIL",
+    "description": "hikvision 128mbps bit rate input max(up to 8-ch ip video),8x8mp decoding capabil",
+    "lineIndex": 464850
+  },
+  {
+    "mfgpn": "ae-vc253t-it 2.8mm(mirror)",
+    "sku": "7067413",
+    "brand": "hikvision",
+    "name": "HIKVISION REAR VIEW CAMERA 2MP",
+    "description": "hikvision rear view camera 2mp",
+    "lineIndex": 464851
+  },
+  {
+    "mfgpn": "ds-2cd2543g2-iws(2.8mm)",
+    "sku": "7914923",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/3IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR: 0.",
+    "description": "hikvision 1/3in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color: 0.",
+    "lineIndex": 464852
+  },
+  {
+    "mfgpn": "ds-2cd2183g2-lis2u 2.8mm",
+    "sku": "8003573",
+    "brand": "hikvision",
+    "name": "HIKVISION 8 MP ACUSENSE SMART HYBRID LIGHT FIXED DOME NETWORK CAMERA",
+    "description": "hikvision 8 mp acusense smart hybrid light fixed dome network camera",
+    "lineIndex": 464854
+  },
+  {
+    "mfgpn": "ds-2ce57d3t-vpitf 2.8mm",
+    "sku": "8195143",
+    "brand": "hikvision",
+    "name": "HIKVISION 2MP CMOS SENSOR, 1080P@25FPS(P)(DEFAULT)/30FPS(N), EXIR, 70M IR, OUTDO",
+    "description": "hikvision 2mp cmos sensor, 1080p@25fps(p)(default)/30fps(n), exir, 70m ir, outdo",
+    "lineIndex": 464855
+  },
+  {
+    "mfgpn": "ds-2cd6365g1-ivs(1.16mm)(o-std)",
+    "sku": "8224663",
+    "brand": "hikvision",
+    "name": "HIKVISION 6MP OUTDOOR FISHEYE CAMERA",
+    "description": "hikvision 6mp outdoor fisheye camera",
+    "lineIndex": 464856
+  },
+  {
+    "mfgpn": "ids-7716nxi-m4/16p/x",
+    "sku": "7361214",
+    "brand": "hikvision",
+    "name": "HIKVISION DEEPINMIND NVR, 16-CHANNEL, UP TO 16-CH PERIMETER PROTECTION, UP TO 16",
+    "description": "hikvision deepinmind nvr, 16-channel, up to 16-ch perimeter protection, up to 16",
+    "lineIndex": 465781
+  },
+  {
+    "mfgpn": "ds-2cd2087g2-l",
+    "sku": "7067264",
+    "brand": "hikvision",
+    "name": "HIKVISION OT BL 2.8MM 8MP 24HRX7 COLOR",
+    "description": "hikvision ot bl 2.8mm 8mp 24hrx7 color",
+    "lineIndex": 465782
+  },
+  {
+    "mfgpn": "ae-vc583i-is/p(v)(rj45)(16mm)",
+    "sku": "7092384",
+    "brand": "hikvision",
+    "name": "HIKVISION MOBILE ANPR CAMERA",
+    "description": "hikvision mobile anpr camera",
+    "lineIndex": 465783
+  },
+  {
+    "mfgpn": "ds-2td4167-50/wy(b)",
+    "sku": "7915134",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL MODULE:640X512 17  M VOX UFPA; 50MM (12.42 9.95 (H V));OPTICAL",
+    "description": "hikvision thermal module:640x512 17  m vox ufpa; 50mm (12.42 9.95 (h v));optical",
+    "lineIndex": 465784
+  },
+  {
+    "mfgpn": "ds-2cd2387g2p-lsu/sl(4mm)",
+    "sku": "8172634",
+    "brand": "hikvision",
+    "name": "HIKVISION 8MP TR COLORVU PANAROMIC",
+    "description": "hikvision 8mp tr colorvu panaromic",
+    "lineIndex": 465785
+  },
+  {
+    "mfgpn": "ds-2td2628t-7/qa",
+    "sku": "6889864",
+    "brand": "hikvision",
+    "name": "HIKVISION BULLET 256 7MM  2 C",
+    "description": "hikvision bullet 256 7mm  2 c",
+    "lineIndex": 465786
+  },
+  {
+    "mfgpn": "ds-2dp1618zixs-de/440(f0)(p4)",
+    "sku": "7915024",
+    "brand": "hikvision",
+    "name": "HIKVISION PANORAMIC CAMERA:4 1/1.8IN CMOS, 16MP @30FPS, H.265+,HORIZONTAL ANGLE",
+    "description": "hikvision panoramic camera:4 1/1.8in cmos, 16mp @30fps, h.265+,horizontal angle",
+    "lineIndex": 465787
+  },
+  {
+    "mfgpn": "ids-2cd7186g0-izs 2.8-12mm",
+    "sku": "7329434",
+    "brand": "hikvision",
+    "name": "HIKVISION DM 8MP 2.8-12MZ IR40M",
+    "description": "hikvision dm 8mp 2.8-12mz ir40m",
+    "lineIndex": 465788
+  },
+  {
+    "mfgpn": "ds-2ce16d9t-airazh",
+    "sku": "5708305",
+    "brand": "hikvision",
+    "name": "OUTDOOR IR BULLET 5-50MM MOTORIZED ZOOM",
+    "description": "outdoor ir bullet 5-50mm motorized zoom",
+    "lineIndex": 466712
+  },
+  {
+    "mfgpn": "ds-7616ni-m2/16p-4t",
+    "sku": "7915045",
+    "brand": "hikvision",
+    "name": "HIKVISION 256MBPS BIT RATE INPUT MAX(UP TO 16-CH IP VIDEO),16X4MP DECODING CAPAB",
+    "description": "hikvision 256mbps bit rate input max(up to 16-ch ip video),16x4mp decoding capab",
+    "lineIndex": 466715
+  },
+  {
+    "mfgpn": "ds-2cd2387g2h-lisu/sl 2.8mm",
+    "sku": "8169665",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.8IN PROGRESSIVE SCAN CMOS; H.265+/H.265/H.264+/H.264/MJPEG;COLOR:",
+    "description": "hikvision 1/1.8in progressive scan cmos; h.265+/h.265/h.264+/h.264/mjpeg;color:",
+    "lineIndex": 466716
+  },
+  {
+    "mfgpn": "ae-vc243t-s",
+    "sku": "7092385",
+    "brand": "hikvision",
+    "name": "HIKVISION CYLINDRICAL REAR CAMERA",
+    "description": "hikvision cylindrical rear camera",
+    "lineIndex": 466717
+  },
+  {
+    "mfgpn": "ds-2df9c245ihs-dlw(t2)",
+    "sku": "7915025",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTERX DUAL-SENSOR, 1/1.8IN PROGRESSIVE SCAN CMOSFULL-COLOR IMAG",
+    "description": "hikvision darkfighterx dual-sensor, 1/1.8in progressive scan cmosfull-color imag",
+    "lineIndex": 466718
+  },
+  {
+    "mfgpn": "ds-2cd2t47g2-l 4mm",
+    "sku": "6821165",
+    "brand": "hikvision",
+    "name": "HIKVISION OTBL 4MP 4MM 24HRX7 COLOR",
+    "description": "hikvision otbl 4mp 4mm 24hrx7 color",
+    "lineIndex": 466719
+  },
+  {
+    "mfgpn": "ds-2cd2347g2-lu 2.8mm (black)",
+    "sku": "6782335",
+    "brand": "hikvision",
+    "name": "HIKVISION TR2.8MM4MP24HR 7COLOR MICBLK",
+    "description": "hikvision tr2.8mm4mp24hr 7color micblk",
+    "lineIndex": 466720
+  },
+  {
+    "mfgpn": "hikcentral-p-bwc-1ch",
+    "sku": "7915216",
+    "brand": "hikvision",
+    "name": "HIKVISION DESCRIPTION:BODY WORN CAMERA MANAGEMENT; PREREQUISITE:ANY KIND OF BASE",
+    "description": "hikvision description:body worn camera management; prerequisite:any kind of base",
+    "lineIndex": 467715
+  },
+  {
+    "mfgpn": "ds-2td2617b-3/pa",
+    "sku": "6749746",
+    "brand": "hikvision",
+    "name": "HIACCUTHERMAL 0.5 3MM",
+    "description": "hiaccuthermal 0.5 3mm",
+    "lineIndex": 467718
+  },
+  {
+    "mfgpn": "ids-9032huhi-m8/s",
+    "sku": "7111226",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS 90DVR 32CH 5MP H265PRO+",
+    "description": "hikvision acs 90dvr 32ch 5mp h265pro+",
+    "lineIndex": 467719
+  },
+  {
+    "mfgpn": "ds-2cd5546g0-izhs8",
+    "sku": "6376226",
+    "brand": "hikvision",
+    "name": "OTDR DOME/DARKFIGHTER/4MP/H265+/8-32MM",
+    "description": "otdr dome/darkfighter/4mp/h265+/8-32mm",
+    "lineIndex": 467721
+  },
+  {
+    "mfgpn": "ds-2cd5ac5g0-izhs(2.8-12mm)(b)",
+    "sku": "7914576",
+    "brand": "hikvision",
+    "name": "HIKVISION 1/1.7IN PROGRESSIVE SCAN CMOS,ICR, COLOR:0.009LUX/F1.2, B/W:0.0009LUX/",
+    "description": "hikvision 1/1.7in progressive scan cmos,icr, color:0.009lux/f1.2, b/w:0.0009lux/",
+    "lineIndex": 467722
+  },
+  {
+    "mfgpn": "ds-2td1228-2/qa",
+    "sku": "6889856",
+    "brand": "hikvision",
+    "name": "HIKVISION THERMAL TURRET 256 2.1MM",
+    "description": "hikvision thermal turret 256 2.1mm",
+    "lineIndex": 467723
+  },
+  {
+    "mfgpn": "ds-2cd2147g2h-lisu 2.8mm",
+    "sku": "8195136",
+    "brand": "hikvision",
+    "name": "HIKVISION OD DM 2.8MM 4MP SHL",
+    "description": "hikvision od dm 2.8mm 4mp shl",
+    "lineIndex": 467724
+  },
+  {
+    "mfgpn": "hl-nvr-104mh-c/4p",
+    "sku": "7067317",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH NVR",
+    "description": "hikvision 4-ch nvr",
+    "lineIndex": 468598
+  },
+  {
+    "mfgpn": "ids-7332hqhi-m4/s",
+    "sku": "7111227",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS 73DVR 32CH 4MP H265PRO+",
+    "description": "hikvision acs 73dvr 32ch 4mp h265pro+",
+    "lineIndex": 468599
+  },
+  {
+    "mfgpn": "ds-2xm6122g0-im/nd(2.8mm)(ae)",
+    "sku": "7915137",
+    "brand": "hikvision",
+    "name": "HIKVISION NEW HARDWARE DESIGN 1/2.8IN PROGRESSIVE SCAN CMOS, ICR, 0LUX WITH IR,H",
+    "description": "hikvision new hardware design 1/2.8in progressive scan cmos, icr, 0lux with ir,h",
+    "lineIndex": 468602
+  },
+  {
+    "mfgpn": "ds-2cd2343g2-li2u 2.8mm",
+    "sku": "7996817",
+    "brand": "hikvision",
+    "name": "HIKVISION ACS TR SHL 4MP 2.8MM",
+    "description": "hikvision acs tr shl 4mp 2.8mm",
+    "lineIndex": 468603
+  },
+  {
+    "mfgpn": "nks424w03h",
+    "sku": "8313747",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH CAMERA INPUT, UP TO 512 GB MICRO SD CARD STORAGE CAPACITY H.265+/",
+    "description": "hikvision 4-ch camera input, up to 512 gb micro sd card storage capacity h.265+/",
+    "lineIndex": 468604
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-30(4mm)8m",
+    "sku": "6919737",
+    "brand": "hikvision",
+    "name": "HIKVISION CV 2MP 4MM IO POE/12DC",
+    "description": "hikvision cv 2mp 4mm io poe/12dc",
+    "lineIndex": 468605
+  },
+  {
+    "mfgpn": "ids-2vs435-f836-ey",
+    "sku": "6749667",
+    "brand": "hikvision",
+    "name": "PTZ O 4MP 36X H265+ POE+/24V",
+    "description": "ptz o 4mp 36x h265+ poe+/24v",
+    "lineIndex": 468606
+  },
+  {
+    "mfgpn": "ids-7204hthi-m1/s",
+    "sku": "6889838",
+    "brand": "hikvision",
+    "name": "HIKVISION 4-CH 4K H.265 ACUSENSE DVR",
+    "description": "hikvision 4-ch 4k h.265 acusense dvr",
+    "lineIndex": 469629
+  },
+  {
+    "mfgpn": "ds-2cd2087g2h-liu/sl 4mm",
+    "sku": "7319608",
+    "brand": "hikvision",
+    "name": "HIKVISION BL 4MM 8MP SHL",
+    "description": "hikvision bl 4mm 8mp shl",
+    "lineIndex": 469631
+  },
+  {
+    "mfgpn": "ds-2xe6825g0-izhs(2.8-12mm)(b)",
+    "sku": "7915068",
+    "brand": "hikvision",
+    "name": "HIKVISION H.265+/H.265/H.264+/H.264; 1920 1080@30FPS RESOLUTION;120DB WDR; IR RA",
+    "description": "hikvision h.265+/h.265/h.264+/h.264; 1920 1080@30fps resolution;120db wdr; ir ra",
+    "lineIndex": 469632
+  },
+  {
+    "mfgpn": "ds-2cd6d44g1-izs(2.8-8mm)(o-std)",
+    "sku": "8177618",
+    "brand": "hikvision",
+    "name": "HIKVISION 16MP (4 X 4MP), 30 FPS, 2.8-8MM MOTORIZED LENS, ADJUSTABLE CAMERA POSI",
+    "description": "hikvision 16mp (4 x 4mp), 30 fps, 2.8-8mm motorized lens, adjustable camera posi",
+    "lineIndex": 469634
+  },
+  {
+    "mfgpn": "ds-2xc6142fwd-is",
+    "sku": "7067299",
+    "brand": "hikvision",
+    "name": "HIKVISION DMSS 4MP 2.8MM 10MIR 12V POE",
+    "description": "hikvision dmss 4mp 2.8mm 10mir 12v poe",
+    "lineIndex": 470553
+  },
+  {
+    "mfgpn": "ids-2cd7186g0-izs(2.8-12mm)(d)",
+    "sku": "7914959",
+    "brand": "hikvision",
+    "name": "HIKVISION DARKFIGHTER ULTRA-LOW LIGHT TECHNOLOGY, H.265+/H.265/H.264+/H.264/MJPE",
+    "description": "hikvision darkfighter ultra-low light technology, h.265+/h.265/h.264+/h.264/mjpe",
+    "lineIndex": 470554
+  },
+  {
+    "mfgpn": "ds-2cd6425g1-10(3.7mm)",
+    "sku": "6889829",
+    "brand": "hikvision",
+    "name": "HIKVISION CV 2MP 3.7MM IO POE/12DC",
+    "description": "hikvision cv 2mp 3.7mm io poe/12dc",
+    "lineIndex": 470556
+  },
+  {
+    "mfgpn": "ds-2cd2347g3-lis2uy/sl 2.8mm",
+    "sku": "8295429",
+    "brand": "hikvision",
+    "name": "HIKVISION 4MP SHL WITH COLORVU 3.0 FIXED IP TURRET",
+    "description": "hikvision 4mp shl with colorvu 3.0 fixed ip turret",
+    "lineIndex": 470557
+  }
+]

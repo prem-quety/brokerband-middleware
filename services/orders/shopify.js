@@ -1,6 +1,6 @@
 // services/orders/handleNewOrder.js
 import { buildSynnexPO } from "../../utils/synnex.js";
-import { sendOrderToSynnex } from "../synnex/sendToSynnex.js";
+import { sendOrderToSynnex } from "../synnex/orders.js";
 
 export const handleNewOrder = async (shopifyOrder) => {
   const xmlPayload = buildSynnexPO(shopifyOrder);

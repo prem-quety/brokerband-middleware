@@ -4,6 +4,7 @@ import shopifyRoutes from "./routes/shopify.routes.js"; // Combined routes
 import mongoose from "mongoose";
 import collectionRoutes from "./routes/collections.routes.js";
 import synnexRoutes from "./routes/synnex.routes.js";
+import orderRouter from "./routes/orders.shopify.routes.js"
 dotenv.config();
 
 mongoose
@@ -15,7 +16,7 @@ mongoose
   .catch((err) => console.error("❌ MongoDB connection error:", err.message));
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8336;
 
 app.use(express.json());
 
@@ -23,11 +24,12 @@ app.use(express.json());
 app.use("/api/shopify", shopifyRoutes);
 app.use("/api/shopify", collectionRoutes);
 app.use("/api/synnex", synnexRoutes);
+app.use("/api/orders", orderRouter);
 
 app.get("/", (req, res) => {
   res.send("QueryTel + Shopify API Server is Live!");
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, `0.0.0.0`, () => {
   console.log(`🚀 Server running at http://localhost:${PORT}`);
 });

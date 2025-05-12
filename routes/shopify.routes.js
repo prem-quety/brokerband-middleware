@@ -8,20 +8,12 @@ import {
   fetchShopifyProducts,
   postProductToShopify,
 } from "../services/shopify/shopify.js";
-import Order from "../models/Order.js";
 import { setProductMetafields } from "../services/shopify/shopify.js";
 import { deleteProductsWithoutPriceOrImage } from "../services/shopify/shopify.js";
 
 const router = express.Router();
 
-router.get("/test-db", async (req, res) => {
-  try {
-    const record = await Order.create({ test: "🔥 DB works" });
-    res.json({ message: "Success", data: record });
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
+
 
 // Create Product
 router.post("/product", async (req, res) => {
