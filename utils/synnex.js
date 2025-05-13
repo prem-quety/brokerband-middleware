@@ -1,5 +1,5 @@
 import { create, convert } from "xmlbuilder2";
-import Synclog from "../models/Synclog.js"; // adjust path if needed
+import SyncLog from "../models/SyncLog.js"; // adjust path if needed
 
 export const buildSynnexPO = async (order) => {
   try {
@@ -61,13 +61,13 @@ export const buildSynnexPO = async (order) => {
     for (let [idx, item] of line_items.entries()) {
       const productId = item?.product_id?.toString();
 
-      const synclog = await Synclog.findOne({ shopifyProductId: productId });
-      if (!synclog || !synclog.sku) {
+      const SyncLog = await SyncLog.findOne({ shopifyProductId: productId });
+      if (!SyncLog || !SyncLog.sku) {
         console.error("[buildSynnexPO] ❌ Missing SYNNEX SKU for product_id:", productId);
         throw new Error(`Missing SYNNEX SKU for product_id: ${productId}`);
       }
 
-      const sku = synclog.sku.trim();
+      const sku = SyncLog.sku.trim();
       const quantity = item?.quantity || "1";
 
       const itemNode = itemsNode.ele("Item", { lineNumber: idx + 1 });
