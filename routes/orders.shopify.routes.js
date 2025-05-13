@@ -38,6 +38,7 @@ router.post("/order", express.json(), async (req, res) => {
       },
       { upsert: true, new: true }
     );
+console.log("[Webhook] Raw Shopify line_items:", order.line_items);
 
     // 2. Send to SYNNEX
     const xmlResponse = await handleNewOrder(order);

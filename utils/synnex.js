@@ -3,12 +3,12 @@ import { create, convert } from "xmlbuilder2";
 export const buildSynnexPO = (order) => {
   try {
     const { shipping_address, email, id, line_items } = order;
-    const lineItems = line_items;
 
-    if (!shipping_address || !lineItems?.length) {
-      console.error("[DEBUG] order.shipping_address:", shipping_address);
-      console.error("[DEBUG] order.line_items:", line_items);
-      throw new Error("Missing required fields: shipping_address or lineItems");
+    if (!shipping_address || !line_items?.length) {
+      console.error("[buildSynnexPO] ❌ Missing fields");
+      console.error("shipping_address:", shipping_address);
+      console.error("line_items:", line_items);
+      throw new Error("Missing required fields: shipping_address or line_items");
     }
 
     const state = shipping_address.province_code || "NA";
@@ -34,7 +34,6 @@ export const buildSynnexPO = (order) => {
 
     // <Shipment>
     const shipment = orderRequest.ele("Shipment");
-
     const shipTo = shipment.ele("ShipTo");
     shipTo.ele("AddressName1").txt(contactName);
     shipTo.ele("AddressLine1").txt(shipping_address.address1 || "UNKNOWN_ADDRESS");
@@ -58,11 +57,12 @@ export const buildSynnexPO = (order) => {
     // <Items>
     const itemsNode = orderRequest.ele("Items");
 
-    lineItems.forEach((item, idx) => {
-      const sku = item.sku?.trim();
-      const quantity = item.quantity || "1";
+    line_items.forEach((item, idx) => {
+      const sku = item?.sku?.trim();
+      const quantity = item?.quantity || "1";
 
       if (!sku || sku === "99" || sku === "UNKNOWN-SKU") {
+        console.error("[buildSynnexPO] ❌ Invalid SKU:", sku, "in item:", item);
         throw new Error(`Invalid or missing SKU in line item ${idx + 1}`);
       }
 
@@ -72,7 +72,9 @@ export const buildSynnexPO = (order) => {
       itemNode.ele("OrderQuantity").txt(quantity);
     });
 
-    return doc.end({ prettyPrint: true });
+    const xml = doc.end({ prettyPrint: true });
+console.log(`[buildSynnexPO] ✅ Final XML Payload:\n${xml}`);
+return xml;
 
   } catch (err) {
     console.error(`[buildSynnexPO] Failed to build XML for order ${order?.id}: ${err.message}`);
@@ -82,46 +84,40 @@ export const buildSynnexPO = (order) => {
 
 
 
-
-
 export const parseSynnexResponse = (xmlString) => {
   try {
     const json = convert(xmlString, { format: "object" });
-
     const response = json?.SynnexB2B?.OrderResponse || {};
 
- const orderInfo = {
-  customerNumber: response.CustomerNumber || null,
-  poNumber: response.PONumber || null,
-  statusCode: response.Code || "unknown",
-  reason: response.Reason || null, // <-- add this line
-  responseTime: response.ResponseDateTime || null,
-  responseElapsed: response.ResponseElapsedTime || null,
-  items: [],
-};
-
+    const orderInfo = {
+      customerNumber: response.CustomerNumber || null,
+      poNumber: response.PONumber || null,
+      statusCode: response.Code || "unknown",
+      reason: response.Reason || null,
+      responseTime: response.ResponseDateTime || null,
+      responseElapsed: response.ResponseElapsedTime || null,
+      items: [],
+    };
 
     const rawItems = response.Items?.Item || [];
-
-    // Normalize: If only one item, xmlbuilder2 returns it as an object instead of an array
     const itemList = Array.isArray(rawItems) ? rawItems : [rawItems];
 
     itemList.forEach((item) => {
       orderInfo.items.push({
-  lineNumber: item?.["@lineNumber"] || null,
-  sku: item?.SKU || null,
-  quantity: item?.OrderQuantity || null,
-  code: item?.Code || null,
-  reason: item?.Reason || null, // <-- include item-level reason too
-  synnexOrderNumber: item?.OrderNumber || null,
-  orderType: item?.OrderType || null,
-  warehouse: item?.ShipFromWarehouse || null,
-  internalReference: item?.SynnexInternalReference || null,
-});
-
+        lineNumber: item?.["@lineNumber"] || null,
+        sku: item?.SKU || null,
+        quantity: item?.OrderQuantity || null,
+        code: item?.Code || null,
+        reason: item?.Reason || null,
+        synnexOrderNumber: item?.OrderNumber || null,
+        orderType: item?.OrderType || null,
+        warehouse: item?.ShipFromWarehouse || null,
+        internalReference: item?.SynnexInternalReference || null,
+      });
     });
 
     return orderInfo;
+
   } catch (err) {
     console.error("[parseSynnexResponse] Failed to parse response:", err);
     return {
