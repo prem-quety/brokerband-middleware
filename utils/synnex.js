@@ -1,6 +1,7 @@
 import { create, convert } from "xmlbuilder2";
+import Synclog from "../models/Synclog.js"; // adjust path if needed
 
-export const buildSynnexPO = (order) => {
+export const buildSynnexPO = async (order) => {
   try {
     const { shipping_address, email, id, line_items } = order;
 
@@ -57,30 +58,34 @@ export const buildSynnexPO = (order) => {
     // <Items>
     const itemsNode = orderRequest.ele("Items");
 
-    line_items.forEach((item, idx) => {
-      const sku = item?.sku?.trim();
-      const quantity = item?.quantity || "1";
+    for (let [idx, item] of line_items.entries()) {
+      const productId = item?.product_id?.toString();
 
-      if (!sku || sku === "99" || sku === "UNKNOWN-SKU") {
-        console.error("[buildSynnexPO] ❌ Invalid SKU:", sku, "in item:", item);
-        throw new Error(`Invalid or missing SKU in line item ${idx + 1}`);
+      const synclog = await Synclog.findOne({ shopifyProductId: productId });
+      if (!synclog || !synclog.sku) {
+        console.error("[buildSynnexPO] ❌ Missing SYNNEX SKU for product_id:", productId);
+        throw new Error(`Missing SYNNEX SKU for product_id: ${productId}`);
       }
+
+      const sku = synclog.sku.trim();
+      const quantity = item?.quantity || "1";
 
       const itemNode = itemsNode.ele("Item", { lineNumber: idx + 1 });
       itemNode.ele("SKU").txt(sku);
       itemNode.ele("UnitPrice").txt("0.00");
       itemNode.ele("OrderQuantity").txt(quantity);
-    });
+    }
 
     const xml = doc.end({ prettyPrint: true });
-console.log(`[buildSynnexPO] ✅ Final XML Payload:\n${xml}`);
-return xml;
+    console.log(`[buildSynnexPO] ✅ Final XML Payload:\n${xml}`);
+    return xml;
 
   } catch (err) {
     console.error(`[buildSynnexPO] Failed to build XML for order ${order?.id}: ${err.message}`);
     throw err;
   }
 };
+
 
 
 
