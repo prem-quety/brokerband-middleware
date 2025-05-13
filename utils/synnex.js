@@ -1,16 +1,15 @@
 import { create, convert } from "xmlbuilder2";
 
-
 export const buildSynnexPO = (order) => {
   try {
-    if (!order || !order.shipping_address || !order.lineItems?.length) {
-  console.error("[DEBUG] order.shipping_address:", order?.shipping_address);
-  console.error("[DEBUG] order.lineItems:", order?.lineItems);
-  throw new Error("Missing required fields: shipping_address or lineItems");
-}
+    const { shipping_address, email, id, line_items } = order;
+    const lineItems = line_items;
 
-
-    const { shipping_address, email, id, lineItems } = order;
+    if (!shipping_address || !lineItems?.length) {
+      console.error("[DEBUG] order.shipping_address:", shipping_address);
+      console.error("[DEBUG] order.line_items:", line_items);
+      throw new Error("Missing required fields: shipping_address or lineItems");
+    }
 
     const state = shipping_address.province_code || "NA";
     const zip = shipping_address.zip || "00000";
@@ -50,7 +49,7 @@ export const buildSynnexPO = (order) => {
     contact.ele("EmailAddress").txt(emailAddress);
 
     const shipMethod = shipment.ele("ShipMethod");
-    shipMethod.ele("Code").txt("FG"); // Default: Standard Ground
+    shipMethod.ele("Code").txt("FG");
 
     // <Payment>
     const payment = orderRequest.ele("Payment");
@@ -71,8 +70,6 @@ export const buildSynnexPO = (order) => {
       itemNode.ele("SKU").txt(sku);
       itemNode.ele("UnitPrice").txt("0.00");
       itemNode.ele("OrderQuantity").txt(quantity);
-
-      // Optional attributes (e.g. licenses, serials) can go here
     });
 
     return doc.end({ prettyPrint: true });
@@ -82,6 +79,7 @@ export const buildSynnexPO = (order) => {
     throw err;
   }
 };
+
 
 
 
