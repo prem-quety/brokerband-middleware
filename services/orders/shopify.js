@@ -6,7 +6,7 @@ export const handleNewOrder = async (shopifyOrder) => {
 console.log("[buildSynnexPO] Received line_items:", shopifyOrder.line_items);
 
 
-  const xmlPayload = buildSynnexPO(shopifyOrder);
+  const xmlPayload = await buildSynnexPO(shopifyOrder);
 
   const response = await sendOrderToSynnex(xmlPayload);
 
