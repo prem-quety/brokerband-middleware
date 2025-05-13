@@ -3,11 +3,11 @@ import { create, convert } from "xmlbuilder2";
 
 export const buildSynnexPO = (order) => {
   try {
-    if (!order || !order.shipping_address || !order.line_items?.length) {
-      throw new Error("Missing required fields: shipping_address or line_items");
+    if (!order || !order.shipping_address || !order.lineItems?.length) {
+      throw new Error("Missing required fields: shipping_address or lineItems");
     }
 
-    const { shipping_address, email, id, line_items } = order;
+    const { shipping_address, email, id, lineItems } = order;
 
     const state = shipping_address.province_code || "NA";
     const zip = shipping_address.zip || "00000";
@@ -56,21 +56,20 @@ export const buildSynnexPO = (order) => {
     // <Items>
     const itemsNode = orderRequest.ele("Items");
 
-    line_items.forEach((item, idx) => {
-      const sku = item.sku || "UNKNOWN-SKU";
+    lineItems.forEach((item, idx) => {
+      const sku = item.sku?.trim();
       const quantity = item.quantity || "1";
 
-      if (!sku) throw new Error(`Missing SKU in line item ${idx}`);
+      if (!sku || sku === "99" || sku === "UNKNOWN-SKU") {
+        throw new Error(`Invalid or missing SKU in line item ${idx + 1}`);
+      }
 
       const itemNode = itemsNode.ele("Item", { lineNumber: idx + 1 });
       itemNode.ele("SKU").txt(sku);
-      itemNode.ele("UnitPrice").txt("0.00"); // STOP leaking customer pricing
+      itemNode.ele("UnitPrice").txt("0.00");
       itemNode.ele("OrderQuantity").txt(quantity);
 
-      // Optional: <Attributes> block — enable if needed for Cisco, Apple, licenses, etc.
-      // const attributes = itemNode.ele("Attributes");
-      // attributes.ele("Attribute", { name: "ENDUSER", value: "Brokerband Inc." });
-      // attributes.ele("Attribute", { name: "CUSTOMERPARTNO", value: "BB-CUST-001" });
+      // Optional attributes (e.g. licenses, serials) can go here
     });
 
     return doc.end({ prettyPrint: true });
