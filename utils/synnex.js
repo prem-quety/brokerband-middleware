@@ -4,8 +4,11 @@ import { create, convert } from "xmlbuilder2";
 export const buildSynnexPO = (order) => {
   try {
     if (!order || !order.shipping_address || !order.lineItems?.length) {
-      throw new Error("Missing required fields: shipping_address or lineItems");
-    }
+  console.error("[DEBUG] order.shipping_address:", order?.shipping_address);
+  console.error("[DEBUG] order.lineItems:", order?.lineItems);
+  throw new Error("Missing required fields: shipping_address or lineItems");
+}
+
 
     const { shipping_address, email, id, lineItems } = order;
 
