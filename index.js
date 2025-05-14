@@ -5,6 +5,7 @@ import mongoose from "mongoose";
 import collectionRoutes from "./routes/collections.routes.js";
 import synnexRoutes from "./routes/synnex.routes.js";
 import orderRouter from "./routes/orders.shopify.routes.js"
+import zohoRouter from "./routes/zoho.routes.js"
 dotenv.config();
 
 mongoose
@@ -25,6 +26,7 @@ app.use("/api/shopify", shopifyRoutes);
 app.use("/api/shopify", collectionRoutes);
 app.use("/api/synnex", synnexRoutes);
 app.use("/api/orders", orderRouter);
+app.use("/api/zoho", zohoRouter);
 
 app.get("/", (req, res) => {
   res.send("QueryTel + Shopify API Server is Live!");
