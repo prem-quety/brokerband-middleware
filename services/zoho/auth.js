@@ -1,5 +1,5 @@
 import axios from "axios";
-import { saveTokensToFile } from "./tokens.js";
+import { saveTokensToDb } from "./tokens.js";
 export const startOAuthFlow = (req, res) => {
   const redirectUrl = `https://accounts.zoho.com/oauth/v2/auth?response_type=code&client_id=${process.env.ZOHO_CLIENT_ID}&scope=ZohoBooks.fullaccess.all&redirect_uri=${process.env.ZOHO_REDIRECT_URI}&access_type=offline&prompt=consent`;
   res.redirect(redirectUrl);
@@ -22,7 +22,7 @@ export const handleOAuthCallback = async (req, res) => {
     });
 
     const tokens = tokenResponse.data;
-    saveTokensToFile(tokens);
+    await saveTokensToDb(tokens);
     // TEMP: log to console for now — later write to DB or secure file
     console.log("🔥 Zoho Tokens:", tokens);
 
