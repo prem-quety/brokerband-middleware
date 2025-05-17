@@ -2,7 +2,7 @@ import express from "express";
 import { handleOAuthCallback, startOAuthFlow } from "../services/zoho/auth.js";
 import { getOrganizationInfo } from "../services/zoho/org.js";
 import { createOrGetCustomer } from "../services/zoho/customer.js";
-
+import { runZohoProductSync } from "../jobs/runZohoSync.js";
 const router = express.Router();
 
 router.get("/auth", startOAuthFlow); // redirects to Zoho
@@ -29,5 +29,15 @@ router.post("/customer", async (req, res) => {
   }
 });
 
+router.get('/sync-products', async (req, res) => {
+  console.log('[Router] GET /sync-products hit')
+  try {
+    await runZohoProductSync()
+    res.status(200).send('Product sync to Zoho completed')
+  } catch (err) {
+    console.error('[Router] sync error →', err.message)
+    res.status(500).send('Zoho product sync failed')
+  }
+})
 
 export default router;

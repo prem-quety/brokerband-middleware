@@ -1,5 +1,6 @@
 import { create, convert } from "xmlbuilder2";
 import SyncLog from "../models/SyncLog.js"; // adjust path if needed
+import { fetchSynnexPriceData } from "../services/synnex/apiFetcher.js";
 
 export const buildSynnexPO = async (order) => {
   try {
@@ -74,7 +75,17 @@ const sku = synclog.sku.trim();
 
       const itemNode = itemsNode.ele("Item", { lineNumber: idx + 1 });
       itemNode.ele("SKU").txt(sku);
-      itemNode.ele("UnitPrice").txt("0.00");
+      let cost = 0.00;
+try {
+  const livePrice = await fetchSynnexPriceData(sku);
+  if (!livePrice?.price) throw new Error("Price not returned");
+  cost = parseFloat(livePrice.price);
+} catch (err) {
+  console.warn(`[buildSynnexPO] ❌ Failed to fetch price for SKU ${sku}:`, err.message);
+  throw new Error(`Cannot continue without valid SYNNEX cost for SKU ${sku}`);
+}
+
+itemNode.ele("UnitPrice").txt(cost.toFixed(2));
       itemNode.ele("OrderQuantity").txt(quantity);
     }
 

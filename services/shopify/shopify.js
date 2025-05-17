@@ -124,3 +124,42 @@ export const deleteProductsWithoutPriceOrImage = async () => {
   console.log(`✅ Finished. Total deleted: ${deleted.length}`);
   return deleted;
 };
+
+
+const STORE = process.env.SHOPIFY_STORE_URL;
+const API_VER = STORE.includes("brokerband-dev")
+  ? "2025-04"    // your dev store
+  : "2025-01";   // your real store
+const TOKEN   = process.env.SHOPIFY_ADMIN_TOKEN;
+
+export const getAllShopifyProducts = async () => {
+  console.log("[Shopify] → start getAllShopifyProducts");
+  const limit = 250;
+  let nextPageUrl = `${STORE}/admin/api/${API_VER}/products.json?limit=${limit}`;
+  const all = [];
+
+  while (nextPageUrl) {
+    console.log(`[Shopify] → GET ${nextPageUrl}`);
+    let res;
+    try {
+      res = await axios.get(nextPageUrl, {
+        headers: { "X-Shopify-Access-Token": TOKEN },
+      });
+    } catch (err) {
+      console.error("[Shopify] ← fetch error:", err.response?.status, err.response?.data);
+      throw err;
+    }
+
+    const products = res.data.products || [];
+    console.log(`[Shopify] ← got ${products.length} products`);
+    all.push(...products);
+
+    // parse Link header for next cursor
+    const link = res.headers.link;
+    const match = link?.match(/<([^>]+)>;\s*rel="next"/);
+    nextPageUrl = match ? match[1] : null;
+  }
+
+  console.log(`[Shopify] ← fetched total ${all.length}`);
+  return all;
+};
