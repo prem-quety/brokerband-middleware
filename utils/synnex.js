@@ -50,7 +50,7 @@ export const buildSynnexPO = async (order) => {
     contact.ele("EmailAddress").txt(emailAddress);
 
     const shipMethod = shipment.ele("ShipMethod");
-    shipMethod.ele("Code").txt("FG");
+    shipMethod.ele("Code").txt("UPG");
 
     // <Payment>
     const payment = orderRequest.ele("Payment");
