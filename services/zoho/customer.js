@@ -15,7 +15,6 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
       throw new Error("Missing or invalid email. Cannot sync to Zoho.");
     }
 
-    // sanitize inputs
     const clean = (str) =>
       String(str || "")
         .replace(/[^\w\s\-.,@]/gi, "")
@@ -29,29 +28,7 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
       shopifyCustomer.contact_name ||
         `${shopifyCustomer.first_name || ""} ${shopifyCustomer.last_name || ""}`
     ).trim();
-    if (!fullName) throw new Error("Invalid or missing contact_name.");
 
-    // Step 1: Check if contact already exists by email
-    const existing = await axios.get(
-      "https://www.zohoapis.com/books/v3/contacts",
-      {
-        headers: { Authorization: `Bearer ${token}` },
-        params: {
-          organization_id: ZOHO_ORG_ID,
-          email: shopifyCustomer.email,
-        },
-      }
-    );
-
-    if (existing.data.contacts.length > 0) {
-      console.log(
-        "Zoho Contact already exists:",
-        existing.data.contacts[0].contact_id
-      );
-      return existing.data.contacts[0];
-    }
-
-    // build billing address
     const addr = shopifyCustomer.billing_address || shopifyCustomer;
     const billing_address = {};
     if (addr.address) billing_address.address = clean(addr.address);
@@ -63,7 +40,7 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     billing_address.attention = fullName;
 
     const payload = {
-      contact_name: `${fullName} (${shopifyCustomer.id})`, // force uniqueness
+      contact_name: fullName,
       contact_type: "customer",
       email: shopifyCustomer.email,
       company_name: shopifyCustomer.company_name || fullName,
@@ -73,37 +50,59 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
 
     console.log("Zoho Payload:", JSON.stringify(payload, null, 2));
 
-    // Step 2: Create contact
-    try {
-      const response = await axios.post(
+    // Try to create contact
+    const response = await axios.post(
+      "https://www.zohoapis.com/books/v3/contacts",
+      payload,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+          "X-Unique-Identifier-Key": "email",
+          "X-Unique-Identifier-Value": shopifyCustomer.email,
+        },
+        params: { organization_id: ZOHO_ORG_ID },
+      }
+    );
+
+    console.log(
+      `Zoho Customer ${response.data.contact.contact_id} synced (created).`
+    );
+    return response.data.contact;
+  } catch (err) {
+    const message = err.response?.data?.message;
+    if (message?.includes("already exists")) {
+      console.warn("Zoho: Duplicate contact_name. Fetching existing customer.");
+
+      // Fetch existing customer by email
+      const listRes = await axios.get(
         "https://www.zohoapis.com/books/v3/contacts",
-        payload,
         {
-          headers: {
-            Authorization: `Bearer ${token}`,
-            "Content-Type": "application/json",
+          headers: { Authorization: `Bearer ${token}` },
+          params: {
+            organization_id: ZOHO_ORG_ID,
+            email: shopifyCustomer.email,
           },
-          params: { organization_id: ZOHO_ORG_ID },
         }
       );
-      console.log(
-        `Zoho Customer ${response.data.contact.contact_id} created successfully.`
-      );
-      return response.data.contact;
-    } catch (err) {
-      const code = err.response?.data?.code;
-      if (code === 3062) {
-        console.warn("Zoho: Duplicate contact_name. Skipping creation.");
-        throw new Error("Duplicate contact_name");
+
+      const existing = listRes.data.contacts?.[0];
+      if (existing) {
+        console.log(
+          `Zoho Customer ${existing.contact_id} retrieved (existing).`
+        );
+        return existing;
       }
-      throw err;
+
+      throw new Error("Contact exists but could not retrieve it.");
     }
-  } catch (err) {
+
     console.error("Zoho Customer Sync Error:", {
       status: err.response?.status,
       data: err.response?.data,
       message: err.message,
     });
+
     throw new Error(err.message || "Failed to sync customer");
   }
 };
