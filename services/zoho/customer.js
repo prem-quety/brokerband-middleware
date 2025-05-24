@@ -26,7 +26,21 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     ).trim();
     if (!fullName) throw new Error("Invalid or missing contact_name.");
 
-    // build billing address if present
+    // Step 1: Check if contact already exists by email
+    const existing = await axios.get("https://www.zohoapis.com/books/v3/contacts", {
+      headers: { Authorization: `Bearer ${token}` },
+      params: {
+        organization_id: ZOHO_ORG_ID,
+        email: shopifyCustomer.email
+      }
+    });
+
+    if (existing.data.contacts.length > 0) {
+      console.log("Zoho Contact already exists:", existing.data.contacts[0].contact_id);
+      return existing.data.contacts[0];
+    }
+
+    // Step 2: build billing address
     const addr = shopifyCustomer.billing_address || shopifyCustomer;
     const billing_address = {};
     if (addr.address) billing_address.address = clean(addr.address);
@@ -37,9 +51,9 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     if (addr.phone) billing_address.phone = cleanPhone(addr.phone);
     billing_address.attention = fullName;
 
-    // final payload (flat, no "contact" envelope)
+    // Step 3: final payload
     const payload = {
-      contact_name: fullName,
+      contact_name: `${fullName} (${shopifyCustomer.id})`, // force uniqueness
       contact_type: "customer",
       email: shopifyCustomer.email,
       company_name: shopifyCustomer.company_name || fullName,
@@ -49,23 +63,21 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
 
     console.log("Zoho Payload:", JSON.stringify(payload, null, 2));
 
-    // upsert contact in Zoho (create or update by email)
+    // Step 4: Create new contact
     const response = await axios.post(
       "https://www.zohoapis.com/books/v3/contacts",
       payload,
       {
         headers: {
           Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-          "X-Unique-Identifier-Key": "email",
-          "X-Unique-Identifier-Value": shopifyCustomer.email
+          "Content-Type": "application/json"
         },
         params: { organization_id: ZOHO_ORG_ID }
       }
     );
 
     console.log(
-      `Zoho Customer ${response.data.contact.contact_id} synced (created/updated).`
+      `Zoho Customer ${response.data.contact.contact_id} created successfully.`
     );
     return response.data.contact;
 
