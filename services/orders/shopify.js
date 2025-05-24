@@ -34,7 +34,11 @@ export const handleNewOrder = async (shopifyOrder) => {
       console.warn(`[handleNewOrder] Reason: statusCode=${parsed.statusCode}, orderTypes=[${parsed.items.map(i => i.orderType).join(", ")}]`);
     }
 
-    return parsed;
+    return {
+  rawXml: rawResponse,
+  parsed,
+};
+
 
   } catch (err) {
     console.error("[handleNewOrder] ❌ Error during order handling:", err);

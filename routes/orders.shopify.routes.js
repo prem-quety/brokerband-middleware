@@ -41,11 +41,11 @@ router.post("/order", express.json(), async (req, res) => {
 console.log("[Webhook] Raw Shopify line_items:", order.line_items);
 
     // 2. Send to SYNNEX
-    const xmlResponse = await handleNewOrder(order);
+   const { rawXml, parsed } = await handleNewOrder(order);
+const fullParsed = convert(rawXml, { format: "object" });
 
-    // 3. Parse full and partial response
-    const fullParsed = convert(xmlResponse, { format: "object" });
-    const parsedResponse = parseSynnexResponse(xmlResponse);
+    const parsedResponse = parsed;
+
 
     // 4. Log full response
     console.log("[Webhook] Full SYNNEX response:\n", JSON.stringify(fullParsed, null, 2));
@@ -60,7 +60,7 @@ console.log("[Webhook] Raw Shopify line_items:", order.line_items);
           statusCode: parsedResponse.statusCode,
           rejectionReason: parsedResponse.reason || null,
           items: parsedResponse.items,
-          rawXml: xmlResponse,
+          rawXml: rawXml,
           parsed: JSON.parse(JSON.stringify(fullParsed)),
         }
       },
