@@ -16,31 +16,42 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     }
 
     // sanitize inputs
-    const clean = str => String(str || "").replace(/[^\w\s\-.,@]/gi, "").trim();
-    const cleanPhone = phone =>
-      String(phone || "").replace(/[^\d]/g, "").slice(0, 20);
+    const clean = (str) =>
+      String(str || "")
+        .replace(/[^\w\s\-.,@]/gi, "")
+        .trim();
+    const cleanPhone = (phone) =>
+      String(phone || "")
+        .replace(/[^\d]/g, "")
+        .slice(0, 20);
 
     const fullName = clean(
       shopifyCustomer.contact_name ||
-      `${shopifyCustomer.first_name || ""} ${shopifyCustomer.last_name || ""}`
+        `${shopifyCustomer.first_name || ""} ${shopifyCustomer.last_name || ""}`
     ).trim();
     if (!fullName) throw new Error("Invalid or missing contact_name.");
 
     // Step 1: Check if contact already exists by email
-    const existing = await axios.get("https://www.zohoapis.com/books/v3/contacts", {
-      headers: { Authorization: `Bearer ${token}` },
-      params: {
-        organization_id: ZOHO_ORG_ID,
-        email: shopifyCustomer.email
+    const existing = await axios.get(
+      "https://www.zohoapis.com/books/v3/contacts",
+      {
+        headers: { Authorization: `Bearer ${token}` },
+        params: {
+          organization_id: ZOHO_ORG_ID,
+          email: shopifyCustomer.email,
+        },
       }
-    });
+    );
 
     if (existing.data.contacts.length > 0) {
-      console.log("Zoho Contact already exists:", existing.data.contacts[0].contact_id);
+      console.log(
+        "Zoho Contact already exists:",
+        existing.data.contacts[0].contact_id
+      );
       return existing.data.contacts[0];
     }
 
-    // Step 2: build billing address
+    // build billing address
     const addr = shopifyCustomer.billing_address || shopifyCustomer;
     const billing_address = {};
     if (addr.address) billing_address.address = clean(addr.address);
@@ -51,42 +62,48 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     if (addr.phone) billing_address.phone = cleanPhone(addr.phone);
     billing_address.attention = fullName;
 
-    // Step 3: final payload
     const payload = {
       contact_name: `${fullName} (${shopifyCustomer.id})`, // force uniqueness
       contact_type: "customer",
       email: shopifyCustomer.email,
       company_name: shopifyCustomer.company_name || fullName,
       currency_id: shopifyCustomer.currency_id || "6424293000000000101",
-      ...(Object.keys(billing_address).length > 1 && { billing_address })
+      ...(Object.keys(billing_address).length > 1 && { billing_address }),
     };
 
     console.log("Zoho Payload:", JSON.stringify(payload, null, 2));
 
-    // Step 4: Create new contact
-    const response = await axios.post(
-      "https://www.zohoapis.com/books/v3/contacts",
-      payload,
-      {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json"
-        },
-        params: { organization_id: ZOHO_ORG_ID }
+    // Step 2: Create contact
+    try {
+      const response = await axios.post(
+        "https://www.zohoapis.com/books/v3/contacts",
+        payload,
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "application/json",
+          },
+          params: { organization_id: ZOHO_ORG_ID },
+        }
+      );
+      console.log(
+        `Zoho Customer ${response.data.contact.contact_id} created successfully.`
+      );
+      return response.data.contact;
+    } catch (err) {
+      const code = err.response?.data?.code;
+      if (code === 3062) {
+        console.warn("Zoho: Duplicate contact_name. Skipping creation.");
+        throw new Error("Duplicate contact_name");
       }
-    );
-
-    console.log(
-      `Zoho Customer ${response.data.contact.contact_id} created successfully.`
-    );
-    return response.data.contact;
-
+      throw err;
+    }
   } catch (err) {
     console.error("Zoho Customer Sync Error:", {
       status: err.response?.status,
       data: err.response?.data,
-      message: err.message
+      message: err.message,
     });
-    throw new Error(err.response?.data?.message || "Failed to sync customer");
+    throw new Error(err.message || "Failed to sync customer");
   }
 };
