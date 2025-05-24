@@ -43,7 +43,6 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     contact_type: "customer",
     email: shopifyCustomer.email,
     company_name: shopifyCustomer.company_name || fullName,
-    currency_id: shopifyCustomer.currency_id || "6424293000000000101",
     ...(Object.keys(billing_address).length > 1 && { billing_address }),
   };
 
