@@ -9,7 +9,6 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
   if (!shopifyCustomer || typeof shopifyCustomer !== "object") {
     throw new Error("No customer data received.");
   }
-
   if (!shopifyCustomer.email || !shopifyCustomer.email.includes("@")) {
     throw new Error("Missing or invalid email. Cannot sync to Zoho.");
   }
@@ -62,47 +61,52 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
         params: { organization_id: ZOHO_ORG_ID },
       }
     );
-
     console.log(
       `Zoho Customer ${response.data.contact.contact_id} synced (created/updated).`
     );
     return response.data.contact;
   } catch (err) {
     const errorData = err.response?.data;
-
     if (errorData?.code === 3062) {
-      console.log("Zoho: Duplicate contact_name. Fetching existing customer.");
+      console.log("Zoho: Duplicate contact_name. Trying email → name search.");
 
-      try {
-        const lookup = await axios.get(
-          "https://www.zohoapis.com/books/v3/contacts",
-          {
-            headers: {
-              Authorization: `Bearer ${token}`,
-            },
-            params: {
-              organization_id: ZOHO_ORG_ID,
-              email: shopifyCustomer.email,
-            },
-          }
-        );
+      // 1) Try email lookup
+      const lookup = await axios.get(
+        "https://www.zohoapis.com/books/v3/contacts",
+        {
+          headers: { Authorization: `Bearer ${token}` },
+          params: {
+            organization_id: ZOHO_ORG_ID,
+            email: shopifyCustomer.email,
+          },
+        }
+      );
+      const match = lookup.data.contacts?.find(
+        (c) =>
+          c.email?.toLowerCase().trim() ===
+          shopifyCustomer.email.toLowerCase().trim()
+      );
+      if (match) return match;
 
-        const match = lookup.data.contacts?.find(
-          (c) =>
-            c.email?.toLowerCase().trim() ===
-            shopifyCustomer.email.toLowerCase().trim()
-        );
+      console.warn("No email match; now searching by name…");
 
-        if (match) return match;
-
-        console.warn("Zoho fallback: No matching contact by email.");
-        throw new Error("Duplicate contact_name but no matching email found.");
-      } catch (fetchErr) {
-        console.error("Zoho fallback fetch failed:", fetchErr.message);
-        throw new Error(
-          "Contact exists but could not retrieve it (lookup failed)."
-        );
+      // 2) Name‐search fallback
+      const nameLookup = await axios.get(
+        "https://www.zohoapis.com/books/v3/contacts/search",
+        {
+          headers: { Authorization: `Bearer ${token}` },
+          params: {
+            organization_id: ZOHO_ORG_ID,
+            search_text: fullName,
+          },
+        }
+      );
+      if (nameLookup.data.contacts?.length) {
+        return nameLookup.data.contacts[0];
       }
+
+      // 3) Everything failed → signal duplicate so invoice step skips
+      throw new Error("Duplicate contact_name");
     }
 
     console.error("Zoho Customer Sync Error:", {
@@ -110,7 +114,6 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
       data: err.response?.data,
       message: err.message,
     });
-
     throw new Error(
       err.response?.data?.message || "Failed to sync customer to Zoho"
     );

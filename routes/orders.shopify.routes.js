@@ -1,6 +1,5 @@
 import express from "express";
 import { handleNewOrder } from "../services/orders/shopify.js";
-import { parseSynnexResponse } from "../utils/synnex.js";
 import { convert } from "xmlbuilder2";
 
 import ShopifyOrder from "../models/ShopifyOrder.js";
@@ -8,105 +7,84 @@ import SynnexResponse from "../models/SynnexResponse.js";
 
 const router = express.Router();
 
-router.post("/order", express.json(), async (req, res) => {
-  try {
-    const order = req.body;
-    const orderId = order.id.toString();
-    console.log("[Webhook] New order received:", orderId);
+router.post("/order", express.json(), (req, res) => {
+  const order = req.body;
+  const orderId = order.id.toString();
+  console.log("[Webhook] New order received:", orderId);
 
-    // 1. Check if this exact update was already processed
-    const existingShopifyOrder = await ShopifyOrder.findOne({
-      shopifyOrderId: orderId,
-      shopifyUpdatedAt: order.updated_at,
-    });
+  // 1) Acknowledge immediately so Shopify won't retry
+  res.status(200).json({ status: "queued", shopifyOrderId: orderId });
 
-    if (existingShopifyOrder) {
-      console.warn(
-        `[Webhook] Duplicate webhook for ${orderId}, skipping processing.`
-      );
-      return res.status(200).json({
-        status: "duplicate",
+  // 2) Do the heavy work in background
+  setImmediate(async () => {
+    try {
+      // a) Idempotency guard for Shopify order
+      const existingShopifyOrder = await ShopifyOrder.findOne({
         shopifyOrderId: orderId,
-        message: "This Shopify order update was already processed.",
+        shopifyUpdatedAt: order.updated_at,
       });
-    }
+      if (existingShopifyOrder) {
+        console.warn(`[Background] Duplicate for ${orderId}, skipping.`);
+        return;
+      }
 
-    // 2. Save Shopify order safely (always upsert the latest payload)
-    await ShopifyOrder.findOneAndUpdate(
-      { shopifyOrderId: orderId },
-      {
-        $set: {
-          orderNumber: order.number,
-          email: order.email,
-          gateway: order.gateway,
-          financialStatus: order.financial_status,
-          currency: order.currency,
-          totalPrice: order.total_price,
-          subtotalPrice: order.subtotal_price,
-          totalTax: order.total_tax,
-          customer: order.customer,
-          shippingAddress: order.shipping_address,
-          billingAddress: order.billing_address,
-          lineItems: order.line_items,
-          shopifyCreatedAt: order.created_at,
-          shopifyUpdatedAt: order.updated_at,
-          rawPayload: order,
+      // b) Upsert the Shopify order payload
+      await ShopifyOrder.findOneAndUpdate(
+        { shopifyOrderId: orderId },
+        {
+          $set: {
+            orderNumber: order.number,
+            email: order.email,
+            gateway: order.gateway,
+            financialStatus: order.financial_status,
+            currency: order.currency,
+            totalPrice: order.total_price,
+            subtotalPrice: order.subtotal_price,
+            totalTax: order.total_tax,
+            customer: order.customer,
+            shippingAddress: order.shipping_address,
+            billingAddress: order.billing_address,
+            lineItems: order.line_items,
+            shopifyCreatedAt: order.created_at,
+            shopifyUpdatedAt: order.updated_at,
+            rawPayload: order,
+          },
         },
-      },
-      { upsert: true, new: true }
-    );
-
-    console.log("[Webhook] Raw Shopify line_items:", order.line_items);
-
-    // 3. Prevent duplicate SYNNEX handling
-    const existing = await SynnexResponse.findOne({ shopifyOrderId: orderId });
-    if (existing) {
-      console.warn(
-        `[Webhook] SYNNEX response already exists for ${orderId}, skipping duplicate.`
+        { upsert: true, new: true }
       );
-      return res.status(200).json({
-        status: "skipped",
+
+      // c) Prevent duplicate SYNNEX handling
+      const existingSynnex = await SynnexResponse.findOne({
         shopifyOrderId: orderId,
-        message: "Order already forwarded to SYNNEX.",
       });
+      if (existingSynnex) {
+        console.warn(
+          `[Background] SYNNEX already done for ${orderId}, skipping.`
+        );
+        return;
+      }
+
+      // d) Forward to SYNNEX and save response
+      const { rawXml, parsed } = await handleNewOrder(order);
+      const fullParsed = convert(rawXml, { format: "object" });
+      console.log(
+        `[Background] Full SYNNEX response for ${orderId}:\n`,
+        JSON.stringify(fullParsed, null, 2)
+      );
+      await SynnexResponse.create({
+        shopifyOrderId: orderId,
+        poNumber: parsed.poNumber,
+        customerNumber: parsed.customerNumber,
+        statusCode: parsed.statusCode,
+        rejectionReason: parsed.reason || null,
+        items: parsed.items,
+        rawXml,
+        parsed: fullParsed,
+      });
+    } catch (err) {
+      console.error(`[Background] Error processing order ${orderId}:`, err);
     }
-
-    // 4. Proceed to SYNNEX
-    const { rawXml, parsed } = await handleNewOrder(order);
-    const fullParsed = convert(rawXml, { format: "object" });
-
-    console.log(
-      "[Webhook] Full SYNNEX response:\n",
-      JSON.stringify(fullParsed, null, 2)
-    );
-
-    // 5. Save SYNNEX response
-    await SynnexResponse.create({
-      shopifyOrderId: orderId,
-      poNumber: parsed.poNumber,
-      customerNumber: parsed.customerNumber,
-      statusCode: parsed.statusCode,
-      rejectionReason: parsed.reason || null,
-      items: parsed.items,
-      rawXml,
-      parsed: fullParsed,
-    });
-
-    // 6. Return success
-    return res.status(200).json({
-      status: "success",
-      shopifyOrderId: orderId,
-      message: "Order forwarded to SYNNEX successfully",
-      synnex: parsed,
-    });
-  } catch (err) {
-    console.error("[Webhook] Error handling order:", err);
-    return res.status(500).json({
-      status: "error",
-      message: "Failed to process order",
-      error: err.message,
-    });
-  }
+  });
 });
 
 export default router;
