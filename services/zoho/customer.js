@@ -73,23 +73,36 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     if (errorData?.code === 3062) {
       console.log("Zoho: Duplicate contact_name. Fetching existing customer.");
 
-      const lookup = await axios.get(
-        "https://www.zohoapis.com/books/v3/contacts",
-        {
-          headers: {
-            Authorization: `Bearer ${token}`,
-          },
-          params: {
-            organization_id: ZOHO_ORG_ID,
-            email: shopifyCustomer.email,
-          },
-        }
-      );
+      try {
+        const lookup = await axios.get(
+          "https://www.zohoapis.com/books/v3/contacts",
+          {
+            headers: {
+              Authorization: `Bearer ${token}`,
+            },
+            params: {
+              organization_id: ZOHO_ORG_ID,
+              email: shopifyCustomer.email,
+            },
+          }
+        );
 
-      const existing = lookup.data.contacts?.[0];
-      if (existing) return existing;
+        const match = lookup.data.contacts?.find(
+          (c) =>
+            c.email?.toLowerCase().trim() ===
+            shopifyCustomer.email.toLowerCase().trim()
+        );
 
-      throw new Error("Contact exists but could not retrieve it.");
+        if (match) return match;
+
+        console.warn("Zoho fallback: No matching contact by email.");
+        throw new Error("Duplicate contact_name but no matching email found.");
+      } catch (fetchErr) {
+        console.error("Zoho fallback fetch failed:", fetchErr.message);
+        throw new Error(
+          "Contact exists but could not retrieve it (lookup failed)."
+        );
+      }
     }
 
     console.error("Zoho Customer Sync Error:", {
