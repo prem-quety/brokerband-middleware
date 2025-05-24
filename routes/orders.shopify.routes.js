@@ -14,7 +14,24 @@ router.post("/order", express.json(), async (req, res) => {
     const orderId = order.id.toString();
     console.log("[Webhook] New order received:", orderId);
 
-    // 1. Save Shopify order safely (avoid duplicates)
+    // 1. Check if this exact update was already processed
+    const existingShopifyOrder = await ShopifyOrder.findOne({
+      shopifyOrderId: orderId,
+      shopifyUpdatedAt: order.updated_at,
+    });
+
+    if (existingShopifyOrder) {
+      console.warn(
+        `[Webhook] Duplicate webhook for ${orderId}, skipping processing.`
+      );
+      return res.status(200).json({
+        status: "duplicate",
+        shopifyOrderId: orderId,
+        message: "This Shopify order update was already processed.",
+      });
+    }
+
+    // 2. Save Shopify order safely (always upsert the latest payload)
     await ShopifyOrder.findOneAndUpdate(
       { shopifyOrderId: orderId },
       {
@@ -38,22 +55,23 @@ router.post("/order", express.json(), async (req, res) => {
       },
       { upsert: true, new: true }
     );
+
     console.log("[Webhook] Raw Shopify line_items:", order.line_items);
 
-    // 2. Prevent duplicate SYNNEX handling
+    // 3. Prevent duplicate SYNNEX handling
     const existing = await SynnexResponse.findOne({ shopifyOrderId: orderId });
     if (existing) {
       console.warn(
-        `[Webhook] SynnexResponse already exists for ${orderId}, skipping duplicate.`
+        `[Webhook] SYNNEX response already exists for ${orderId}, skipping duplicate.`
       );
       return res.status(200).json({
         status: "skipped",
         shopifyOrderId: orderId,
-        message: "Order already processed. SYNNEX response already exists.",
+        message: "Order already forwarded to SYNNEX.",
       });
     }
 
-    // 3. Proceed to SYNNEX only if no existing response
+    // 4. Proceed to SYNNEX
     const { rawXml, parsed } = await handleNewOrder(order);
     const fullParsed = convert(rawXml, { format: "object" });
 
@@ -62,7 +80,7 @@ router.post("/order", express.json(), async (req, res) => {
       JSON.stringify(fullParsed, null, 2)
     );
 
-    // 4. Save SYNNEX response safely
+    // 5. Save SYNNEX response
     await SynnexResponse.create({
       shopifyOrderId: orderId,
       poNumber: parsed.poNumber,
@@ -74,7 +92,7 @@ router.post("/order", express.json(), async (req, res) => {
       parsed: fullParsed,
     });
 
-    // 6. Return clean response
+    // 6. Return success
     return res.status(200).json({
       status: "success",
       shopifyOrderId: orderId,

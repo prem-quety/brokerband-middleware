@@ -5,52 +5,50 @@ const ZOHO_ORG_ID = process.env.ZOHO_ORG_ID;
 
 export const createOrGetCustomer = async (shopifyCustomer) => {
   const token = await getZohoAccessToken();
-  console.log("Incoming Shopify Customer:", shopifyCustomer);
 
-  try {
-    if (!shopifyCustomer || typeof shopifyCustomer !== "object") {
-      throw new Error("No customer data received.");
-    }
-    if (!shopifyCustomer.email || !shopifyCustomer.email.includes("@")) {
-      throw new Error("Missing or invalid email. Cannot sync to Zoho.");
-    }
+  if (!shopifyCustomer || typeof shopifyCustomer !== "object") {
+    throw new Error("No customer data received.");
+  }
 
-    const clean = (str) =>
-      String(str || "")
-        .replace(/[^\w\s\-.,@]/gi, "")
-        .trim();
-    const cleanPhone = (phone) =>
-      String(phone || "")
-        .replace(/[^\d]/g, "")
-        .slice(0, 20);
+  if (!shopifyCustomer.email || !shopifyCustomer.email.includes("@")) {
+    throw new Error("Missing or invalid email. Cannot sync to Zoho.");
+  }
 
-    const fullName = clean(
-      shopifyCustomer.contact_name ||
-        `${shopifyCustomer.first_name || ""} ${shopifyCustomer.last_name || ""}`
+  const clean = (str) =>
+    String(str || "")
+      .replace(/[^\w\s\-.,@]/gi, "")
+      .trim();
+  const cleanPhone = (phone) =>
+    String(phone || "")
+      .replace(/[^\d]/g, "")
+      .slice(0, 20);
+
+  const fullName =
+    clean(shopifyCustomer.contact_name) ||
+    clean(
+      `${shopifyCustomer.first_name || ""} ${shopifyCustomer.last_name || ""}`
     ).trim();
 
-    const addr = shopifyCustomer.billing_address || shopifyCustomer;
-    const billing_address = {};
-    if (addr.address) billing_address.address = clean(addr.address);
-    if (addr.city) billing_address.city = clean(addr.city);
-    if (addr.state) billing_address.state = clean(addr.state);
-    if (addr.zip) billing_address.zip = clean(addr.zip);
-    if (addr.country) billing_address.country = clean(addr.country);
-    if (addr.phone) billing_address.phone = cleanPhone(addr.phone);
-    billing_address.attention = fullName;
+  const addr = shopifyCustomer.billing_address || shopifyCustomer;
+  const billing_address = {};
+  if (addr.address1) billing_address.address = clean(addr.address1);
+  if (addr.city) billing_address.city = clean(addr.city);
+  if (addr.province) billing_address.state = clean(addr.province);
+  if (addr.zip) billing_address.zip = clean(addr.zip);
+  if (addr.country) billing_address.country = clean(addr.country);
+  if (addr.phone) billing_address.phone = cleanPhone(addr.phone);
+  billing_address.attention = fullName;
 
-    const payload = {
-      contact_name: fullName,
-      contact_type: "customer",
-      email: shopifyCustomer.email,
-      company_name: shopifyCustomer.company_name || fullName,
-      currency_id: shopifyCustomer.currency_id || "6424293000000000101",
-      ...(Object.keys(billing_address).length > 1 && { billing_address }),
-    };
+  const payload = {
+    contact_name: fullName,
+    contact_type: "customer",
+    email: shopifyCustomer.email,
+    company_name: shopifyCustomer.company_name || fullName,
+    currency_id: shopifyCustomer.currency_id || "6424293000000000101",
+    ...(Object.keys(billing_address).length > 1 && { billing_address }),
+  };
 
-    console.log("Zoho Payload:", JSON.stringify(payload, null, 2));
-
-    // Try to create contact
+  try {
     const response = await axios.post(
       "https://www.zohoapis.com/books/v3/contacts",
       payload,
@@ -66,19 +64,21 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
     );
 
     console.log(
-      `Zoho Customer ${response.data.contact.contact_id} synced (created).`
+      `Zoho Customer ${response.data.contact.contact_id} synced (created/updated).`
     );
     return response.data.contact;
   } catch (err) {
-    const message = err.response?.data?.message;
-    if (message?.includes("already exists")) {
-      console.warn("Zoho: Duplicate contact_name. Fetching existing customer.");
+    const errorData = err.response?.data;
 
-      // Fetch existing customer by email
-      const listRes = await axios.get(
+    if (errorData?.code === 3062) {
+      console.log("Zoho: Duplicate contact_name. Fetching existing customer.");
+
+      const lookup = await axios.get(
         "https://www.zohoapis.com/books/v3/contacts",
         {
-          headers: { Authorization: `Bearer ${token}` },
+          headers: {
+            Authorization: `Bearer ${token}`,
+          },
           params: {
             organization_id: ZOHO_ORG_ID,
             email: shopifyCustomer.email,
@@ -86,13 +86,8 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
         }
       );
 
-      const existing = listRes.data.contacts?.[0];
-      if (existing) {
-        console.log(
-          `Zoho Customer ${existing.contact_id} retrieved (existing).`
-        );
-        return existing;
-      }
+      const existing = lookup.data.contacts?.[0];
+      if (existing) return existing;
 
       throw new Error("Contact exists but could not retrieve it.");
     }
@@ -103,6 +98,8 @@ export const createOrGetCustomer = async (shopifyCustomer) => {
       message: err.message,
     });
 
-    throw new Error(err.message || "Failed to sync customer");
+    throw new Error(
+      err.response?.data?.message || "Failed to sync customer to Zoho"
+    );
   }
 };
