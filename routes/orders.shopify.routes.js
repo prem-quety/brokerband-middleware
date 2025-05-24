@@ -34,53 +34,59 @@ router.post("/order", express.json(), async (req, res) => {
           shopifyCreatedAt: order.created_at,
           shopifyUpdatedAt: order.updated_at,
           rawPayload: order,
-        }
+        },
       },
       { upsert: true, new: true }
     );
-console.log("[Webhook] Raw Shopify line_items:", order.line_items);
+    console.log("[Webhook] Raw Shopify line_items:", order.line_items);
 
-    // 2. Send to SYNNEX
-   const { rawXml, parsed } = await handleNewOrder(order);
-const fullParsed = convert(rawXml, { format: "object" });
+    // 2. Prevent duplicate SYNNEX handling
+    const existing = await SynnexResponse.findOne({ shopifyOrderId: orderId });
+    if (existing) {
+      console.warn(
+        `[Webhook] SynnexResponse already exists for ${orderId}, skipping duplicate.`
+      );
+      return res.status(200).json({
+        status: "skipped",
+        shopifyOrderId: orderId,
+        message: "Order already processed. SYNNEX response already exists.",
+      });
+    }
 
-    const parsedResponse = parsed;
+    // 3. Proceed to SYNNEX only if no existing response
+    const { rawXml, parsed } = await handleNewOrder(order);
+    const fullParsed = convert(rawXml, { format: "object" });
 
-
-    // 4. Log full response
-    console.log("[Webhook] Full SYNNEX response:\n", JSON.stringify(fullParsed, null, 2));
-
-    // 5. Save SYNNEX response safely
-    await SynnexResponse.findOneAndUpdate(
-      { shopifyOrderId: orderId },
-      {
-        $set: {
-          poNumber: parsedResponse.poNumber,
-          customerNumber: parsedResponse.customerNumber,
-          statusCode: parsedResponse.statusCode,
-          rejectionReason: parsedResponse.reason || null,
-          items: parsedResponse.items,
-          rawXml: rawXml,
-          parsed: JSON.parse(JSON.stringify(fullParsed)),
-        }
-      },
-      { upsert: true, new: true }
+    console.log(
+      "[Webhook] Full SYNNEX response:\n",
+      JSON.stringify(fullParsed, null, 2)
     );
+
+    // 4. Save SYNNEX response safely
+    await SynnexResponse.create({
+      shopifyOrderId: orderId,
+      poNumber: parsed.poNumber,
+      customerNumber: parsed.customerNumber,
+      statusCode: parsed.statusCode,
+      rejectionReason: parsed.reason || null,
+      items: parsed.items,
+      rawXml,
+      parsed: fullParsed,
+    });
 
     // 6. Return clean response
     return res.status(200).json({
       status: "success",
       shopifyOrderId: orderId,
       message: "Order forwarded to SYNNEX successfully",
-      synnex: parsedResponse
+      synnex: parsed,
     });
-
   } catch (err) {
     console.error("[Webhook] Error handling order:", err);
     return res.status(500).json({
       status: "error",
       message: "Failed to process order",
-      error: err.message
+      error: err.message,
     });
   }
 });
